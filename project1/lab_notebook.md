@@ -754,6 +754,8 @@ Output:
 0 + 0 with mate mapped to a different chr (mapQ>=5)
 ```
 
+Most reads ***99.87%*** are mapped!
+
 ### Sort and index BAM file
 
 Time:  
@@ -772,8 +774,6 @@ Command:
 Output:
 ```
 ```
-
-Most reads ***99.87%*** are mapped!
 
 ### Visualizing with IGV browser
 
