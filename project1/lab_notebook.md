@@ -335,7 +335,7 @@ Approx 95% complete for amp_res_2.fastq
 Analysis complete for amp_res_2.fastq
 ```
 
-Chicking that this generated some files:
+Checking that this generated some files:
 ```
 alexey@Alexeys-MacBook-Pro:~/PycharmProjects/miniprojects/project1/raw_data$ ls -l
 total 265M
