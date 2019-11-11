@@ -821,3 +821,7 @@ Reading input from my.mpileup
 ```
 
 Also this utilete was run with parametr `--min-var-freq 0.01` and `--min-var-freq 0.0001`, results are identically same.
+
+## 7. Variant effect prediction
+
+![IGV browser with varscan](fig/igv-browser-varscan.png)
