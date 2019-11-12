@@ -795,7 +795,7 @@ Output:
 [mpileup] 1 samples in 1 input files
 ```
 
-### Wunning VarScan
+### Running VarScan
 
 
 Time:  
@@ -820,7 +820,7 @@ Reading input from my.mpileup
 5 variant positions reported (5 SNP, 0 indel)
 ```
 
-Also this utilete was run with parametr `--min-var-freq 0.01` and `--min-var-freq 0.0001`, results are identically same.
+Also this utilete was run with parametr `--min-var-freq 0.01` and `--min-var-freq 0.0001`, results were identical.
 
 ## 7. Variant effect prediction
 
