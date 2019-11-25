@@ -493,15 +493,3 @@ Output:
 
 All work done in file `compare_results.ipynb` with python.
 **Results** are in file `VarScan_results_0_001_with_significance.csv`.
-
-
-
-Time:  
-``
-
-Command:  
-``
-
-Output:
-```
-```
