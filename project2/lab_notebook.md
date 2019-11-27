@@ -356,6 +356,77 @@ Output:
 [main] Real time: 7.100 sec; CPU: 7.035 sec
 ```
 
+### Statictics
+
+Time:  
+`Wed Nov 27 18:43:08 MSK 2019`
+
+Command:  
+`samtools flagstat control_1_alignment_sorted.bam`
+
+Output:  
+```
+256744 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+158 + 0 supplementary
+0 + 0 duplicates
+256658 + 0 mapped (99.97% : N/A)
+0 + 0 paired in sequencing
+0 + 0 read1
+0 + 0 read2
+0 + 0 properly paired (N/A : N/A)
+0 + 0 with itself and mate mapped
+0 + 0 singletons (N/A : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+```
+
+Time:  
+`Wed Nov 27 18:44:07 MSK 2019`
+
+Command:  
+`samtools flagstat control_2_alignment_sorted.bam`
+
+Output:  
+```
+233451 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+124 + 0 supplementary
+0 + 0 duplicates
+233375 + 0 mapped (99.97% : N/A)
+0 + 0 paired in sequencing
+0 + 0 read1
+0 + 0 read2
+0 + 0 properly paired (N/A : N/A)
+0 + 0 with itself and mate mapped
+0 + 0 singletons (N/A : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+```
+
+Time:  
+`Wed Nov 27 18:45:24 MSK 2019`
+
+Command:  
+`samtools flagstat control_3_alignment_sorted.bam`
+
+Output:  
+```
+250184 + 0 in total (QC-passed reads + QC-failed reads)
+0 + 0 secondary
+220 + 0 supplementary
+0 + 0 duplicates
+250108 + 0 mapped (99.97% : N/A)
+0 + 0 paired in sequencing
+0 + 0 read1
+0 + 0 read2
+0 + 0 properly paired (N/A : N/A)
+0 + 0 with itself and mate mapped
+0 + 0 singletons (N/A : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+```
+
 ### Indexing the bam files
 
 Time:  
