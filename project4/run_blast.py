@@ -8,7 +8,7 @@ import csv
 protein_file = 'data/peptides_augustus.aa'
 records = SeqIO.parse(protein_file, format="fasta")
 
-rows = [['protein', 'best_ident', 'best_cov' 'best_e_value', 'hit_id', 'hid_def']]
+rows = [['protein', 'best_ident', 'best_cov', 'best_e_value', 'hit_id', 'hid_def']]
 
 for i, record in enumerate(records):
     print(i, ':', record.id)

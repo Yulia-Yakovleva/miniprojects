@@ -1,4 +1,4 @@
-protein,best_ident,best_covbest_e_value,hit_id,hid_def
+protein,best_ident,best_cov,best_e_value,hit_id,hid_def
 g10513.t1,,,,,
 g10514.t1,,,,,
 g11320.t1,0.115483,0.2765957446808511,0.10085836909871244,sp|A8WVU7.1|,RecName: Full=Chondroitin proteoglycan 1; AltName: Full=Cell junction protein 1; AltName: Full=Cytokinesis protein cej-1; Flags: Precursor [Caenorhabditis briggsae]
