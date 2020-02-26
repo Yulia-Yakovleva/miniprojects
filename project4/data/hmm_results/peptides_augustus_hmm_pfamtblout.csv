@@ -1,0 +1,649 @@
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+Mucin                   19.2   0.00087   2   2.5  12.2    Mucin-like glycoprotein
+CBM_14                  17.6    0.0031   4   3.9   6.3    Chitin binding Peritrophin-A domain
+Toxin_35                14.5     0.024   3   2.7   1.7    Toxin with inhibitor cystine knot ICK or Knottin scaffold
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+Mucin                   19.2   0.00087     1  12.2     53    245     60    218     15    108     Mucin-like glycoprotein
+CBM_14                  17.6    0.0031     3   6.3    326    377    326    371      1     46     Chitin binding Peritrophin-A domain
+Toxin_35                14.5     0.024     3   1.7    395    451    399    443      7     51     Toxin with inhibitor cystine knot ICK or Knottin scaffold
+CBM_14                   4.7        33     4   7.6    405    465    414    452      8     42     Chitin binding Peritrophin-A domain
+CBM_14                   3.0   1.1e+02     2   3.3     47    105     56     99     15     45     Chitin binding Peritrophin-A domain
+Mucin                    1.5   2.6e+02     2   1.2    275    309    290    301     46     57     Mucin-like glycoprotein
+Toxin_35                -1.9   3.2e+03     2   1.5    335    358    339    347     28     36     Toxin with inhibitor cystine knot ICK or Knottin scaffold
+CBM_14                  -2.8   6.8e+03     1   0.3     13     39     14     31     18     35     Chitin binding Peritrophin-A domain
+Toxin_35                -7.1   1.7e+04     1   4.1     53     73     58     64     30     36     Toxin with inhibitor cystine knot ICK or Knottin scaffold
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+TRAPPC9-Trs120          91.9   1.7e-26   4   5.0   0.0    Transport protein Trs120 or TRAPPC9, TRAPP II complex subunit
+TRAPPC-Trs85            11.8      0.08   2   2.4   0.1    ER-Golgi trafficking TRAPP I complex 85 kDa subunit
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+TRAPPC9-Trs120          42.6   1.3e-11     3   0.0    498    951    518    823    551    862     Transport protein Trs120 or TRAPPC9, TRAPP II complex subunit
+TRAPPC9-Trs120          37.5   4.4e-10     1   0.0     53    370     62    331     69    308     Transport protein Trs120 or TRAPPC9, TRAPP II complex subunit
+TRAPPC-Trs85             6.6         3     1   0.0     85    338    229    321    326    376     ER-Golgi trafficking TRAPP I complex 85 kDa subunit
+TRAPPC9-Trs120           2.6        16     4   0.0    985   1098    986   1080   1100   1198     Transport protein Trs120 or TRAPPC9, TRAPP II complex subunit
+TRAPPC9-Trs120           1.5        34     2   0.0    439    491    463    482    467    486     Transport protein Trs120 or TRAPPC9, TRAPP II complex subunit
+TRAPPC-Trs85             2.8        45     2   0.0    341    533    427    492    336    358     ER-Golgi trafficking TRAPP I complex 85 kDa subunit
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+zf-C3HC4_3              26.2   4.8e-06   1   1.3   8.5    Zinc finger, C3HC4 type (RING finger)
+zf-C3HC4_2              26.0   5.5e-06   1   1.5   9.2    Zinc finger, C3HC4 type (RING finger)
+zf-C3HC4                24.5   1.7e-05   1   1.6  10.7    Zinc finger, C3HC4 type (RING finger)
+zf-RING_5               23.2   4.5e-05   1   1.5  10.6    zinc-RING finger domain
+Prok-RING_4             21.8   0.00012   1   1.4   9.4    Prokaryotic RING finger family 4
+zf-RING_UBOX            17.3    0.0032   1   1.8   5.5    RING-type zinc-finger
+zf-rbx1                 16.5    0.0071   1   1.6   6.3    RING-H2 zinc finger domain
+zf-RING_6               15.8    0.0086   1   1.5   3.9    zf-RING of BARD1-type protein
+zf-RING_2               16.2    0.0092   1   1.5   9.8    Ring finger domain
+GIT_CC                  13.1     0.067   6   6.6   0.2    GIT coiled-coil Rho guanine nucleotide exchange factor
+zf-C3HC4_4              10.2       0.6   1   1.8   8.5    zinc finger of C3HC4-type, RING
+zf-C3HC4_5               9.5      0.82   1   1.6   4.8    Zinc finger, C3HC4 type (RING finger)
+DUF5065                  9.0       1.2   2   2.6   5.1    Domain of unknown function (DUF5065)
+Ribosomal_L37e           8.2       2.6   1   1.5   5.4    Ribosomal protein L37e
+zf-RING_4                7.2       3.9   1   1.8   6.6    RING/Ubox like zinc-binding domain
+DZR                      7.3       4.4   1   1.6   6.4    Double zinc ribbon
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+zf-C3HC4_3              25.5   8.1e-06     1   8.5    923    971    926    967      4     45     Zinc finger, C3HC4 type (RING finger)
+zf-C3HC4_2              25.1     1e-05     1   9.2    926    965    927    965      2     40     Zinc finger, C3HC4 type (RING finger)
+zf-C3HC4                23.5   3.5e-05     1  10.7    927    965    927    965      1     41     Zinc finger, C3HC4 type (RING finger)
+zf-RING_5               22.2   9.5e-05     1  10.6    926    967    927    966      2     43     zinc-RING finger domain
+Prok-RING_4             21.0   0.00021     1   9.4    927    975    927    971      1     42     Prokaryotic RING finger family 4
+zf-RING_UBOX            15.9    0.0094     1   5.5    924    963    930    963      4     38     RING-type zinc-finger
+zf-rbx1                 15.3     0.016     1   6.3    917    966    926    965     13     54     RING-H2 zinc finger domain
+zf-RING_2               15.3     0.017     1   9.8    925    966    927    965      3     43     Ring finger domain
+zf-RING_6               14.9     0.017     1   3.9    918    974    922    965      5     46     zf-RING of BARD1-type protein
+GIT_CC                  13.1     0.067     3   0.2    482    518    487    513     33     59     GIT coiled-coil Rho guanine nucleotide exchange factor
+DUF5065                 10.2      0.54     2   0.9    722    808    743    797     51    107     Domain of unknown function (DUF5065)
+zf-C3HC4_4               8.9       1.6     1   8.5    927    965    927    965      1     42     zinc finger of C3HC4-type, RING
+zf-C3HC4_5               8.4       1.8     1   4.8    923    967    940    964     23     47     Zinc finger, C3HC4 type (RING finger)
+Ribosomal_L37e           7.0       5.9     1   5.4    939    977    943    966     15     38     Ribosomal protein L37e
+zf-RING_4                5.9        10     1   6.6    925    970    938    966     16     44     RING/Ubox like zinc-binding domain
+DZR                      6.1        10     1   6.4    918    973    927    965     15     48     Double zinc ribbon
+GIT_CC                   4.4        37     4   2.9    617    695    639    688     17     59     GIT coiled-coil Rho guanine nucleotide exchange factor
+GIT_CC                   1.3   3.3e+02     2   0.2    404    458    421    456     29     64     GIT coiled-coil Rho guanine nucleotide exchange factor
+GIT_CC                  -1.3   2.2e+03     6   0.1    883    902    886    896     55     65     GIT coiled-coil Rho guanine nucleotide exchange factor
+GIT_CC                  -1.7   2.9e+03     1   0.7    172    202    176    194     40     58     GIT coiled-coil Rho guanine nucleotide exchange factor
+GIT_CC                  -1.7   2.9e+03     5   0.7    720    768    744    759     32     47     GIT coiled-coil Rho guanine nucleotide exchange factor
+DUF5065                 -2.4     4e+03     1   0.2    381    494    387    428     30     69     Domain of unknown function (DUF5065)
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+CBM_14                  28.2   1.5e-06   1   1.3   5.8    Chitin binding Peritrophin-A domain
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+CBM_14                  27.5   2.4e-06     1   5.8     77    131     81    131      4     53     Chitin binding Peritrophin-A domain
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+MARVEL                  25.6   9.5e-06   3   3.8   5.5    Membrane-associating domain
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+MARVEL                  25.6   9.5e-06     1   5.5    144    295    148    294      5    143     Membrane-associating domain
+MARVEL                   0.7   4.6e+02     2  10.1    321    422    323    410     17     98     Membrane-associating domain
+MARVEL                  -1.3   1.9e+03     3   0.1    471    509    487    506     83    102     Membrane-associating domain
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+CBM_14                  42.7   4.4e-11   1   1.3   4.2    Chitin binding Peritrophin-A domain
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+CBM_14                  42.1   6.9e-11     1   4.2     69    123     73    123      4     53     Chitin binding Peritrophin-A domain
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+CBM_14                  38.7   7.8e-10   1   1.4   5.0    Chitin binding Peritrophin-A domain
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+CBM_14                  38.0   1.3e-09     1   5.0     77    133     81    133      4     53     Chitin binding Peritrophin-A domain
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+CBM_14                  42.2   6.1e-11   1   1.4   5.0    Chitin binding Peritrophin-A domain
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+CBM_14                  41.5     1e-10     1   5.0     69    123     73    123      4     53     Chitin binding Peritrophin-A domain
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+Vps51                   87.8   3.5e-25   2   3.2   5.2    Vps51/Vps67
+Sec5                    66.3   2.7e-18   2   1.9   4.0    Exocyst complex component Sec5
+Vps54_N                 39.4   3.9e-10   3   2.3   6.9    Vacuolar-sorting protein 54, of GARP complex
+Dor1                    38.6   4.5e-10   1   1.4  10.7    Dor1-like family
+COG2                    29.0   8.9e-07   2   2.7   3.6    COG (conserved oligomeric Golgi) complex component, COG2
+Vps53_N                 23.0   3.1e-05   1   1.6   5.6    Vps53-like, N-terminal
+COG5                    22.2   0.00011   2   2.6   1.9    Golgi transport complex subunit 5
+DUF4366                 16.6    0.0058   1   1.7   0.2    Domain of unknown function (DUF4366)
+CENP-F_leu_zip          14.7     0.022   1   1.9   3.9    Leucine-rich repeats of kinetochore protein Cenp-F/LEK1
+MGC-24                  12.1      0.18   1   2.1   8.1    Multi-glycosylated core protein 24 (MGC-24), sialomucin
+Sec8_exocyst            11.3      0.23   2   2.4   5.6    Sec8 exocyst complex component specific domain
+TF_AP-2                 10.1      0.54   3   3.2   9.1    Transcription factor AP-2
+Resolvase                9.5      0.96   2   2.3   5.5    Resolvase, N terminal domain
+BLOC1_2                  8.6       2.1   3   3.1   7.7    Biogenesis of lysosome-related organelles complex-1 subunit 2
+DUF948                   8.4       2.4   4   3.5   5.0    Bacterial protein of unknown function (DUF948)
+Lin-8                    7.4       2.7   2   2.4   8.1    Ras-mediated vulval-induction antagonist
+Mucin                    7.0       5.2   2   2.4  25.8    Mucin-like glycoprotein
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+Vps51                   84.7   3.2e-24     1   2.2     10     96     11     94      2     85     Vps51/Vps67
+Sec5                    66.3   2.7e-18     1   4.0     48    217     49    208      2    175     Exocyst complex component Sec5
+Vps54_N                 39.4   3.9e-10     1   6.9     11    197     14    188     12    188     Vacuolar-sorting protein 54, of GARP complex
+Dor1                    37.8   8.4e-10     1  10.7     23    238     33    202     12    177     Dor1-like family
+COG2                    28.6   1.1e-06     1   0.8      6    138     13    125     11    120     COG (conserved oligomeric Golgi) complex component, COG2
+Vps53_N                 21.7   7.6e-05     1   5.6     13    210     22    188     11    177     Vps53-like, N-terminal
+COG5                    22.2   0.00011     1   1.9      9    134     13    134      6    132     Golgi transport complex subunit 5
+DUF4366                 15.2     0.015     1   0.2    741    834    771    832     94    144     Domain of unknown function (DUF4366)
+CENP-F_leu_zip          13.1      0.07     1   3.9     22    130     36    124     18    109     Leucine-rich repeats of kinetochore protein Cenp-F/LEK1
+TF_AP-2                 11.9      0.16     1   1.4     26    127     43    120     86    163     Transcription factor AP-2
+Sec8_exocyst            11.2      0.24     1   3.1     33    137     38    135     43    140     Sec8 exocyst complex component specific domain
+Resolvase               11.3      0.25     2   1.2    282    397    288    388     19    130     Resolvase, N terminal domain
+MGC-24                  10.1      0.75     1   8.1    705    831    749    817     54    123     Multi-glycosylated core protein 24 (MGC-24), sialomucin
+BLOC1_2                  9.3       1.3     1   3.0     28    104     34    101     11     75     Biogenesis of lysosome-related organelles complex-1 subunit 2
+Lin-8                    6.6       4.6     1   1.1     16    125     36    105    177    246     Ras-mediated vulval-induction antagonist
+DUF948                   6.9       6.9     2   0.2     53    120     64    102     30     72     Bacterial protein of unknown function (DUF948)
+DUF948                   6.8       7.6     1   0.4     38    105     64    101     30     71     Bacterial protein of unknown function (DUF948)
+Lin-8                    4.1        28     2   0.9    690    804    713    799    193    252     Ras-mediated vulval-induction antagonist
+Mucin                    4.5        30     2  24.5    720    809    735    801     26     92     Mucin-like glycoprotein
+Vps51                    2.0   2.1e+02     2   0.1    396    434    408    433     21     46     Vps51/Vps67
+TF_AP-2                  0.4   5.3e+02     3   0.2    527    624    537    604     52    117     Transcription factor AP-2
+Mucin                    0.4   5.5e+02     1   0.0     58    124     88    120     84    116     Mucin-like glycoprotein
+DUF948                   0.8   5.6e+02     3   0.0    366    425    375    406     35     67     Bacterial protein of unknown function (DUF948)
+TF_AP-2                  0.1   6.1e+02     2   0.1    136    209    159    207    125    172     Transcription factor AP-2
+Vps54_N                 -2.1   1.7e+03     2   0.1    294    396    315    365    108    152     Vacuolar-sorting protein 54, of GARP complex
+BLOC1_2                 -1.2   2.4e+03     2   0.0    293    346    330    344     78     92     Biogenesis of lysosome-related organelles complex-1 subunit 2
+Vps54_N                 -2.6   2.5e+03     3   0.0    375    434    403    424     36    179     Vacuolar-sorting protein 54, of GARP complex
+Sec8_exocyst            -2.1     3e+03     2   0.0    154    210    162    200     41     79     Sec8 exocyst complex component specific domain
+DUF948                  -2.3   5.1e+03     4   0.1    566    600    573    595     24     46     Bacterial protein of unknown function (DUF948)
+COG5                    -2.8   6.1e+03     2   0.1    154    199    156    184     95    123     Golgi transport complex subunit 5
+COG2                    -3.0   6.7e+03     2   0.1    567    612    573    600     81    108     COG (conserved oligomeric Golgi) complex component, COG2
+Sec5                    -3.5   7.2e+03     2   0.0    365    420    370    394     17     41     Exocyst complex component Sec5
+BLOC1_2                 -2.9   8.3e+03     3   0.1    860    899    864    889     27     52     Biogenesis of lysosome-related organelles complex-1 subunit 2
+Resolvase               -3.4   8.9e+03     1   0.2     38     98     64     84    109    129     Resolvase, N terminal domain
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+Calsarcin               12.5     0.071   6   5.0  13.5    Calcineurin-binding protein (Calsarcin)
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+Calsarcin                5.0        14     3   0.6     26     64     40     56    158    174     Calcineurin-binding protein (Calsarcin)
+Calsarcin                5.0        14     5   0.4     57     92     70     86    158    174     Calcineurin-binding protein (Calsarcin)
+Calsarcin                4.9        15     6   0.1     77    117     81    102    159    180     Calcineurin-binding protein (Calsarcin)
+Calsarcin                4.3        23     4   0.3     47     78     52     70    160    178     Calcineurin-binding protein (Calsarcin)
+Calsarcin                3.6        35     2   0.6     17     45     21     40    159    178     Calcineurin-binding protein (Calsarcin)
+Calsarcin                2.9        58     1   0.3      1     23      2     20    160    178     Calcineurin-binding protein (Calsarcin)
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+Calsarcin               11.7      0.13   5   4.1   9.5    Calcineurin-binding protein (Calsarcin)
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+Calsarcin                5.0        13     5   0.1     57     97     61     82    159    180     Calcineurin-binding protein (Calsarcin)
+Calsarcin                4.8        16     3   1.0     24     62     35     50    163    178     Calcineurin-binding protein (Calsarcin)
+Calsarcin                4.7        17     2   0.7      8     42     20     36    158    174     Calcineurin-binding protein (Calsarcin)
+Calsarcin                4.2        24     4   0.1     46     72     51     70    159    178     Calcineurin-binding protein (Calsarcin)
+Calsarcin                3.1        50     1   0.2      1     23      2     20    160    178     Calcineurin-binding protein (Calsarcin)
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+Glyco_hydro_31         145.0   3.5e-42   1   1.4   1.2    Glycosyl hydrolases family 31
+Roc                     12.8     0.098   2   1.9   0.2    Ras of Complex, Roc, domain of DAPkinase
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+Glyco_hydro_31         144.0   7.2e-42     1   1.2    428    844    440    834     39    421     Glycosyl hydrolases family 31
+Roc                     11.1      0.32     1   0.0      7     84     20     76     51    105     Ras of Complex, Roc, domain of DAPkinase
+Roc                     -2.8   6.8e+03     2   0.0    365    408    367    397     10     40     Ras of Complex, Roc, domain of DAPkinase
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+EF-hand_7               54.5   1.1e-14   2   2.3   1.1    EF-hand domain pair
+EF-hand_1               51.3   3.1e-14   4   4.1   2.8    EF hand
+EF-hand_6               51.3   3.7e-14   3   3.5   6.5    EF-hand domain
+EF-hand_5               27.5   1.4e-06   2   2.7   2.7    EF hand
+EF-hand_8               24.5   1.6e-05   4   4.0   2.6    EF-hand domain pair
+UPF0154                 21.5   0.00016   2   2.4   0.0    Uncharacterised protein family (UPF0154)
+SurA_N_2                17.9     0.002   2   2.4   0.7    SurA N-terminal domain
+EF-hand_9               16.1      0.01   2   2.3   0.0    EF-hand domain
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+EF-hand_6               27.8   1.3e-06     1   1.0     28     57     28     57      1     31     EF-hand domain
+EF-hand_1               26.4   2.7e-06     1   1.7     28     56     28     55      1     28     EF hand
+EF-hand_7               27.1     4e-06     2   0.0     95    158     97    139      3     51     EF-hand domain pair
+EF-hand_7               26.3   7.4e-06     1   0.3     26     73     27     70      2     51     EF-hand domain pair
+EF-hand_6               23.1     4e-05     2   0.1     97    127    100    123      4     27     EF-hand domain
+EF-hand_1               19.7   0.00039     2   0.0     97    125     99    123      3     27     EF hand
+EF-hand_5               19.0   0.00067     1   1.3     29     54     30     50      2     22     EF hand
+EF-hand_8               14.8     0.017     2   0.3     40     88     41     71      2     33     EF-hand domain pair
+SurA_N_2                11.7      0.17     1   0.3      4    122      9     74     59    122     SurA N-terminal domain
+UPF0154                 10.4      0.47     1   0.0     32     73     44     70     30     56     Uncharacterised protein family (UPF0154)
+UPF0154                  8.8       1.5     2   0.0     96    141    113    139     30     56     Uncharacterised protein family (UPF0154)
+EF-hand_9                8.7         2     2   0.0     99    158    101    133      3     36     EF-hand domain
+EF-hand_8                7.9       2.5     1   0.2     27     51     27     49     25     47     EF-hand domain pair
+EF-hand_5                7.2       3.7     2   0.0     99    122    101    115      3     18     EF hand
+EF-hand_8                6.0       9.5     3   0.1     75    124     94    116     24     45     EF-hand domain pair
+EF-hand_9                5.4        21     1   0.0     30     79     32     71      3     43     EF-hand domain
+SurA_N_2                 4.7        24     2   0.0    110    157    115    147     96    135     SurA N-terminal domain
+EF-hand_6                1.9   2.6e+02     3   0.0    126    160    128    139     16     27     EF-hand domain
+EF-hand_1                0.4   5.7e+02     3   0.0    127    141    128    139     16     27     EF hand
+EF-hand_8                0.2   6.1e+02     4   0.0    126    154    127    149      3     28     EF-hand domain pair
+EF-hand_1               -0.6   1.2e+03     4   0.0    144    160    145    159     14     28     EF hand
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+Astacin                109.6   1.4e-31   2   2.1   0.0    Astacin (Peptidase family M12A)
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+Astacin                 70.8     1e-19     2   0.0    149    280    156    279     67    190     Astacin (Peptidase family M12A)
+Astacin                 36.9   2.5e-09     1   0.0     71    145     72    138      2     68     Astacin (Peptidase family M12A)
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+Trypsin                 77.3   1.3e-21   2   2.1   2.3    Trypsin
+Ldl_recept_a            57.0   1.5e-15   5   6.3  62.6    Low-density lipoprotein receptor domain class A
+zf-CCHC                 51.4   5.6e-14   4   4.6  28.4    Zinc knuckle
+SRCR_2                  24.2   3.5e-05   2   2.7   0.3    Scavenger receptor cysteine-rich domain
+zf-CCHC_3               19.5   0.00065   3   3.0  14.3    Zinc knuckle
+zf-CCHC_5               11.9      0.13   2   3.0   7.8    GAG-polyprotein viral zinc-finger
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+Trypsin                 77.1   1.6e-21     2   0.0    645    889    648    889      7    221     Trypsin
+zf-CCHC                 31.6     1e-07     2   2.9     39     56     40     56      2     18     Zinc knuckle
+zf-CCHC                 30.6   2.1e-07     1   3.6     10     27     10     27      1     18     Zinc knuckle
+Ldl_recept_a            25.8   8.6e-06     2   3.2    355    400    378    400     15     37     Low-density lipoprotein receptor domain class A
+Ldl_recept_a            24.4   2.3e-05     5  13.6    466    505    467    505      2     37     Low-density lipoprotein receptor domain class A
+SRCR_2                  20.5   0.00048     1   0.0    549    629    556    623     27     93     Scavenger receptor cysteine-rich domain
+Ldl_recept_a            19.0    0.0011     1   9.2    313    352    318    352      5     37     Low-density lipoprotein receptor domain class A
+zf-CCHC_3               15.5     0.012     1   2.4      7     32      9     30      4     27     Zinc knuckle
+zf-CCHC_3               12.0      0.14     2   0.3     35     69     37     59      3     25     Zinc knuckle
+zf-CCHC_5                8.3       1.7     2   1.4     38     57     41     55      5     19     GAG-polyprotein viral zinc-finger
+zf-CCHC_5                5.9       9.4     1   0.6      9     28     12     25      5     18     GAG-polyprotein viral zinc-finger
+Ldl_recept_a             5.5        19     4   0.4    432    464    436    464      9     37     Low-density lipoprotein receptor domain class A
+zf-CCHC                  3.9        59     3   1.6     95    103     95    102      1      8     Zinc knuckle
+Ldl_recept_a             2.3   1.8e+02     3   8.9    401    437    401    437      2     37     Low-density lipoprotein receptor domain class A
+SRCR_2                   0.0   1.2e+03     2   0.1    653    673    655    671      4     20     Scavenger receptor cysteine-rich domain
+Trypsin                 -2.3     3e+03     1   1.4    400    440    415    438    160    188     Trypsin
+zf-CCHC_3               -2.9   6.6e+03     3   0.4     94    117     98    115     18     34     Zinc knuckle
+zf-CCHC                 -2.7   7.1e+03     4   0.2    321    326    321    325      4      8     Zinc knuckle
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+Toxin_TOLIP             11.7      0.22   3   2.3   0.1    Snake toxin and toxin-like protein
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+Toxin_TOLIP             11.7      0.22     2   0.1     95    153    103    131     15     43     Snake toxin and toxin-like protein
+Toxin_TOLIP             -1.4   2.7e+03     1   0.1     46     84     52     82     34     64     Snake toxin and toxin-like protein
+Toxin_TOLIP             -2.8   7.3e+03     3   0.4    171    187    180    187     60     67     Snake toxin and toxin-like protein
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+CBM_14                  44.7     1e-11   1   1.3   5.0    Chitin binding Peritrophin-A domain
+JSRP                    14.1     0.034   1   1.3   0.0    Junctional sarcoplasmic reticulum protein
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+CBM_14                  44.1   1.6e-11     1   5.0     54    108     59    108      5     53     Chitin binding Peritrophin-A domain
+JSRP                    13.4     0.054     1   0.0      1     53      2     47     12     54     Junctional sarcoplasmic reticulum protein
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+CBM_14                  43.2   3.1e-11   1   1.3   5.3    Chitin binding Peritrophin-A domain
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+CBM_14                  42.6   4.8e-11     1   5.3     77    131     81    131      4     53     Chitin binding Peritrophin-A domain
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+CBM_14                  40.9   1.6e-10   1   1.3   5.2    Chitin binding Peritrophin-A domain
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+CBM_14                  40.3   2.5e-10     1   5.2     77    131     81    131      4     53     Chitin binding Peritrophin-A domain
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+MARVEL                  38.9   7.7e-10   1   1.6   5.1    Membrane-associating domain
+DUF2157                 16.6    0.0048   2   2.2   3.9    Predicted membrane protein (DUF2157)
+Bac_export_2            13.7     0.025   1   1.2   0.8    FlhB HrpN YscU SpaS Family
+Arv1                    14.1     0.038   1   1.1   0.3    Arv1-like family
+EpsG                    10.3      0.29   1   1.6   6.0    EpsG family
+DUF2627                  7.5       5.6   3   2.5   8.7    Protein of unknown function (DUF2627)
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+MARVEL                  37.5     2e-09     1   5.1     36    197     39    196      4    143     Membrane-associating domain
+Bac_export_2            13.3     0.032     1   0.8      3    174     46    166     76    197     FlhB HrpN YscU SpaS Family
+Arv1                    13.8     0.045     1   0.3     11    176     91    167    119    191     Arv1-like family
+DUF2157                 11.8      0.14     1   0.1     32    129     40    127     61    123     Predicted membrane protein (DUF2157)
+DUF2627                 11.4      0.35     3   2.0    109    202    146    199     14     63     Protein of unknown function (DUF2627)
+EpsG                     9.0      0.72     1   6.0     94    207    109    202    132    233     EpsG family
+DUF2157                  5.9       9.5     2   0.6    133    200    141    197     67    112     Predicted membrane protein (DUF2157)
+DUF2627                 -1.2     3e+03     2   0.0     82    111     90    103     38     51     Protein of unknown function (DUF2627)
+DUF2627                 -2.7   8.6e+03     1   0.2     40     61     48     60     45     57     Protein of unknown function (DUF2627)
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+CBM_14                  44.2   1.5e-11   1   1.4   6.2    Chitin binding Peritrophin-A domain
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+CBM_14                  43.4   2.6e-11     1   6.2     69    123     73    123      4     53     Chitin binding Peritrophin-A domain
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+CBM_14                  42.6   4.6e-11   1   1.4   4.6    Chitin binding Peritrophin-A domain
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+CBM_14                  42.0   7.5e-11     1   4.6     69    123     73    123      4     53     Chitin binding Peritrophin-A domain
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+CBM_14                  39.7   3.6e-10   1   1.4   4.2    Chitin binding Peritrophin-A domain
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+CBM_14                  39.0   6.3e-10     1   4.2     66    124     74    124      5     53     Chitin binding Peritrophin-A domain
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+SNF2_N                  91.3   4.6e-26   1   1.3   0.3    SNF2 family N-terminal domain
+HARP                    44.4   8.6e-12   1   1.5   0.1    HepA-related protein (HARP)
+ResIII                  33.1   4.6e-08   4   3.4   0.1    Type III restriction enzyme, res subunit
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+SNF2_N                  90.6   7.4e-26     1   0.3    268    596    282    528     59    301     SNF2 family N-terminal domain
+HARP                    43.4   1.8e-11     1   0.1    173    225    173    218      1     46     HepA-related protein (HARP)
+ResIII                  26.5   5.2e-06     2   0.0    251    413    277    412     23    170     Type III restriction enzyme, res subunit
+ResIII                   1.9   1.9e+02     3   0.0    419    519    425    518     65    139     Type III restriction enzyme, res subunit
+ResIII                  -0.7   1.1e+03     4   0.2    526    619    590    617     43     70     Type III restriction enzyme, res subunit
+ResIII                  -2.4     4e+03     1   0.0    174    242    186    218     85    120     Type III restriction enzyme, res subunit
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+Inositol_P             130.1     1e-37   1   1.6   0.0    Inositol monophosphatase family
+MKLP1_Arf_bdg           97.8   3.3e-28   1   1.7   0.0    Arf6-interacting domain of mitotic kinesin-like protein 1
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+Inositol_P             128.8   2.5e-37     1   0.0    452    786    470    753      8    247     Inositol monophosphatase family
+MKLP1_Arf_bdg           96.5   8.4e-28     1   0.0   1183   1287   1185   1285      3    105     Arf6-interacting domain of mitotic kinesin-like protein 1
+# Sequence scores
+# ---------------
+#
+# name                  bits   E-value   n   exp  bias    description
+# ------------------- ------ --------- --- ----- -----    ---------------------
+Clathrin                85.7   2.5e-24   3   3.2   7.6    Region in Clathrin and VPS
+ANAPC4_WD40             17.1    0.0046   1   1.9   0.0    Anaphase-promoting complex subunit 4 WD40 domain
+Vps39_1                 16.2    0.0089   4   3.7   7.4    Vacuolar sorting protein 39 domain 1
+Med25                   15.8      0.01   2   2.5   0.2    Mediator complex subunit 25 PTOV activation and synapsin 2
+DUF3128                 15.2      0.02   1   1.7   0.1    Protein of unknown function (DUF3128)
+WD40                    15.3     0.027   1   2.3   0.0    WD domain, G-beta repeat
+TPR_12                   9.0       1.5   5   4.3   4.5    Tetratricopeptide repeat
+
+# Domain scores
+# -------------
+#
+#  name                 bits   E-value   hit  bias env-st env-en ali-st ali-en hmm-st hmm-en     description
+# ------------------- ------ --------- ----- ----- ------ ------ ------ ------ ------ ------      ---------------------
+Clathrin                81.3   5.5e-23     3   2.3    652    792    654    791      3    142     Region in Clathrin and VPS
+ANAPC4_WD40             15.4     0.016     1   0.0    112    203    117    180      9     71     Anaphase-promoting complex subunit 4 WD40 domain
+DUF3128                 13.9     0.049     1   0.1    822    886    823    873     16     66     Protein of unknown function (DUF3128)
+WD40                    13.0      0.14     1   0.0    136    173    145    172      9     35     WD domain, G-beta repeat
+Vps39_1                 12.3      0.14     4   0.5    698    788    699    765      7     73     Vacuolar sorting protein 39 domain 1
+Med25                   11.1      0.27     2   0.2    680    811    688    794     31    131     Mediator complex subunit 25 PTOV activation and synapsin 2
+Clathrin                 5.0        19     2   0.0    502    644    512    614     14    110     Region in Clathrin and VPS
+TPR_12                   5.0        28     3   0.0    587    613    589    610     47     68     Tetratricopeptide repeat
+Vps39_1                  4.1        53     1   0.0    426    491    436    475     38     81     Vacuolar sorting protein 39 domain 1
+Med25                    1.4   2.6e+02     1   0.0    257    280    264    277    122    135     Mediator complex subunit 25 PTOV activation and synapsin 2
+Vps39_1                  1.2     4e+02     2   0.1    574    635    590    616     42     68     Vacuolar sorting protein 39 domain 1
+Clathrin                 0.2   5.6e+02     1   0.0    432    493    436    467      6     37     Region in Clathrin and VPS
+TPR_12                   0.3     8e+02     1   0.2    446    498    451    483     24     58     Tetratricopeptide repeat
+TPR_12                   0.2   9.1e+02     5   0.0    736    756    741    753     13     25     Tetratricopeptide repeat
+TPR_12                  -0.7   1.6e+03     2   0.0    486    508    489    505     25     41     Tetratricopeptide repeat
+Vps39_1                 -1.2   2.2e+03     3   0.1    607    697    646    686     56     97     Vacuolar sorting protein 39 domain 1
+TPR_12                  -1.2   2.4e+03     4   0.1    628    659    630    656      3     30     Tetratricopeptide repeat
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      peptides_augustus.aa
+# Target file:     /Engels/mrayko/db/pfam/Pfam-A.hmm
+# Option settings: hmmscan -o peptides_augustus_hmm.out --tblout peptides_augustus_hmm_tblout.csv --domtblout peptides_augustus_hmm_domtblout.csv --pfamtblout peptides_augustus_hmm_pfamtblout.csv /Engels/mrayko/db/pfam/Pfam-A.hmm peptides_augustus.aa 
+# Current dir:     /Bmo/jyakovleva/miniprojects/project4
+# Date:            Wed Feb 26 13:40:29 2020
+# [ok]
