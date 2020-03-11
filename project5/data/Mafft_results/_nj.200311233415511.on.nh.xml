@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phyloxml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.phyloxml.org http://www.phyloxml.org/1.10/phyloxml.xsd" xmlns="http://www.phyloxml.org">
+<phylogeny rooted="true" rerootable="true">
+<clade>
+<clade>
+<name>2_FJ713601_1_Homo_sapiens_haplogroup_L1c1d_mitochondrion__complete_genome</name>
+<branch_length>0.0028</branch_length>
+</clade>
+<clade>
+<branch_length>3.0E-4</branch_length>
+<confidence type="unknown">96</confidence>
+<clade>
+<branch_length>4.0E-4</branch_length>
+<confidence type="unknown">95</confidence>
+<clade>
+<name>3_KR135861_1_Homo_sapiens_isolate_SUD103_haplogroup_L2e1_mitochondrion__complete_genome</name>
+<branch_length>0.002</branch_length>
+</clade>
+<clade>
+<name>20_KR135883_1_Homo_sapiens_isolate_MOZ326_haplogroup_L2a1a_mitochondrion__complete_genome</name>
+<branch_length>0.001</branch_length>
+</clade>
+</clade>
+<clade>
+<branch_length>3.0E-4</branch_length>
+<confidence type="unknown">96</confidence>
+<clade>
+<name>1_KM986608_1_Homo_sapiens_isolate_Y453_haplogroup_L4b2a1_mitochondrion__complete_genome</name>
+<branch_length>0.0012</branch_length>
+</clade>
+<clade>
+<branch_length>2.0E-4</branch_length>
+<confidence type="unknown">93</confidence>
+<clade>
+<branch_length>0.0</branch_length>
+<confidence type="unknown">51</confidence>
+<clade>
+<branch_length>2.0E-4</branch_length>
+<confidence type="unknown">80</confidence>
+<clade>
+<branch_length>0.0</branch_length>
+<confidence type="unknown">13</confidence>
+<clade>
+<branch_length>0.0</branch_length>
+<confidence type="unknown">12</confidence>
+<clade>
+<branch_length>1.0E-4</branch_length>
+<confidence type="unknown">22</confidence>
+<clade>
+<branch_length>0.0</branch_length>
+<confidence type="unknown">3</confidence>
+<clade>
+<branch_length>0.0</branch_length>
+<confidence type="unknown">1</confidence>
+<clade>
+<branch_length>0.0</branch_length>
+<confidence type="unknown">1</confidence>
+<clade>
+<branch_length>3.0E-4</branch_length>
+<confidence type="unknown">85</confidence>
+<clade>
+<name>4_JF499899_1_Homo_sapiens_haplogroup_B4d1_mitochondrion__complete_genome</name>
+<branch_length>6.0E-4</branch_length>
+</clade>
+<clade>
+<name>11_KP172434_1_Homo_sapiens_isolate_GranChaco16_haplogroup_B2_mitochondrion__complete_genome</name>
+<branch_length>0.001</branch_length>
+</clade>
+</clade>
+<clade>
+<branch_length>0.0</branch_length>
+<confidence type="unknown">28</confidence>
+<clade>
+<branch_length>2.0E-4</branch_length>
+<confidence type="unknown">84</confidence>
+<clade>
+<name>18_KU521454_1_Homo_sapiens_isolate_PAI17_haplogroup_F3b1_mitochondrion__complete_genome</name>
+<branch_length>9.0E-4</branch_length>
+</clade>
+<clade>
+<name>25_HQ259121_1_Homo_sapiens_haplogroup_F1a3_mitochondrion__complete_genome</name>
+<branch_length>9.0E-4</branch_length>
+</clade>
+</clade>
+<clade>
+<name>37_KY686210_1_Homo_sapiens_haplogroup_R6_mitochondrion__complete_genome</name>
+<branch_length>0.0011</branch_length>
+</clade>
+</clade>
+</clade>
+<clade>
+<branch_length>1.0E-4</branch_length>
+<confidence type="unknown">65</confidence>
+<clade>
+<branch_length>1.0E-4</branch_length>
+<confidence type="unknown">64</confidence>
+<clade>
+<name>24_HM804485_1_Homo_sapiens_haplogroup_U6a7a1_mitochondrion__complete_genome</name>
+<branch_length>9.0E-4</branch_length>
+</clade>
+<clade>
+<name>45_KT698006_1_Homo_sapiens_isolate_52_Sb_haplogroup_U2e2a4_mitochondrion__complete_genome</name>
+<branch_length>0.0014</branch_length>
+</clade>
+</clade>
+<clade>
+<branch_length>5.0E-4</branch_length>
+<confidence type="unknown">100</confidence>
+<clade>
+<name>32_KT698008_1_Homo_sapiens_isolate_57_Sb_haplogroup_K1a4a1_mitochondrion__complete_genome</name>
+<branch_length>7.0E-4</branch_length>
+</clade>
+<clade>
+<name>40_HQ189135_1_Homo_sapiens_haplogroup_K2a3_mitochondrion__complete_genome</name>
+<branch_length>5.0E-4</branch_length>
+</clade>
+</clade>
+</clade>
+</clade>
+<clade>
+<branch_length>1.0E-4</branch_length>
+<confidence type="unknown">40</confidence>
+<clade>
+<name>7_KY303770_1_Homo_sapiens_haplogroup_R2c_mitochondrion__complete_genome</name>
+<branch_length>0.0011</branch_length>
+</clade>
+<clade>
+<branch_length>2.0E-4</branch_length>
+<confidence type="unknown">78</confidence>
+<clade>
+<branch_length>6.0E-4</branch_length>
+<confidence type="unknown">99</confidence>
+<clade>
+<branch_length>2.0E-4</branch_length>
+<confidence type="unknown">100</confidence>
+<clade>
+<name>15_JN419195_1_Homo_sapiens_haplogroup_T2b16_mitochondrion__complete_genome</name>
+<branch_length>2.0E-4</branch_length>
+</clade>
+<clade>
+<name>29_KX440315_1_Homo_sapiens_isolate_JT129_haplogroup_T2a1a_mitochondrion__complete_genome</name>
+<branch_length>3.0E-4</branch_length>
+</clade>
+</clade>
+<clade>
+<name>30_JF837819_1_Homo_sapiens_haplogroup_T1a1_mitochondrion__complete_genome</name>
+<branch_length>4.0E-4</branch_length>
+</clade>
+</clade>
+<clade>
+<branch_length>4.0E-4</branch_length>
+<confidence type="unknown">100</confidence>
+<clade>
+<name>21_HQ914447_1_Homo_sapiens_haplogroup_J1b_mitochondrion__complete_genome</name>
+<branch_length>7.0E-4</branch_length>
+</clade>
+<clade>
+<branch_length>2.0E-4</branch_length>
+<confidence type="unknown">91</confidence>
+<clade>
+<name>23_KX440275_1_Homo_sapiens_isolate_JT89_haplogroup_J2b1_mitochondrion__complete_genome</name>
+<branch_length>5.0E-4</branch_length>
+</clade>
+<clade>
+<name>42_KX440262_1_Homo_sapiens_isolate_JT76_haplogroup_J2a2d1_mitochondrion__complete_genome</name>
+<branch_length>8.0E-4</branch_length>
+</clade>
+</clade>
+</clade>
+</clade>
+</clade>
+</clade>
+<clade>
+<branch_length>2.0E-4</branch_length>
+<confidence type="unknown">80</confidence>
+<clade>
+<branch_length>0.0</branch_length>
+<confidence type="unknown">79</confidence>
+<clade>
+<branch_length>1.0E-4</branch_length>
+<confidence type="unknown">73</confidence>
+<clade>
+<name>13_KY934476_1_Homo_sapiens_haplogroup_H1h1_mitochondrion__complete_genome</name>
+<branch_length>4.0E-4</branch_length>
+</clade>
+<clade>
+<name>14_KY077676_1_Homo_sapiens_haplogroup_H7j1_mitochondrion__complete_genome</name>
+<branch_length>2.0E-4</branch_length>
+</clade>
+</clade>
+<clade>
+<name>16_KP340170_1_Homo_sapiens_isolate_azerE43_haplogroup_HV4a1_mitochondrion__complete_genome</name>
+<branch_length>5.0E-4</branch_length>
+</clade>
+</clade>
+<clade>
+<branch_length>3.0E-4</branch_length>
+<confidence type="unknown">98</confidence>
+<clade>
+<name>27_KY496869_1_Homo_sapiens_isolate_MP_13_haplogroup_V_mitochondrion__complete_genome</name>
+<branch_length>4.0E-4</branch_length>
+</clade>
+<clade>
+<name>33_JF343123_1_Homo_sapiens_haplogroup_V3b1_mitochondrion__complete_genome</name>
+<branch_length>3.0E-4</branch_length>
+</clade>
+</clade>
+</clade>
+</clade>
+<clade>
+<branch_length>0.0</branch_length>
+<confidence type="unknown">22</confidence>
+<clade>
+<branch_length>9.0E-4</branch_length>
+<confidence type="unknown">100</confidence>
+<clade>
+<name>34_KU521491_1_Homo_sapiens_isolate_KK13_haplogroup_Y2a1_mitochondrion__complete_genome</name>
+<branch_length>1.0E-4</branch_length>
+</clade>
+<clade>
+<name>41_KU521494_1_Homo_sapiens_isolate_MND64_haplogroup_Y2a1_mitochondrion__complete_genome</name>
+<branch_length>0.0</branch_length>
+</clade>
+</clade>
+<clade>
+<name>38_JN084084_1_Homo_sapiens_haplogroup_N9a10_mitochondrion__complete_genome</name>
+<branch_length>9.0E-4</branch_length>
+</clade>
+</clade>
+</clade>
+<clade>
+<branch_length>6.0E-4</branch_length>
+<confidence type="unknown">100</confidence>
+<clade>
+<name>35_JQ247408_1_Homo_sapiens_haplogroup_A2f1a_mitochondrion__complete_genome</name>
+<branch_length>0.001</branch_length>
+</clade>
+<clade>
+<name>43_KX459697_1_Homo_sapiens_haplogroup_A4-A200G_mitochondrion__complete_genome</name>
+<branch_length>3.0E-4</branch_length>
+</clade>
+</clade>
+</clade>
+<clade>
+<branch_length>0.0</branch_length>
+<confidence type="unknown">28</confidence>
+<clade>
+<branch_length>1.0E-4</branch_length>
+<confidence type="unknown">57</confidence>
+<clade>
+<branch_length>3.0E-4</branch_length>
+<confidence type="unknown">95</confidence>
+<clade>
+<name>9_HM448049_1_Homo_sapiens_haplogroup_X2d_mitochondrion__complete_genome</name>
+<branch_length>7.0E-4</branch_length>
+</clade>
+<clade>
+<name>44_HM453712_1_Homo_sapiens_haplogroup_X2B_mitochondrion__complete_genome</name>
+<branch_length>4.0E-4</branch_length>
+</clade>
+</clade>
+<clade>
+<branch_length>8.0E-4</branch_length>
+<confidence type="unknown">100</confidence>
+<clade>
+<name>26_KY934478_1_Homo_sapiens_haplogroup_W6_mitochondrion__complete_genome</name>
+<branch_length>4.0E-4</branch_length>
+</clade>
+<clade>
+<name>28_KU508374_1_Homo_sapiens_haplogroup_W1c_mitochondrion__complete_genome</name>
+<branch_length>3.0E-4</branch_length>
+</clade>
+</clade>
+</clade>
+<clade>
+<branch_length>4.0E-4</branch_length>
+<confidence type="unknown">98</confidence>
+<clade>
+<branch_length>4.0E-4</branch_length>
+<confidence type="unknown">100</confidence>
+<clade>
+<branch_length>0.0</branch_length>
+<confidence type="unknown">55</confidence>
+<clade>
+<name>8_KY369152_2_Homo_sapiens_haplogroup_I4a_mitochondrion__complete_genome</name>
+<branch_length>4.0E-4</branch_length>
+</clade>
+<clade>
+<name>39_KY348642_1_Homo_sapiens_haplogroup_I1a1a3_mitochondrion__complete_genome</name>
+<branch_length>8.0E-4</branch_length>
+</clade>
+</clade>
+<clade>
+<name>22_GU590993_1_Homo_sapiens_haplogroup_I3_mitochondrion__complete_genome</name>
+<branch_length>4.0E-4</branch_length>
+</clade>
+</clade>
+<clade>
+<name>10_KM986616_1_Homo_sapiens_isolate_Y488_haplogroup_N1a1a3_mitochondrion__complete_genome</name>
+<branch_length>9.0E-4</branch_length>
+</clade>
+</clade>
+</clade>
+</clade>
+<clade>
+<name>31_KT819263_1_Homo_sapiens_isolate_Fig18_haplogroup_L3e5a1_mitochondrion__complete_genome</name>
+<branch_length>8.0E-4</branch_length>
+</clade>
+</clade>
+<clade>
+<branch_length>2.0E-4</branch_length>
+<confidence type="unknown">89</confidence>
+<clade>
+<branch_length>1.0E-4</branch_length>
+<confidence type="unknown">53</confidence>
+<clade>
+<name>5_KM986625_1_Homo_sapiens_isolate_Y539_haplogroup_M23_mitochondrion__complete_genome</name>
+<branch_length>0.0011</branch_length>
+</clade>
+<clade>
+<branch_length>6.0E-4</branch_length>
+<confidence type="unknown">100</confidence>
+<clade>
+<name>12_JF811749_1_Homo_sapiens_haplogroup_C4a1_mitochondrion__complete_genome</name>
+<branch_length>6.0E-4</branch_length>
+</clade>
+<clade>
+<name>19_KP017255_1_Homo_sapiens_isolate_CH2D01_20_haplogroup_C1d3_mitochondrion__complete_genome</name>
+<branch_length>6.0E-4</branch_length>
+</clade>
+</clade>
+</clade>
+<clade>
+<branch_length>1.0E-4</branch_length>
+<confidence type="unknown">80</confidence>
+<clade>
+<branch_length>3.0E-4</branch_length>
+<confidence type="unknown">95</confidence>
+<clade>
+<name>6_KP172432_1_Homo_sapiens_isolate_GranChaco561_haplogroup_D1_mitochondrion__complete_genome</name>
+<branch_length>8.0E-4</branch_length>
+</clade>
+<clade>
+<name>17_JN084079_1_Homo_sapiens_haplogroup_D4e1a1_mitochondrion__complete_genome</name>
+<branch_length>6.0E-4</branch_length>
+</clade>
+</clade>
+<clade>
+<name>36_KY686209_1_Homo_sapiens_haplogroup_M60_mitochondrion__complete_genome</name>
+<branch_length>8.0E-4</branch_length>
+</clade>
+</clade>
+</clade>
+</clade>
+</clade>
+</clade>
+</clade>
+</phylogeny>
+
+</phyloxml>
