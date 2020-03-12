@@ -65,12 +65,8 @@ Tree was constructed with NJ method and Jukes-Cantor substitution model.
 Results are also available by [link](https://mafft.cbrc.jp/alignment/server/spool/_out.200311233013743OCb92XF7BjZWQxohNvn0Ulsfnormal.html).
 
 
-Time:  
-``
+### 3. Add five Neanderthal samples (click here for data) and three Denisovan samples (click here for data) to the set of Homo sapiens samples and construct the resulting 
 
-Command:  
-``
-
-Output:
-```
-```
+Also web-varsion of MAFFT was used.
+Results are in `Mafft_results_with_Nean_and_Den`
+Results are also available by [link](https://mafft.cbrc.jp/alignment/server/spool/_ho.200312231855720Ro2KFAN4zI6edYBjktlflsfnormal.html).
