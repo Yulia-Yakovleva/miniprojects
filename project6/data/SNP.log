@@ -1,0 +1,33 @@
+PLINK v1.90b6.16 64-bit (19 Feb 2020)
+Options in effect:
+  --23file SNP_raw_v4_Full_20170514175358.txt
+  --out SNP
+  --recode vcf
+
+Hostname: Alexeys-MacBook-Pro.local
+Working directory: /Users/alexey/PycharmProjects/miniprojects/project6/data
+Start time: Mon Mar 30 19:52:25 2020
+
+Random number seed: 1585587145
+8192 MB RAM detected; reserving 4096 MB for main workspace.
+--23file: SNP-temporary.bed + SNP-temporary.bim + SNP-temporary.fam written.
+15125 variants with indel calls present.  '--snps-only no-DI' or
+--list-23-indels may be useful here.
+Inferred sex: male.
+610526 variants loaded from .bim file.
+1 person (1 male, 0 females) loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 1 founder and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: 103 het. haploid genotypes present (see SNP.hh ); many commands treat
+these as missing.
+Total genotyping rate is 0.989512.
+610526 variants and 1 person pass filters and QC.
+Note: No phenotypes present.
+--recode vcf to SNP.vcf ... done.
+Warning: At least one VCF allele code violates the official specification;
+other tools may not accept the file.  (Valid codes must either start with a
+'<', only contain characters in {A,C,G,T,N,a,c,g,t,n}, be an isolated '*', or
+represent a breakend.)
+
+End time: Mon Mar 30 19:52:27 2020
