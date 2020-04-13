@@ -1,0 +1,15 @@
+Status	fermentation_0_replicate_1.bam	fermentation_0_replicate_2.bam	fermentation_30_replicate_1.bam	fermentation_30_replicate_2.bam
+Assigned	7291724	7987002	1402168	4975467
+Unassigned_Unmapped	520137	511726	66368	234529
+Unassigned_Read_Type	0	0	0	0
+Unassigned_Singleton	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0
+Unassigned_Chimera	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0
+Unassigned_Duplicate	0	0	0	0
+Unassigned_MultiMapping	1299784	1654167	306538	1180651
+Unassigned_Secondary	0	0	0	0
+Unassigned_NonSplit	0	0	0	0
+Unassigned_NoFeatures	611845	626924	102779	380681
+Unassigned_Overlapping_Length	0	0	0	0
+Unassigned_Ambiguity	26134	30665	2963	11575

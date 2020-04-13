@@ -1,0 +1,229 @@
+
+Your input list contains 49 genes.
+
+These 7 identifier(s) represent valid gene names that either could not be mapped to terms in the current GO slim set or are currently annotated to the root node for the slim set being used: YLR327C YGR079W YBL028C YML018C YLR264C-A YJL108C YJL107C
+
+GO slim terms from the biological process ontology.
+
+TERM	rRNA processing
+GOID	GO:0006364
+NUM_ANNOTATIONS	: 13 of 49 genes (26.53%)
+TOTAL_NUM_ANNOTATIONS	: 356 of 6439 annotated genes (5.53%)
+ANNOTATED_GENES	: YDR449C, YEL026W, YER127W, YGR159C, YHR066W, YHR196W, YJL069C, YLR264W, YMR093W, YNL112W, YNL182C, YOL041C, YOL080C
+
+TERM	ribosomal large subunit biogenesis
+GOID	GO:0042273
+NUM_ANNOTATIONS	: 9 of 49 genes (18.37%)
+TOTAL_NUM_ANNOTATIONS	: 124 of 6439 annotated genes (1.93%)
+ANNOTATED_GENES	: YCR072C, YDL063C, YEL026W, YHR066W, YIR012W, YJL122W, YNL182C, YOL041C, YOL080C
+
+TERM	ribosomal small subunit biogenesis
+GOID	GO:0042274
+NUM_ANNOTATIONS	: 8 of 49 genes (16.33%)
+TOTAL_NUM_ANNOTATIONS	: 148 of 6439 annotated genes (2.30%)
+ANNOTATED_GENES	: YDR449C, YEL026W, YER127W, YGR159C, YHR196W, YJL069C, YLR264W, YMR093W
+
+TERM	ribosome assembly
+GOID	GO:0042255
+NUM_ANNOTATIONS	: 7 of 49 genes (14.29%)
+TOTAL_NUM_ANNOTATIONS	: 80 of 6439 annotated genes (1.24%)
+ANNOTATED_GENES	: YCR072C, YGR159C, YHR066W, YIR012W, YLR264W, YNL182C, YOL080C
+
+TERM	ion transport
+GOID	GO:0006811
+NUM_ANNOTATIONS	: 6 of 49 genes (12.24%)
+TOTAL_NUM_ANNOTATIONS	: 354 of 6439 annotated genes (5.50%)
+ANNOTATED_GENES	: YDR536W, YHR094C, YKL120W, YNL065W, YNR060W, YOR271C
+
+TERM	transcription by RNA polymerase I
+GOID	GO:0006360
+NUM_ANNOTATIONS	: 6 of 49 genes (12.24%)
+TOTAL_NUM_ANNOTATIONS	: 69 of 6439 annotated genes (1.07%)
+ANNOTATED_GENES	: YHR196W, YJL148W, YJR063W, YML043C, YMR093W, YNL248C
+
+TERM	transmembrane transport
+GOID	GO:0055085
+NUM_ANNOTATIONS	: 5 of 49 genes (10.20%)
+TOTAL_NUM_ANNOTATIONS	: 456 of 6439 annotated genes (7.08%)
+ANNOTATED_GENES	: YDR536W, YHR094C, YKL120W, YNL065W, YOR271C
+
+TERM	nucleobase-containing small molecule metabolic process
+GOID	GO:0055086
+NUM_ANNOTATIONS	: 5 of 49 genes (10.20%)
+TOTAL_NUM_ANNOTATIONS	: 224 of 6439 annotated genes (3.48%)
+ANNOTATED_GENES	: YBL039C, YMR300C, YNL141W, YOL136C, YOR360C
+
+TERM	carbohydrate metabolic process
+GOID	GO:0005975
+NUM_ANNOTATIONS	: 4 of 49 genes (8.16%)
+TOTAL_NUM_ANNOTATIONS	: 249 of 6439 annotated genes (3.87%)
+ANNOTATED_GENES	: YBR105C, YER062C, YKR097W, YOL136C
+
+TERM	RNA catabolic process
+GOID	GO:0006401
+NUM_ANNOTATIONS	: 3 of 49 genes (6.12%)
+TOTAL_NUM_ANNOTATIONS	: 162 of 6439 annotated genes (2.52%)
+ANNOTATED_GENES	: YLR264W, YNL112W, YOR359W
+
+TERM	cellular amino acid metabolic process
+GOID	GO:0006520
+NUM_ANNOTATIONS	: 3 of 49 genes (6.12%)
+TOTAL_NUM_ANNOTATIONS	: 222 of 6439 annotated genes (3.45%)
+ANNOTATED_GENES	: YBL039C, YLR180W, YMR300C
+
+TERM	response to chemical
+GOID	GO:0042221
+NUM_ANNOTATIONS	: 3 of 49 genes (6.12%)
+TOTAL_NUM_ANNOTATIONS	: 618 of 6439 annotated genes (9.60%)
+ANNOTATED_GENES	: YKL120W, YLR224W, YNL065W
+
+TERM	DNA-templated transcription, termination
+GOID	GO:0006353
+NUM_ANNOTATIONS	: 2 of 49 genes (4.08%)
+TOTAL_NUM_ANNOTATIONS	: 42 of 6439 annotated genes (0.65%)
+ANNOTATED_GENES	: YJR063W, YNL112W
+
+TERM	DNA-templated transcription, elongation
+GOID	GO:0006354
+NUM_ANNOTATIONS	: 2 of 49 genes (4.08%)
+TOTAL_NUM_ANNOTATIONS	: 107 of 6439 annotated genes (1.66%)
+ANNOTATED_GENES	: YJL148W, YNL248C
+
+TERM	regulation of DNA metabolic process
+GOID	GO:0051052
+NUM_ANNOTATIONS	: 2 of 49 genes (4.08%)
+TOTAL_NUM_ANNOTATIONS	: 96 of 6439 annotated genes (1.49%)
+ANNOTATED_GENES	: YNL182C, YOR359W
+
+TERM	carbohydrate transport
+GOID	GO:0008643
+NUM_ANNOTATIONS	: 2 of 49 genes (4.08%)
+TOTAL_NUM_ANNOTATIONS	: 49 of 6439 annotated genes (0.76%)
+ANNOTATED_GENES	: YDR536W, YHR094C
+
+TERM	mRNA processing
+GOID	GO:0006397
+NUM_ANNOTATIONS	: 2 of 49 genes (4.08%)
+TOTAL_NUM_ANNOTATIONS	: 226 of 6439 annotated genes (3.51%)
+ANNOTATED_GENES	: YEL026W, YGR159C
+
+TERM	transcription by RNA polymerase II
+GOID	GO:0006366
+NUM_ANNOTATIONS	: 2 of 49 genes (4.08%)
+TOTAL_NUM_ANNOTATIONS	: 549 of 6439 annotated genes (8.53%)
+ANNOTATED_GENES	: YJR063W, YNL112W
+
+TERM	amino acid transport
+GOID	GO:0006865
+NUM_ANNOTATIONS	: 2 of 49 genes (4.08%)
+TOTAL_NUM_ANNOTATIONS	: 57 of 6439 annotated genes (0.89%)
+ANNOTATED_GENES	: YNL065W, YOR271C
+
+TERM	proteolysis involved in cellular protein catabolic process
+GOID	GO:0051603
+NUM_ANNOTATIONS	: 2 of 49 genes (4.08%)
+TOTAL_NUM_ANNOTATIONS	: 264 of 6439 annotated genes (4.10%)
+ANNOTATED_GENES	: YBR105C, YLR224W
+
+TERM	DNA-templated transcription, initiation
+GOID	GO:0006352
+NUM_ANNOTATIONS	: 2 of 49 genes (4.08%)
+TOTAL_NUM_ANNOTATIONS	: 83 of 6439 annotated genes (1.29%)
+ANNOTATED_GENES	: YML043C, YNL248C
+
+TERM	tRNA processing
+GOID	GO:0008033
+NUM_ANNOTATIONS	: 2 of 49 genes (4.08%)
+TOTAL_NUM_ANNOTATIONS	: 132 of 6439 annotated genes (2.05%)
+ANNOTATED_GENES	: YOL124C, YPL212C
+
+TERM	lipid metabolic process
+GOID	GO:0006629
+NUM_ANNOTATIONS	: 2 of 49 genes (4.08%)
+TOTAL_NUM_ANNOTATIONS	: 338 of 6439 annotated genes (5.25%)
+ANNOTATED_GENES	: YBL039C, YOL151W
+
+TERM	RNA modification
+GOID	GO:0009451
+NUM_ANNOTATIONS	: 2 of 49 genes (4.08%)
+TOTAL_NUM_ANNOTATIONS	: 180 of 6439 annotated genes (2.80%)
+ANNOTATED_GENES	: YOL124C, YPL212C
+
+TERM	nucleobase-containing compound transport
+GOID	GO:0015931
+NUM_ANNOTATIONS	: 2 of 49 genes (4.08%)
+TOTAL_NUM_ANNOTATIONS	: 190 of 6439 annotated genes (2.95%)
+ANNOTATED_GENES	: YKL120W, YLR264W
+
+TERM	regulation of translation
+GOID	GO:0006417
+NUM_ANNOTATIONS	: 1 of 49 genes (2.04%)
+TOTAL_NUM_ANNOTATIONS	: 194 of 6439 annotated genes (3.01%)
+ANNOTATED_GENES	: YOR359W
+
+TERM	response to osmotic stress
+GOID	GO:0006970
+NUM_ANNOTATIONS	: 1 of 49 genes (2.04%)
+TOTAL_NUM_ANNOTATIONS	: 98 of 6439 annotated genes (1.52%)
+ANNOTATED_GENES	: YER062C
+
+TERM	monocarboxylic acid metabolic process
+GOID	GO:0032787
+NUM_ANNOTATIONS	: 1 of 49 genes (2.04%)
+TOTAL_NUM_ANNOTATIONS	: 170 of 6439 annotated genes (2.64%)
+ANNOTATED_GENES	: YOL136C
+
+TERM	protein targeting
+GOID	GO:0006605
+NUM_ANNOTATIONS	: 1 of 49 genes (2.04%)
+TOTAL_NUM_ANNOTATIONS	: 251 of 6439 annotated genes (3.90%)
+ANNOTATED_GENES	: YBR105C
+
+TERM	tRNA aminoacylation for protein translation
+GOID	GO:0006418
+NUM_ANNOTATIONS	: 1 of 49 genes (2.04%)
+TOTAL_NUM_ANNOTATIONS	: 37 of 6439 annotated genes (0.57%)
+ANNOTATED_GENES	: YDR037W
+
+TERM	RNA splicing
+GOID	GO:0008380
+NUM_ANNOTATIONS	: 1 of 49 genes (2.04%)
+TOTAL_NUM_ANNOTATIONS	: 155 of 6439 annotated genes (2.41%)
+ANNOTATED_GENES	: YEL026W
+
+TERM	DNA replication
+GOID	GO:0006260
+NUM_ANNOTATIONS	: 1 of 49 genes (2.04%)
+TOTAL_NUM_ANNOTATIONS	: 151 of 6439 annotated genes (2.35%)
+ANNOTATED_GENES	: YNL182C
+
+TERM	generation of precursor metabolites and energy
+GOID	GO:0006091
+NUM_ANNOTATIONS	: 1 of 49 genes (2.04%)
+TOTAL_NUM_ANNOTATIONS	: 136 of 6439 annotated genes (2.11%)
+ANNOTATED_GENES	: YOL136C
+
+TERM	cellular ion homeostasis
+GOID	GO:0006873
+NUM_ANNOTATIONS	: 1 of 49 genes (2.04%)
+TOTAL_NUM_ANNOTATIONS	: 160 of 6439 annotated genes (2.48%)
+ANNOTATED_GENES	: YNR060W
+
+TERM	cytoplasmic translation
+GOID	GO:0002181
+NUM_ANNOTATIONS	: 1 of 49 genes (2.04%)
+TOTAL_NUM_ANNOTATIONS	: 205 of 6439 annotated genes (3.18%)
+ANNOTATED_GENES	: YLR264W
+
+TERM	cofactor metabolic process
+GOID	GO:0051186
+NUM_ANNOTATIONS	: 1 of 49 genes (2.04%)
+TOTAL_NUM_ANNOTATIONS	: 199 of 6439 annotated genes (3.09%)
+ANNOTATED_GENES	: YLR180W
+
+TERM	protein modification by small protein conjugation or removal
+GOID	GO:0070647
+NUM_ANNOTATIONS	: 1 of 49 genes (2.04%)
+TOTAL_NUM_ANNOTATIONS	: 222 of 6439 annotated genes (3.45%)
+ANNOTATED_GENES	: YLR224W
+
