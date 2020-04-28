@@ -1,0 +1,7 @@
+# single-end PHRED 33 fastq manifest file for forward reads
+sample-id	absolute-filepath
+calculus	/Users/alexey/PycharmProjects/miniprojects/project8/data/SRX351237_calculus_sra_data.fastq
+bone	/Users/alexey/PycharmProjects/miniprojects/project8/data/SRX351242_bone_sra_data.fastq
+
+
+
