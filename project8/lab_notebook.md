@@ -314,7 +314,7 @@ Time:
 `Tue Apr 28 23:16:20 MSK 2020`
 
 Command:  
-`bedtools intersect -a G12_alignment.bed -b GCA_000238215.1_ASM23821v1_genomic.gff.gz -v > obtained.bed`
+`bedtools intersect -a GCA_000238215.1_ASM23821v1_genomic.gff.gz -b G12_alignment.bed -v > obtained.bed`
 
 Output:
 ```

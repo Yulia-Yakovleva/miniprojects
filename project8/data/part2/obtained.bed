@@ -1,0 +1,656 @@
+CP003191.1	Genbank	gene	85646	85783	.	+	.	ID=gene-BFO_0071;Name=BFO_0071;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0071
+CP003191.1	Genbank	CDS	85646	85783	.	+	0	ID=cds-AEW21467.1;Parent=gene-BFO_0071;Dbxref=NCBI_GP:AEW21467.1;Name=AEW21467.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0071;product=hypothetical protein;protein_id=AEW21467.1;transl_table=11
+CP003191.1	Genbank	pseudogene	87896	88057	.	+	.	ID=gene-BFO_0075;Name=BFO_0075;Note=conserved hypothetical protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_0075;pseudo=true
+CP003191.1	Genbank	gene	88254	88391	.	+	.	ID=gene-BFO_0076;Name=BFO_0076;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0076
+CP003191.1	Genbank	CDS	88254	88391	.	+	0	ID=cds-AEW21746.1;Parent=gene-BFO_0076;Dbxref=NCBI_GP:AEW21746.1;Name=AEW21746.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0076;product=hypothetical protein;protein_id=AEW21746.1;transl_table=11
+CP003191.1	Genbank	gene	94827	94958	.	+	.	ID=gene-BFO_0085;Name=BFO_0085;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0085
+CP003191.1	Genbank	CDS	94827	94958	.	+	0	ID=cds-AEW20663.1;Parent=gene-BFO_0085;Dbxref=NCBI_GP:AEW20663.1;Name=AEW20663.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0085;product=hypothetical protein;protein_id=AEW20663.1;transl_table=11
+CP003191.1	Genbank	gene	106544	107707	.	+	.	ID=gene-BFO_0094;Name=BFO_0094;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0094
+CP003191.1	Genbank	CDS	106544	107707	.	+	0	ID=cds-AEW20630.1;Parent=gene-BFO_0094;Dbxref=NCBI_GP:AEW20630.1;Name=AEW20630.1;Note=identified by match to protein family HMM PF00665;gbkey=CDS;locus_tag=BFO_0094;product=integrase core domain protein;protein_id=AEW20630.1;transl_table=11
+CP003191.1	Genbank	gene	107881	108021	.	+	.	ID=gene-BFO_0095;Name=BFO_0095;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0095
+CP003191.1	Genbank	CDS	107881	108021	.	+	0	ID=cds-AEW21520.1;Parent=gene-BFO_0095;Dbxref=NCBI_GP:AEW21520.1;Name=AEW21520.1;gbkey=CDS;locus_tag=BFO_0095;product=hypothetical protein;protein_id=AEW21520.1;transl_table=11
+CP003191.1	Genbank	gene	119457	119939	.	+	.	ID=gene-BFO_0103;Name=BFO_0103;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0103
+CP003191.1	Genbank	CDS	119457	119939	.	+	0	ID=cds-AEW19738.1;Parent=gene-BFO_0103;Dbxref=NCBI_GP:AEW19738.1;Name=AEW19738.1;gbkey=CDS;locus_tag=BFO_0103;product=hypothetical protein;protein_id=AEW19738.1;transl_table=11
+CP003191.1	Genbank	gene	119936	121180	.	+	.	ID=gene-BFO_0104;Name=BFO_0104;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0104
+CP003191.1	Genbank	CDS	119936	121180	.	+	0	ID=cds-AEW20544.1;Parent=gene-BFO_0104;Dbxref=NCBI_GP:AEW20544.1;Name=AEW20544.1;Note=identified by match to protein family HMM PF00534;gbkey=CDS;locus_tag=BFO_0104;product=glycosyltransferase%2C group 1 family protein;protein_id=AEW20544.1;transl_table=11
+CP003191.1	Genbank	gene	121611	122735	.	+	.	ID=gene-BFO_0105;Name=BFO_0105;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0105
+CP003191.1	Genbank	CDS	121611	122735	.	+	0	ID=cds-AEW21462.1;Parent=gene-BFO_0105;Dbxref=NCBI_GP:AEW21462.1;Name=AEW21462.1;Note=identified by match to protein family HMM PF05147;gbkey=CDS;locus_tag=BFO_0105;product=lanthionine synthetase C-like protein;protein_id=AEW21462.1;transl_table=11
+CP003191.1	Genbank	gene	123961	124857	.	+	.	ID=gene-BFO_0108;Name=BFO_0108;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0108
+CP003191.1	Genbank	CDS	123961	124857	.	+	0	ID=cds-AEW20806.1;Parent=gene-BFO_0108;Dbxref=NCBI_GP:AEW20806.1;Name=AEW20806.1;Note=identified by match to protein family HMM PF08240;gbkey=CDS;locus_tag=BFO_0108;product=GroES-like protein;protein_id=AEW20806.1;transl_table=11
+CP003191.1	Genbank	pseudogene	125074	127296	.	+	.	ID=gene-BFO_0109;Name=BFO_0109;Note=lantibiotic dehydratase%2C C-terminal domain protein%3B this gene contains a frame shift which may be the result of a sequencing error%3B identified by match to protein family HMM PF04737%3B match to protein family HMM PF04738;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_0109;pseudo=true
+CP003191.1	Genbank	pseudogene	127377	128177	.	+	.	ID=gene-BFO_0110;Name=BFO_0110;Note=thiopeptide-type bacteriocin biosynthesis domain protein%3B this gene contains a frame shift which may be the result of a sequencing error%3B identified by match to protein family HMM TIGR03891;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_0110;pseudo=true
+CP003191.1	Genbank	gene	140746	141960	.	-	.	ID=gene-BFO_0122;Name=BFO_0122;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0122
+CP003191.1	Genbank	CDS	140746	141960	.	-	0	ID=cds-AEW22189.1;Parent=gene-BFO_0122;Dbxref=NCBI_GP:AEW22189.1;Name=AEW22189.1;gbkey=CDS;locus_tag=BFO_0122;product=putative lipoprotein;protein_id=AEW22189.1;transl_table=11
+CP003191.1	Genbank	gene	171529	171717	.	-	.	ID=gene-BFO_0150;Name=BFO_0150;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0150
+CP003191.1	Genbank	CDS	171529	171717	.	-	0	ID=cds-AEW22080.1;Parent=gene-BFO_0150;Dbxref=NCBI_GP:AEW22080.1;Name=AEW22080.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0150;product=hypothetical protein;protein_id=AEW22080.1;transl_table=11
+CP003191.1	Genbank	gene	191041	191175	.	+	.	ID=gene-BFO_0163;Name=BFO_0163;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0163
+CP003191.1	Genbank	CDS	191041	191175	.	+	0	ID=cds-AEW21498.1;Parent=gene-BFO_0163;Dbxref=NCBI_GP:AEW21498.1;Name=AEW21498.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0163;product=hypothetical protein;protein_id=AEW21498.1;transl_table=11
+CP003191.1	Genbank	gene	192399	192569	.	-	.	ID=gene-BFO_0164;Name=BFO_0164;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0164
+CP003191.1	Genbank	CDS	192399	192569	.	-	0	ID=cds-AEW21937.1;Parent=gene-BFO_0164;Dbxref=NCBI_GP:AEW21937.1;Name=AEW21937.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0164;product=hypothetical protein;protein_id=AEW21937.1;transl_table=11
+CP003191.1	Genbank	gene	222575	222949	.	+	.	ID=gene-BFO_0194;Name=BFO_0194;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0194
+CP003191.1	Genbank	CDS	222575	222949	.	+	0	ID=cds-AEW20814.1;Parent=gene-BFO_0194;Dbxref=NCBI_GP:AEW20814.1;Name=AEW20814.1;Note=identified by match to protein family HMM TIGR02436;gbkey=CDS;locus_tag=BFO_0194;product=TIGR02436 family protein;protein_id=AEW20814.1;transl_table=11
+CP003191.1	Genbank	gene	274067	275041	.	+	.	ID=gene-BFO_0241;Name=BFO_0241;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0241
+CP003191.1	Genbank	CDS	274067	275041	.	+	0	ID=cds-AEW21517.1;Parent=gene-BFO_0241;Dbxref=NCBI_GP:AEW21517.1;Name=AEW21517.1;gbkey=CDS;locus_tag=BFO_0241;product=hypothetical protein;protein_id=AEW21517.1;transl_table=11
+CP003191.1	Genbank	gene	278338	278523	.	+	.	ID=gene-BFO_0247;Name=BFO_0247;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0247
+CP003191.1	Genbank	CDS	278338	278523	.	+	0	ID=cds-AEW22209.1;Parent=gene-BFO_0247;Dbxref=NCBI_GP:AEW22209.1;Name=AEW22209.1;gbkey=CDS;locus_tag=BFO_0247;product=hypothetical protein;protein_id=AEW22209.1;transl_table=11
+CP003191.1	Genbank	gene	278677	278749	.	+	.	ID=gene-BFO_0248;Name=BFO_0248;gbkey=Gene;gene_biotype=tRNA;locus_tag=BFO_0248
+CP003191.1	Genbank	tRNA	278677	278749	.	+	.	ID=rna-BFO_0248;Parent=gene-BFO_0248;gbkey=tRNA;locus_tag=BFO_0248;product=tRNA-Gly
+CP003191.1	Genbank	exon	278677	278749	.	+	.	ID=exon-BFO_0248-1;Parent=rna-BFO_0248;gbkey=tRNA;locus_tag=BFO_0248;product=tRNA-Gly
+CP003191.1	Genbank	gene	301224	301682	.	+	.	ID=gene-BFO_0274;Name=BFO_0274;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0274
+CP003191.1	Genbank	CDS	301224	301682	.	+	0	ID=cds-AEW20926.1;Parent=gene-BFO_0274;Dbxref=NCBI_GP:AEW20926.1;Name=AEW20926.1;Note=identified by match to protein family HMM TIGR01201;gbkey=CDS;locus_tag=BFO_0274;product=putative DNA-binding protein;protein_id=AEW20926.1;transl_table=11
+CP003191.1	Genbank	gene	360293	360436	.	+	.	ID=gene-BFO_0338;Name=BFO_0338;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0338
+CP003191.1	Genbank	CDS	360293	360436	.	+	0	ID=cds-AEW20594.1;Parent=gene-BFO_0338;Dbxref=NCBI_GP:AEW20594.1;Name=AEW20594.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0338;product=hypothetical protein;protein_id=AEW20594.1;transl_table=11
+CP003191.1	Genbank	gene	364225	366195	.	+	.	ID=gene-BFO_0342;Name=BFO_0342;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0342
+CP003191.1	Genbank	CDS	364225	366195	.	+	0	ID=cds-AEW21952.1;Parent=gene-BFO_0342;Dbxref=NCBI_GP:AEW21952.1;Name=AEW21952.1;gbkey=CDS;locus_tag=BFO_0342;product=hypothetical protein;protein_id=AEW21952.1;transl_table=11
+CP003191.1	Genbank	gene	366296	366430	.	-	.	ID=gene-BFO_0343;Name=BFO_0343;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0343
+CP003191.1	Genbank	CDS	366296	366430	.	-	0	ID=cds-AEW20890.1;Parent=gene-BFO_0343;Dbxref=NCBI_GP:AEW20890.1;Name=AEW20890.1;gbkey=CDS;locus_tag=BFO_0343;product=hypothetical protein;protein_id=AEW20890.1;transl_table=11
+CP003191.1	Genbank	gene	366436	366759	.	+	.	ID=gene-BFO_0344;Name=BFO_0344;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0344
+CP003191.1	Genbank	CDS	366436	366759	.	+	0	ID=cds-AEW20222.1;Parent=gene-BFO_0344;Dbxref=NCBI_GP:AEW20222.1;Name=AEW20222.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0344;product=hypothetical protein;protein_id=AEW20222.1;transl_table=11
+CP003191.1	Genbank	gene	369853	369972	.	+	.	ID=gene-BFO_0348;Name=BFO_0348;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0348
+CP003191.1	Genbank	CDS	369853	369972	.	+	0	ID=cds-AEW22709.1;Parent=gene-BFO_0348;Dbxref=NCBI_GP:AEW22709.1;Name=AEW22709.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0348;product=hypothetical protein;protein_id=AEW22709.1;transl_table=11
+CP003191.1	Genbank	gene	370629	371762	.	+	.	ID=gene-BFO_0349;Name=BFO_0349;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0349
+CP003191.1	Genbank	CDS	370629	371762	.	+	0	ID=cds-AEW19944.1;Parent=gene-BFO_0349;Dbxref=NCBI_GP:AEW19944.1;Name=AEW19944.1;gbkey=CDS;locus_tag=BFO_0349;product=hypothetical protein;protein_id=AEW19944.1;transl_table=11
+CP003191.1	Genbank	pseudogene	371890	372657	.	-	.	ID=gene-BFO_0350;Name=BFO_0350;Note=transposase%2C IS4 family%3B this gene contains a frame shift which may be the result of a sequencing error%3B identified by match to protein family HMM PF01609;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_0350;pseudo=true
+CP003191.1	Genbank	pseudogene	373485	373706	.	-	.	ID=gene-BFO_0352;Name=BFO_0352;Note=conserved hypothetical protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_0352;pseudo=true
+CP003191.1	Genbank	gene	373815	373955	.	+	.	ID=gene-BFO_0353;Name=BFO_0353;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0353
+CP003191.1	Genbank	CDS	373815	373955	.	+	0	ID=cds-AEW21115.1;Parent=gene-BFO_0353;Dbxref=NCBI_GP:AEW21115.1;Name=AEW21115.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0353;product=hypothetical protein;protein_id=AEW21115.1;transl_table=11
+CP003191.1	Genbank	gene	373960	375366	.	+	.	ID=gene-BFO_0354;Name=BFO_0354;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0354
+CP003191.1	Genbank	CDS	373960	375366	.	+	0	ID=cds-AEW21624.1;Parent=gene-BFO_0354;Dbxref=NCBI_GP:AEW21624.1;Name=AEW21624.1;gbkey=CDS;locus_tag=BFO_0354;product=hypothetical protein;protein_id=AEW21624.1;transl_table=11
+CP003191.1	Genbank	gene	376544	377689	.	+	.	ID=gene-BFO_0356;Name=BFO_0356;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0356
+CP003191.1	Genbank	CDS	376544	377689	.	+	0	ID=cds-AEW20270.1;Parent=gene-BFO_0356;Dbxref=NCBI_GP:AEW20270.1;Name=AEW20270.1;gbkey=CDS;locus_tag=BFO_0356;product=hypothetical protein;protein_id=AEW20270.1;transl_table=11
+CP003191.1	Genbank	gene	467088	467222	.	+	.	ID=gene-BFO_0439;Name=BFO_0439;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0439
+CP003191.1	Genbank	CDS	467088	467222	.	+	0	ID=cds-AEW20224.1;Parent=gene-BFO_0439;Dbxref=NCBI_GP:AEW20224.1;Name=AEW20224.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0439;product=hypothetical protein;protein_id=AEW20224.1;transl_table=11
+CP003191.1	Genbank	gene	608734	608853	.	-	.	ID=gene-BFO_0563;Name=BFO_0563;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0563
+CP003191.1	Genbank	CDS	608734	608853	.	-	0	ID=cds-AEW20117.1;Parent=gene-BFO_0563;Dbxref=NCBI_GP:AEW20117.1;Name=AEW20117.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0563;product=hypothetical protein;protein_id=AEW20117.1;transl_table=11
+CP003191.1	Genbank	gene	608964	609116	.	+	.	ID=gene-BFO_0564;Name=BFO_0564;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0564
+CP003191.1	Genbank	CDS	608964	609116	.	+	0	ID=cds-AEW21519.1;Parent=gene-BFO_0564;Dbxref=NCBI_GP:AEW21519.1;Name=AEW21519.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0564;product=hypothetical protein;protein_id=AEW21519.1;transl_table=11
+CP003191.1	Genbank	gene	612091	612222	.	-	.	ID=gene-BFO_0566;Name=BFO_0566;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0566
+CP003191.1	Genbank	CDS	612091	612222	.	-	0	ID=cds-AEW19842.1;Parent=gene-BFO_0566;Dbxref=NCBI_GP:AEW19842.1;Name=AEW19842.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0566;product=hypothetical protein;protein_id=AEW19842.1;transl_table=11
+CP003191.1	Genbank	gene	612895	613044	.	-	.	ID=gene-BFO_0568;Name=BFO_0568;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0568
+CP003191.1	Genbank	CDS	612895	613044	.	-	0	ID=cds-AEW20116.1;Parent=gene-BFO_0568;Dbxref=NCBI_GP:AEW20116.1;Name=AEW20116.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0568;product=hypothetical protein;protein_id=AEW20116.1;transl_table=11
+CP003191.1	Genbank	gene	613019	613168	.	-	.	ID=gene-BFO_0569;Name=BFO_0569;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0569
+CP003191.1	Genbank	CDS	613019	613168	.	-	0	ID=cds-AEW20956.1;Parent=gene-BFO_0569;Dbxref=NCBI_GP:AEW20956.1;Name=AEW20956.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0569;product=hypothetical protein;protein_id=AEW20956.1;transl_table=11
+CP003191.1	Genbank	gene	613143	613301	.	-	.	ID=gene-BFO_0570;Name=BFO_0570;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0570
+CP003191.1	Genbank	CDS	613143	613301	.	-	0	ID=cds-AEW22056.1;Parent=gene-BFO_0570;Dbxref=NCBI_GP:AEW22056.1;Name=AEW22056.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0570;product=hypothetical protein;protein_id=AEW22056.1;transl_table=11
+CP003191.1	Genbank	gene	648811	649032	.	-	.	ID=gene-BFO_0591;Name=BFO_0591;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0591
+CP003191.1	Genbank	CDS	648811	649032	.	-	0	ID=cds-AEW22243.1;Parent=gene-BFO_0591;Dbxref=NCBI_GP:AEW22243.1;Name=AEW22243.1;gbkey=CDS;locus_tag=BFO_0591;product=hypothetical protein;protein_id=AEW22243.1;transl_table=11
+CP003191.1	Genbank	gene	649141	649263	.	+	.	ID=gene-BFO_0592;Name=BFO_0592;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0592
+CP003191.1	Genbank	CDS	649141	649263	.	+	0	ID=cds-AEW20801.1;Parent=gene-BFO_0592;Dbxref=NCBI_GP:AEW20801.1;Name=AEW20801.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0592;product=hypothetical protein;protein_id=AEW20801.1;transl_table=11
+CP003191.1	Genbank	gene	670795	671292	.	+	.	ID=gene-BFO_0623;Name=vsr;gbkey=Gene;gene=vsr;gene_biotype=protein_coding;locus_tag=BFO_0623
+CP003191.1	Genbank	CDS	670795	671292	.	+	0	ID=cds-AEW20494.1;Parent=gene-BFO_0623;Dbxref=NCBI_GP:AEW20494.1;Name=AEW20494.1;Note=identified by match to protein family HMM PF03852%3B match to protein family HMM TIGR00632;gbkey=CDS;gene=vsr;locus_tag=BFO_0623;product=DNA mismatch endonuclease Vsr;protein_id=AEW20494.1;transl_table=11
+CP003191.1	Genbank	gene	671922	672035	.	-	.	ID=gene-BFO_0624;Name=BFO_0624;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0624
+CP003191.1	Genbank	CDS	671922	672035	.	-	0	ID=cds-AEW19887.1;Parent=gene-BFO_0624;Dbxref=NCBI_GP:AEW19887.1;Name=AEW19887.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0624;product=hypothetical protein;protein_id=AEW19887.1;transl_table=11
+CP003191.1	Genbank	gene	672042	674405	.	-	.	ID=gene-BFO_0625;Name=BFO_0625;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0625
+CP003191.1	Genbank	CDS	672042	674405	.	-	0	ID=cds-AEW21539.1;Parent=gene-BFO_0625;Dbxref=NCBI_GP:AEW21539.1;Name=AEW21539.1;gbkey=CDS;locus_tag=BFO_0625;product=hypothetical protein;protein_id=AEW21539.1;transl_table=11
+CP003191.1	Genbank	gene	674402	675409	.	-	.	ID=gene-BFO_0626;Name=BFO_0626;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0626
+CP003191.1	Genbank	CDS	674402	675409	.	-	0	ID=cds-AEW20150.1;Parent=gene-BFO_0626;Dbxref=NCBI_GP:AEW20150.1;Name=AEW20150.1;gbkey=CDS;locus_tag=BFO_0626;product=hypothetical protein;protein_id=AEW20150.1;transl_table=11
+CP003191.1	Genbank	gene	675399	678200	.	-	.	ID=gene-BFO_0627;Name=BFO_0627;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0627
+CP003191.1	Genbank	CDS	675399	678200	.	-	0	ID=cds-AEW22707.1;Parent=gene-BFO_0627;Dbxref=NCBI_GP:AEW22707.1;Name=AEW22707.1;gbkey=CDS;locus_tag=BFO_0627;product=hypothetical protein;protein_id=AEW22707.1;transl_table=11
+CP003191.1	Genbank	gene	678201	679667	.	-	.	ID=gene-BFO_0628;Name=BFO_0628;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0628
+CP003191.1	Genbank	CDS	678201	679667	.	-	0	ID=cds-AEW21784.1;Parent=gene-BFO_0628;Dbxref=NCBI_GP:AEW21784.1;Name=AEW21784.1;gbkey=CDS;locus_tag=BFO_0628;product=ATPase family protein;protein_id=AEW21784.1;transl_table=11
+CP003191.1	Genbank	gene	679674	679823	.	-	.	ID=gene-BFO_0629;Name=BFO_0629;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0629
+CP003191.1	Genbank	CDS	679674	679823	.	-	0	ID=cds-AEW21273.1;Parent=gene-BFO_0629;Dbxref=NCBI_GP:AEW21273.1;Name=AEW21273.1;gbkey=CDS;locus_tag=BFO_0629;product=hypothetical protein;protein_id=AEW21273.1;transl_table=11
+CP003191.1	Genbank	gene	679865	680014	.	-	.	ID=gene-BFO_0630;Name=BFO_0630;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0630
+CP003191.1	Genbank	CDS	679865	680014	.	-	0	ID=cds-AEW21161.1;Parent=gene-BFO_0630;Dbxref=NCBI_GP:AEW21161.1;Name=AEW21161.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0630;product=hypothetical protein;protein_id=AEW21161.1;transl_table=11
+CP003191.1	Genbank	gene	682178	682306	.	+	.	ID=gene-BFO_0632;Name=BFO_0632;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0632
+CP003191.1	Genbank	CDS	682178	682306	.	+	0	ID=cds-AEW20397.1;Parent=gene-BFO_0632;Dbxref=NCBI_GP:AEW20397.1;Name=AEW20397.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0632;product=hypothetical protein;protein_id=AEW20397.1;transl_table=11
+CP003191.1	Genbank	gene	744497	744775	.	+	.	ID=gene-BFO_0691;Name=BFO_0691;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0691
+CP003191.1	Genbank	CDS	744497	744775	.	+	0	ID=cds-AEW21444.1;Parent=gene-BFO_0691;Dbxref=NCBI_GP:AEW21444.1;Name=AEW21444.1;gbkey=CDS;locus_tag=BFO_0691;product=hypothetical protein;protein_id=AEW21444.1;transl_table=11
+CP003191.1	Genbank	gene	748793	750037	.	+	.	ID=gene-BFO_0694;Name=BFO_0694;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0694
+CP003191.1	Genbank	CDS	748793	750037	.	+	0	ID=cds-AEW20459.1;Parent=gene-BFO_0694;Dbxref=NCBI_GP:AEW20459.1;Name=AEW20459.1;Note=identified by match to protein family HMM PF01048;gbkey=CDS;locus_tag=BFO_0694;product=phosphorylase family;protein_id=AEW20459.1;transl_table=11
+CP003191.1	Genbank	gene	822809	822931	.	-	.	ID=gene-BFO_0750;Name=BFO_0750;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0750
+CP003191.1	Genbank	CDS	822809	822931	.	-	0	ID=cds-AEW22391.1;Parent=gene-BFO_0750;Dbxref=NCBI_GP:AEW22391.1;Name=AEW22391.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0750;product=hypothetical protein;protein_id=AEW22391.1;transl_table=11
+CP003191.1	Genbank	gene	822979	823107	.	-	.	ID=gene-BFO_0751;Name=BFO_0751;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0751
+CP003191.1	Genbank	CDS	822979	823107	.	-	0	ID=cds-AEW21740.1;Parent=gene-BFO_0751;Dbxref=NCBI_GP:AEW21740.1;Name=AEW21740.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0751;product=hypothetical protein;protein_id=AEW21740.1;transl_table=11
+CP003191.1	Genbank	gene	829848	831188	.	+	.	ID=gene-BFO_0758;Name=BFO_0758;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0758
+CP003191.1	Genbank	CDS	829848	831188	.	+	0	ID=cds-AEW20638.1;Parent=gene-BFO_0758;Dbxref=NCBI_GP:AEW20638.1;Name=AEW20638.1;Note=identified by match to protein family HMM PF01609;gbkey=CDS;locus_tag=BFO_0758;product=transposase%2C IS4 family;protein_id=AEW20638.1;transl_table=11
+CP003191.1	Genbank	gene	913004	914116	.	+	.	ID=gene-BFO_0831;Name=BFO_0831;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0831
+CP003191.1	Genbank	CDS	913004	914116	.	+	0	ID=cds-AEW21290.1;Parent=gene-BFO_0831;Dbxref=NCBI_GP:AEW21290.1;Name=AEW21290.1;Note=identified by match to protein family HMM PF01609;gbkey=CDS;locus_tag=BFO_0831;product=transposase%2C IS4 family;protein_id=AEW21290.1;transl_table=11
+CP003191.1	Genbank	gene	914915	915040	.	+	.	ID=gene-BFO_0832;Name=BFO_0832;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0832
+CP003191.1	Genbank	CDS	914915	915040	.	+	0	ID=cds-AEW22052.1;Parent=gene-BFO_0832;Dbxref=NCBI_GP:AEW22052.1;Name=AEW22052.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0832;product=hypothetical protein;protein_id=AEW22052.1;transl_table=11
+CP003191.1	Genbank	gene	919500	919712	.	-	.	ID=gene-BFO_0834;Name=BFO_0834;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0834
+CP003191.1	Genbank	CDS	919500	919712	.	-	0	ID=cds-AEW20795.1;Parent=gene-BFO_0834;Dbxref=NCBI_GP:AEW20795.1;Name=AEW20795.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0834;product=hypothetical protein;protein_id=AEW20795.1;transl_table=11
+CP003191.1	Genbank	gene	941146	941301	.	+	.	ID=gene-BFO_0851;Name=BFO_0851;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0851
+CP003191.1	Genbank	CDS	941146	941301	.	+	0	ID=cds-AEW20033.1;Parent=gene-BFO_0851;Dbxref=NCBI_GP:AEW20033.1;Name=AEW20033.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0851;product=hypothetical protein;protein_id=AEW20033.1;transl_table=11
+CP003191.1	Genbank	gene	941323	941484	.	+	.	ID=gene-BFO_0852;Name=BFO_0852;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0852
+CP003191.1	Genbank	CDS	941323	941484	.	+	0	ID=cds-AEW22151.1;Parent=gene-BFO_0852;Dbxref=NCBI_GP:AEW22151.1;Name=AEW22151.1;gbkey=CDS;locus_tag=BFO_0852;product=ribosomal peptide natural product small molecule;protein_id=AEW22151.1;transl_table=11
+CP003191.1	Genbank	gene	941597	943054	.	+	.	ID=gene-BFO_0853;Name=BFO_0853;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0853
+CP003191.1	Genbank	CDS	941597	943054	.	+	0	ID=cds-AEW21704.1;Parent=gene-BFO_0853;Dbxref=NCBI_GP:AEW21704.1;Name=AEW21704.1;Note=identified by match to protein family HMM PF04055;gbkey=CDS;locus_tag=BFO_0853;product=radical SAM domain protein;protein_id=AEW21704.1;transl_table=11
+CP003191.1	Genbank	gene	943066	944232	.	+	.	ID=gene-BFO_0854;Name=BFO_0854;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0854
+CP003191.1	Genbank	CDS	943066	944232	.	+	0	ID=cds-AEW20809.1;Parent=gene-BFO_0854;Dbxref=NCBI_GP:AEW20809.1;Name=AEW20809.1;gbkey=CDS;locus_tag=BFO_0854;product=hypothetical protein;protein_id=AEW20809.1;transl_table=11
+CP003191.1	Genbank	pseudogene	944327	945106	.	+	.	ID=gene-BFO_0855;Name=BFO_0855;Note=conserved hypothetical protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_0855;pseudo=true
+CP003191.1	Genbank	pseudogene	945061	945264	.	+	.	ID=gene-BFO_0856;Name=BFO_0856;Note=conserved hypothetical protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_0856;pseudo=true
+CP003191.1	Genbank	pseudogene	945239	946312	.	+	.	ID=gene-BFO_0857;Name=BFO_0857;Note=conserved domain protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_0857;pseudo=true
+CP003191.1	Genbank	gene	946386	946541	.	+	.	ID=gene-BFO_0858;Name=BFO_0858;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0858
+CP003191.1	Genbank	CDS	946386	946541	.	+	0	ID=cds-AEW20831.1;Parent=gene-BFO_0858;Dbxref=NCBI_GP:AEW20831.1;Name=AEW20831.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0858;product=hypothetical protein;protein_id=AEW20831.1;transl_table=11
+CP003191.1	Genbank	gene	947054	947251	.	+	.	ID=gene-BFO_0859;Name=BFO_0859;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0859
+CP003191.1	Genbank	CDS	947054	947251	.	+	0	ID=cds-AEW19764.1;Parent=gene-BFO_0859;Dbxref=NCBI_GP:AEW19764.1;Name=AEW19764.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0859;product=hypothetical protein;protein_id=AEW19764.1;transl_table=11
+CP003191.1	Genbank	pseudogene	952557	952754	.	+	.	ID=gene-BFO_0864;Name=BFO_0864;Note=conserved domain protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_0864;pseudo=true
+CP003191.1	Genbank	gene	955773	955925	.	-	.	ID=gene-BFO_0867;Name=BFO_0867;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0867
+CP003191.1	Genbank	CDS	955773	955925	.	-	0	ID=cds-AEW19777.1;Parent=gene-BFO_0867;Dbxref=NCBI_GP:AEW19777.1;Name=AEW19777.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0867;product=hypothetical protein;protein_id=AEW19777.1;transl_table=11
+CP003191.1	Genbank	gene	956237	956359	.	-	.	ID=gene-BFO_0868;Name=BFO_0868;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0868
+CP003191.1	Genbank	CDS	956237	956359	.	-	0	ID=cds-AEW20581.1;Parent=gene-BFO_0868;Dbxref=NCBI_GP:AEW20581.1;Name=AEW20581.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0868;product=hypothetical protein;protein_id=AEW20581.1;transl_table=11
+CP003191.1	Genbank	pseudogene	956420	956701	.	-	.	ID=gene-BFO_0869;Name=BFO_0869;Note=conserved domain protein%3B this gene contains a premature stop which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_0869;pseudo=true
+CP003191.1	Genbank	gene	956764	957795	.	+	.	ID=gene-BFO_0870;Name=BFO_0870;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0870
+CP003191.1	Genbank	CDS	956764	957795	.	+	0	ID=cds-AEW21329.1;Parent=gene-BFO_0870;Dbxref=NCBI_GP:AEW21329.1;Name=AEW21329.1;gbkey=CDS;locus_tag=BFO_0870;product=hypothetical protein;protein_id=AEW21329.1;transl_table=11
+CP003191.1	Genbank	gene	957792	958565	.	+	.	ID=gene-BFO_0871;Name=BFO_0871;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0871
+CP003191.1	Genbank	CDS	957792	958565	.	+	0	ID=cds-AEW21656.1;Parent=gene-BFO_0871;Dbxref=NCBI_GP:AEW21656.1;Name=AEW21656.1;gbkey=CDS;locus_tag=BFO_0871;product=hypothetical protein;protein_id=AEW21656.1;transl_table=11
+CP003191.1	Genbank	gene	958586	959293	.	-	.	ID=gene-BFO_0872;Name=BFO_0872;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0872
+CP003191.1	Genbank	CDS	958586	959293	.	-	0	ID=cds-AEW21182.1;Parent=gene-BFO_0872;Dbxref=NCBI_GP:AEW21182.1;Name=AEW21182.1;gbkey=CDS;locus_tag=BFO_0872;product=putative lipoprotein;protein_id=AEW21182.1;transl_table=11
+CP003191.1	Genbank	gene	960023	960160	.	+	.	ID=gene-BFO_0873;Name=BFO_0873;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0873
+CP003191.1	Genbank	CDS	960023	960160	.	+	0	ID=cds-AEW22193.1;Parent=gene-BFO_0873;Dbxref=NCBI_GP:AEW22193.1;Name=AEW22193.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0873;product=hypothetical protein;protein_id=AEW22193.1;transl_table=11
+CP003191.1	Genbank	gene	970013	970141	.	+	.	ID=gene-BFO_0885;Name=BFO_0885;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_0885
+CP003191.1	Genbank	CDS	970013	970141	.	+	0	ID=cds-AEW22637.1;Parent=gene-BFO_0885;Dbxref=NCBI_GP:AEW22637.1;Name=AEW22637.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_0885;product=hypothetical protein;protein_id=AEW22637.1;transl_table=11
+CP003191.1	Genbank	pseudogene	1057458	1057697	.	-	.	ID=gene-BFO_0975;Name=BFO_0975;Note=conserved hypothetical protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_0975;pseudo=true
+CP003191.1	Genbank	gene	1106986	1107108	.	-	.	ID=gene-BFO_1019;Name=BFO_1019;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1019
+CP003191.1	Genbank	CDS	1106986	1107108	.	-	0	ID=cds-AEW20274.1;Parent=gene-BFO_1019;Dbxref=NCBI_GP:AEW20274.1;Name=AEW20274.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1019;product=hypothetical protein;protein_id=AEW20274.1;transl_table=11
+CP003191.1	Genbank	pseudogene	1138665	1138886	.	-	.	ID=gene-BFO_1045;Name=BFO_1045;Note=conserved hypothetical protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_1045;pseudo=true
+CP003191.1	Genbank	gene	1138995	1139135	.	+	.	ID=gene-BFO_1047;Name=BFO_1047;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1047
+CP003191.1	Genbank	CDS	1138995	1139135	.	+	0	ID=cds-AEW22479.1;Parent=gene-BFO_1047;Dbxref=NCBI_GP:AEW22479.1;Name=AEW22479.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1047;product=hypothetical protein;protein_id=AEW22479.1;transl_table=11
+CP003191.1	Genbank	gene	1144855	1144992	.	+	.	ID=gene-BFO_1054;Name=BFO_1054;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1054
+CP003191.1	Genbank	CDS	1144855	1144992	.	+	0	ID=cds-AEW20364.1;Parent=gene-BFO_1054;Dbxref=NCBI_GP:AEW20364.1;Name=AEW20364.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1054;product=hypothetical protein;protein_id=AEW20364.1;transl_table=11
+CP003191.1	Genbank	gene	1197717	1197881	.	-	.	ID=gene-BFO_1104;Name=BFO_1104;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1104
+CP003191.1	Genbank	CDS	1197717	1197881	.	-	0	ID=cds-AEW22062.1;Parent=gene-BFO_1104;Dbxref=NCBI_GP:AEW22062.1;Name=AEW22062.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1104;product=hypothetical protein;protein_id=AEW22062.1;transl_table=11
+CP003191.1	Genbank	pseudogene	1198060	1199130	.	-	.	ID=gene-BFO_1105;Name=BFO_1105;Note=transposase%3B this gene contains a frame shift which may be the result of a sequencing error%3B identified by match to protein family HMM PF01610;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_1105;pseudo=true
+CP003191.1	Genbank	gene	1200159	1200329	.	-	.	ID=gene-BFO_1108;Name=BFO_1108;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1108
+CP003191.1	Genbank	CDS	1200159	1200329	.	-	0	ID=cds-AEW21433.1;Parent=gene-BFO_1108;Dbxref=NCBI_GP:AEW21433.1;Name=AEW21433.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1108;product=hypothetical protein;protein_id=AEW21433.1;transl_table=11
+CP003191.1	Genbank	gene	1201991	1203223	.	-	.	ID=gene-BFO_1110;Name=BFO_1110;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1110
+CP003191.1	Genbank	CDS	1201991	1203223	.	-	0	ID=cds-AEW19747.1;Parent=gene-BFO_1110;Dbxref=NCBI_GP:AEW19747.1;Name=AEW19747.1;Note=identified by match to protein family HMM PF02371;gbkey=CDS;locus_tag=BFO_1110;product=transposase%2C IS116/IS110/IS902 family;protein_id=AEW19747.1;transl_table=11
+CP003191.1	Genbank	gene	1203155	1203307	.	+	.	ID=gene-BFO_1111;Name=BFO_1111;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1111
+CP003191.1	Genbank	CDS	1203155	1203307	.	+	0	ID=cds-AEW22442.1;Parent=gene-BFO_1111;Dbxref=NCBI_GP:AEW22442.1;Name=AEW22442.1;gbkey=CDS;locus_tag=BFO_1111;product=hypothetical protein;protein_id=AEW22442.1;transl_table=11
+CP003191.1	Genbank	gene	1234090	1234323	.	-	.	ID=gene-BFO_1139;Name=BFO_1139;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1139
+CP003191.1	Genbank	CDS	1234090	1234323	.	-	0	ID=cds-AEW20598.1;Parent=gene-BFO_1139;Dbxref=NCBI_GP:AEW20598.1;Name=AEW20598.1;gbkey=CDS;locus_tag=BFO_1139;product=phage shock protein PspE family protein;protein_id=AEW20598.1;transl_table=11
+CP003191.1	Genbank	gene	1237127	1238062	.	-	.	ID=gene-BFO_1141;Name=BFO_1141;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1141
+CP003191.1	Genbank	CDS	1237127	1238062	.	-	0	ID=cds-AEW20372.1;Parent=gene-BFO_1141;Dbxref=NCBI_GP:AEW20372.1;Name=AEW20372.1;gbkey=CDS;locus_tag=BFO_1141;product=hypothetical protein;protein_id=AEW20372.1;transl_table=11
+CP003191.1	Genbank	gene	1254243	1254365	.	-	.	ID=gene-BFO_1161;Name=BFO_1161;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1161
+CP003191.1	Genbank	CDS	1254243	1254365	.	-	0	ID=cds-AEW21559.1;Parent=gene-BFO_1161;Dbxref=NCBI_GP:AEW21559.1;Name=AEW21559.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1161;product=hypothetical protein;protein_id=AEW21559.1;transl_table=11
+CP003191.1	Genbank	gene	1264547	1264675	.	-	.	ID=gene-BFO_1171;Name=BFO_1171;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1171
+CP003191.1	Genbank	CDS	1264547	1264675	.	-	0	ID=cds-AEW22029.1;Parent=gene-BFO_1171;Dbxref=NCBI_GP:AEW22029.1;Name=AEW22029.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1171;product=hypothetical protein;protein_id=AEW22029.1;transl_table=11
+CP003191.1	Genbank	gene	1265243	1265356	.	-	.	ID=gene-BFO_1173;Name=BFO_1173;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1173
+CP003191.1	Genbank	CDS	1265243	1265356	.	-	0	ID=cds-AEW21561.1;Parent=gene-BFO_1173;Dbxref=NCBI_GP:AEW21561.1;Name=AEW21561.1;gbkey=CDS;locus_tag=BFO_1173;product=hypothetical protein;protein_id=AEW21561.1;transl_table=11
+CP003191.1	Genbank	gene	1267922	1268035	.	-	.	ID=gene-BFO_1177;Name=BFO_1177;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1177
+CP003191.1	Genbank	CDS	1267922	1268035	.	-	0	ID=cds-AEW21485.1;Parent=gene-BFO_1177;Dbxref=NCBI_GP:AEW21485.1;Name=AEW21485.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1177;product=hypothetical protein;protein_id=AEW21485.1;transl_table=11
+CP003191.1	Genbank	gene	1268623	1268835	.	+	.	ID=gene-BFO_1178;Name=BFO_1178;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1178
+CP003191.1	Genbank	CDS	1268623	1268835	.	+	0	ID=cds-AEW21713.1;Parent=gene-BFO_1178;Dbxref=NCBI_GP:AEW21713.1;Name=AEW21713.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1178;product=hypothetical protein;protein_id=AEW21713.1;transl_table=11
+CP003191.1	Genbank	gene	1315318	1316553	.	+	.	ID=gene-BFO_1222;Name=BFO_1222;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1222
+CP003191.1	Genbank	CDS	1315318	1316553	.	+	0	ID=cds-AEW20777.1;Parent=gene-BFO_1222;Dbxref=NCBI_GP:AEW20777.1;Name=AEW20777.1;Note=identified by match to protein family HMM PF00589;gbkey=CDS;locus_tag=BFO_1222;product=site-specific recombinase%2C phage integrase family;protein_id=AEW20777.1;transl_table=11
+CP003191.1	Genbank	gene	1316567	1316929	.	+	.	ID=gene-BFO_1223;Name=BFO_1223;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1223
+CP003191.1	Genbank	CDS	1316567	1316929	.	+	0	ID=cds-AEW22186.1;Parent=gene-BFO_1223;Dbxref=NCBI_GP:AEW22186.1;Name=AEW22186.1;gbkey=CDS;locus_tag=BFO_1223;product=hypothetical protein;protein_id=AEW22186.1;transl_table=11
+CP003191.1	Genbank	gene	1316923	1317042	.	+	.	ID=gene-BFO_1225;Name=BFO_1225;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1225
+CP003191.1	Genbank	CDS	1316923	1317042	.	+	0	ID=cds-AEW20450.1;Parent=gene-BFO_1225;Dbxref=NCBI_GP:AEW20450.1;Name=AEW20450.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1225;product=hypothetical protein;protein_id=AEW20450.1;transl_table=11
+CP003191.1	Genbank	gene	1317021	1317326	.	-	.	ID=gene-BFO_1224;Name=BFO_1224;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1224
+CP003191.1	Genbank	CDS	1317021	1317326	.	-	0	ID=cds-AEW19857.1;Parent=gene-BFO_1224;Dbxref=NCBI_GP:AEW19857.1;Name=AEW19857.1;Note=identified by match to protein family HMM TIGR01764;gbkey=CDS;locus_tag=BFO_1224;product=DNA binding domain protein%2C excisionase family;protein_id=AEW19857.1;transl_table=11
+CP003191.1	Genbank	gene	1317366	1317623	.	-	.	ID=gene-BFO_1226;Name=BFO_1226;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1226
+CP003191.1	Genbank	CDS	1317366	1317623	.	-	0	ID=cds-AEW21893.1;Parent=gene-BFO_1226;Dbxref=NCBI_GP:AEW21893.1;Name=AEW21893.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1226;product=hypothetical protein;protein_id=AEW21893.1;transl_table=11
+CP003191.1	Genbank	gene	1317910	1318302	.	+	.	ID=gene-BFO_1227;Name=BFO_1227;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1227
+CP003191.1	Genbank	CDS	1317910	1318302	.	+	0	ID=cds-AEW20260.1;Parent=gene-BFO_1227;Dbxref=NCBI_GP:AEW20260.1;Name=AEW20260.1;Note=identified by match to protein family HMM TIGR01764;gbkey=CDS;locus_tag=BFO_1227;product=DNA binding domain protein%2C excisionase family;protein_id=AEW20260.1;transl_table=11
+CP003191.1	Genbank	pseudogene	1318306	1318656	.	+	.	ID=gene-BFO_1228;Name=BFO_1228;Note=conserved hypothetical protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_1228;pseudo=true
+CP003191.1	Genbank	pseudogene	1322642	1323094	.	+	.	ID=gene-BFO_1231;Name=BFO_1231;Note=conserved hypothetical protein%3B this gene contains a frame shift which may be the result of a sequencing error%3B identified by match to protein family HMM PF08989;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_1231;pseudo=true
+CP003191.1	Genbank	gene	1329532	1329909	.	+	.	ID=gene-BFO_1233;Name=BFO_1233;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1233
+CP003191.1	Genbank	CDS	1329532	1329909	.	+	0	ID=cds-AEW20992.1;Parent=gene-BFO_1233;Dbxref=NCBI_GP:AEW20992.1;Name=AEW20992.1;gbkey=CDS;locus_tag=BFO_1233;product=hypothetical protein;protein_id=AEW20992.1;transl_table=11
+CP003191.1	Genbank	gene	1329921	1330778	.	+	.	ID=gene-BFO_1234;Name=BFO_1234;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1234
+CP003191.1	Genbank	CDS	1329921	1330778	.	+	0	ID=cds-AEW20143.1;Parent=gene-BFO_1234;Dbxref=NCBI_GP:AEW20143.1;Name=AEW20143.1;Note=identified by match to protein family HMM PF00583;gbkey=CDS;locus_tag=BFO_1234;product=acetyltransferase%2C GNAT family;protein_id=AEW20143.1;transl_table=11
+CP003191.1	Genbank	gene	1331023	1332960	.	+	.	ID=gene-BFO_1235;Name=BFO_1235;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1235
+CP003191.1	Genbank	CDS	1331023	1332960	.	+	0	ID=cds-AEW22283.1;Parent=gene-BFO_1235;Dbxref=NCBI_GP:AEW22283.1;Name=AEW22283.1;Note=identified by match to protein family HMM PF00009%3B match to protein family HMM PF00679%3B match to protein family HMM PF03144%3B match to protein family HMM PF03764;gbkey=CDS;locus_tag=BFO_1235;product=elongation factor Tu GTP binding domain protein;protein_id=AEW22283.1;transl_table=11
+CP003191.1	Genbank	gene	1332960	1335278	.	+	.	ID=gene-BFO_1236;Name=BFO_1236;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1236
+CP003191.1	Genbank	CDS	1332960	1335278	.	+	0	ID=cds-AEW21478.1;Parent=gene-BFO_1236;Dbxref=NCBI_GP:AEW21478.1;Name=AEW21478.1;Note=identified by match to protein family HMM PF00072%3B match to protein family HMM PF00512%3B match to protein family HMM PF02518;gbkey=CDS;locus_tag=BFO_1236;product=ATPase/histidine kinase/DNA gyrase B/HSP90 domain protein;protein_id=AEW21478.1;transl_table=11
+CP003191.1	Genbank	gene	1335271	1336593	.	+	.	ID=gene-BFO_1237;Name=BFO_1237;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1237
+CP003191.1	Genbank	CDS	1335271	1336593	.	+	0	ID=cds-AEW21466.1;Parent=gene-BFO_1237;Dbxref=NCBI_GP:AEW21466.1;Name=AEW21466.1;Note=identified by match to protein family HMM PF00072%3B match to protein family HMM PF00158%3B match to protein family HMM PF02954%3B match to protein family HMM PF07728;gbkey=CDS;locus_tag=BFO_1237;product=Sigma-54 interaction domain protein;protein_id=AEW21466.1;transl_table=11
+CP003191.1	Genbank	gene	1336875	1337288	.	+	.	ID=gene-BFO_1238;Name=BFO_1238;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1238
+CP003191.1	Genbank	CDS	1336875	1337288	.	+	0	ID=cds-AEW20572.1;Parent=gene-BFO_1238;Dbxref=NCBI_GP:AEW20572.1;Name=AEW20572.1;gbkey=CDS;locus_tag=BFO_1238;product=hypothetical protein;protein_id=AEW20572.1;transl_table=11
+CP003191.1	Genbank	gene	1337311	1337451	.	-	.	ID=gene-BFO_1239;Name=BFO_1239;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1239
+CP003191.1	Genbank	CDS	1337311	1337451	.	-	0	ID=cds-AEW19769.1;Parent=gene-BFO_1239;Dbxref=NCBI_GP:AEW19769.1;Name=AEW19769.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1239;product=hypothetical protein;protein_id=AEW19769.1;transl_table=11
+CP003191.1	Genbank	pseudogene	1337500	1338117	.	+	.	ID=gene-BFO_1240;Name=BFO_1240;Note=RteC protein%3B this gene contains a frame shift which may be the result of a sequencing error%3B identified by match to protein family HMM PF09357;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_1240;pseudo=true
+CP003191.1	Genbank	gene	1338268	1339731	.	+	.	ID=gene-BFO_1241;Name=BFO_1241;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1241
+CP003191.1	Genbank	CDS	1338268	1339731	.	+	0	ID=cds-AEW21998.1;Parent=gene-BFO_1241;Dbxref=NCBI_GP:AEW21998.1;Name=AEW21998.1;Note=identified by match to protein family HMM PF04326;gbkey=CDS;locus_tag=BFO_1241;product=divergent AAA domain protein;protein_id=AEW21998.1;transl_table=11
+CP003191.1	Genbank	gene	1339724	1340116	.	+	.	ID=gene-BFO_1242;Name=BFO_1242;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1242
+CP003191.1	Genbank	CDS	1339724	1340116	.	+	0	ID=cds-AEW20395.1;Parent=gene-BFO_1242;Dbxref=NCBI_GP:AEW20395.1;Name=AEW20395.1;gbkey=CDS;locus_tag=BFO_1242;product=hypothetical protein;protein_id=AEW20395.1;transl_table=11
+CP003191.1	Genbank	gene	1342199	1343449	.	-	.	ID=gene-BFO_1244;Name=BFO_1244;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1244
+CP003191.1	Genbank	CDS	1342199	1343449	.	-	0	ID=cds-AEW20601.1;Parent=gene-BFO_1244;Dbxref=NCBI_GP:AEW20601.1;Name=AEW20601.1;Note=identified by match to protein family HMM PF03432;gbkey=CDS;locus_tag=BFO_1244;product=relaxase/mobilization nuclease domain protein;protein_id=AEW20601.1;transl_table=11
+CP003191.1	Genbank	gene	1343428	1343853	.	-	.	ID=gene-BFO_1245;Name=BFO_1245;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1245
+CP003191.1	Genbank	CDS	1343428	1343853	.	-	0	ID=cds-AEW21475.1;Parent=gene-BFO_1245;Dbxref=NCBI_GP:AEW21475.1;Name=AEW21475.1;gbkey=CDS;locus_tag=BFO_1245;product=hypothetical protein;protein_id=AEW21475.1;transl_table=11
+CP003191.1	Genbank	gene	1344240	1345325	.	+	.	ID=gene-BFO_1246;Name=BFO_1246;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1246
+CP003191.1	Genbank	CDS	1344240	1345325	.	+	0	ID=cds-AEW22284.1;Parent=gene-BFO_1246;Dbxref=NCBI_GP:AEW22284.1;Name=AEW22284.1;gbkey=CDS;locus_tag=BFO_1246;product=hypothetical protein;protein_id=AEW22284.1;transl_table=11
+CP003191.1	Genbank	gene	1345328	1345768	.	+	.	ID=gene-BFO_1247;Name=BFO_1247;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1247
+CP003191.1	Genbank	CDS	1345328	1345768	.	+	0	ID=cds-AEW21821.1;Parent=gene-BFO_1247;Dbxref=NCBI_GP:AEW21821.1;Name=AEW21821.1;gbkey=CDS;locus_tag=BFO_1247;product=hypothetical protein;protein_id=AEW21821.1;transl_table=11
+CP003191.1	Genbank	gene	1345765	1346118	.	+	.	ID=gene-BFO_1248;Name=BFO_1248;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1248
+CP003191.1	Genbank	CDS	1345765	1346118	.	+	0	ID=cds-AEW22409.1;Parent=gene-BFO_1248;Dbxref=NCBI_GP:AEW22409.1;Name=AEW22409.1;gbkey=CDS;locus_tag=BFO_1248;product=hypothetical protein;protein_id=AEW22409.1;transl_table=11
+CP003191.1	Genbank	gene	1346157	1346873	.	+	.	ID=gene-BFO_1249;Name=BFO_1249;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1249
+CP003191.1	Genbank	CDS	1346157	1346873	.	+	0	ID=cds-AEW19727.1;Parent=gene-BFO_1249;Dbxref=NCBI_GP:AEW19727.1;Name=AEW19727.1;gbkey=CDS;locus_tag=BFO_1249;product=hypothetical protein;protein_id=AEW19727.1;transl_table=11
+CP003191.1	Genbank	gene	1347076	1347387	.	+	.	ID=gene-BFO_1250;Name=BFO_1250;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1250
+CP003191.1	Genbank	CDS	1347076	1347387	.	+	0	ID=cds-AEW21096.1;Parent=gene-BFO_1250;Dbxref=NCBI_GP:AEW21096.1;Name=AEW21096.1;gbkey=CDS;locus_tag=BFO_1250;product=conjugative transposon protein TraE;protein_id=AEW21096.1;transl_table=11
+CP003191.1	Genbank	gene	1347398	1347730	.	+	.	ID=gene-BFO_1251;Name=BFO_1251;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1251
+CP003191.1	Genbank	CDS	1347398	1347730	.	+	0	ID=cds-AEW20752.1;Parent=gene-BFO_1251;Dbxref=NCBI_GP:AEW20752.1;Name=AEW20752.1;gbkey=CDS;locus_tag=BFO_1251;product=conjugative transposon protein TraF;protein_id=AEW20752.1;transl_table=11
+CP003191.1	Genbank	gene	1350281	1350661	.	+	.	ID=gene-BFO_1253;Name=BFO_1253;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1253
+CP003191.1	Genbank	CDS	1350281	1350661	.	+	0	ID=cds-AEW22146.1;Parent=gene-BFO_1253;Dbxref=NCBI_GP:AEW22146.1;Name=AEW22146.1;gbkey=CDS;locus_tag=BFO_1253;product=putative lipoprotein;protein_id=AEW22146.1;transl_table=11
+CP003191.1	Genbank	gene	1350685	1351314	.	+	.	ID=gene-BFO_1254;Name=BFO_1254;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1254
+CP003191.1	Genbank	CDS	1350685	1351314	.	+	0	ID=cds-AEW19998.1;Parent=gene-BFO_1254;Dbxref=NCBI_GP:AEW19998.1;Name=AEW19998.1;gbkey=CDS;locus_tag=BFO_1254;product=conjugative transposon protein TraI;protein_id=AEW19998.1;transl_table=11
+CP003191.1	Genbank	gene	1351318	1352322	.	+	.	ID=gene-BFO_1255;Name=traJ;gbkey=Gene;gene=traJ;gene_biotype=protein_coding;locus_tag=BFO_1255
+CP003191.1	Genbank	CDS	1351318	1352322	.	+	0	ID=cds-AEW20425.1;Parent=gene-BFO_1255;Dbxref=NCBI_GP:AEW20425.1;Name=AEW20425.1;Note=identified by match to protein family HMM PF07863%3B match to protein family HMM TIGR03782;gbkey=CDS;gene=traJ;locus_tag=BFO_1255;product=conjugative transposon TraJ protein;protein_id=AEW20425.1;transl_table=11
+CP003191.1	Genbank	gene	1352354	1352977	.	+	.	ID=gene-BFO_1256;Name=traK;gbkey=Gene;gene=traK;gene_biotype=protein_coding;locus_tag=BFO_1256
+CP003191.1	Genbank	CDS	1352354	1352977	.	+	0	ID=cds-AEW21071.1;Parent=gene-BFO_1256;Dbxref=NCBI_GP:AEW21071.1;Name=AEW21071.1;Note=identified by match to protein family HMM TIGR03781;gbkey=CDS;gene=traK;locus_tag=BFO_1256;product=conjugative transposon TraK protein;protein_id=AEW21071.1;transl_table=11
+CP003191.1	Genbank	gene	1352984	1353292	.	+	.	ID=gene-BFO_1257;Name=BFO_1257;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1257
+CP003191.1	Genbank	CDS	1352984	1353292	.	+	0	ID=cds-AEW20381.1;Parent=gene-BFO_1257;Dbxref=NCBI_GP:AEW20381.1;Name=AEW20381.1;gbkey=CDS;locus_tag=BFO_1257;product=hypothetical protein;protein_id=AEW20381.1;transl_table=11
+CP003191.1	Genbank	gene	1353273	1354622	.	+	.	ID=gene-BFO_1258;Name=traM;gbkey=Gene;gene=traM;gene_biotype=protein_coding;locus_tag=BFO_1258
+CP003191.1	Genbank	CDS	1353273	1354622	.	+	0	ID=cds-AEW21011.1;Parent=gene-BFO_1258;Dbxref=NCBI_GP:AEW21011.1;Name=AEW21011.1;Note=identified by match to protein family HMM TIGR03779;gbkey=CDS;gene=traM;locus_tag=BFO_1258;product=conjugative transposon TraM protein;protein_id=AEW21011.1;transl_table=11
+CP003191.1	Genbank	gene	1354693	1355664	.	+	.	ID=gene-BFO_1259;Name=traN_1;gbkey=Gene;gene=traN_1;gene_biotype=protein_coding;locus_tag=BFO_1259
+CP003191.1	Genbank	CDS	1354693	1355664	.	+	0	ID=cds-AEW21479.1;Parent=gene-BFO_1259;Dbxref=NCBI_GP:AEW21479.1;Name=AEW21479.1;Note=identified by match to protein family HMM TIGR03780;gbkey=CDS;gene=traN_1;locus_tag=BFO_1259;product=conjugative transposon TraN protein;protein_id=AEW21479.1;transl_table=11
+CP003191.1	Genbank	gene	1355748	1356242	.	+	.	ID=gene-BFO_1260;Name=BFO_1260;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1260
+CP003191.1	Genbank	CDS	1355748	1356242	.	+	0	ID=cds-AEW22529.1;Parent=gene-BFO_1260;Dbxref=NCBI_GP:AEW22529.1;Name=AEW22529.1;gbkey=CDS;locus_tag=BFO_1260;product=hypothetical protein;protein_id=AEW22529.1;transl_table=11
+CP003191.1	Genbank	gene	1356251	1357120	.	+	.	ID=gene-BFO_1261;Name=BFO_1261;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1261
+CP003191.1	Genbank	CDS	1356251	1357120	.	+	0	ID=cds-AEW20516.1;Parent=gene-BFO_1261;Dbxref=NCBI_GP:AEW20516.1;Name=AEW20516.1;Note=identified by match to protein family HMM PF01807;gbkey=CDS;locus_tag=BFO_1261;product=CHC2 zinc finger domain protein;protein_id=AEW20516.1;transl_table=11
+CP003191.1	Genbank	gene	1357146	1357649	.	+	.	ID=gene-BFO_1262;Name=BFO_1262;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1262
+CP003191.1	Genbank	CDS	1357146	1357649	.	+	0	ID=cds-AEW21385.1;Parent=gene-BFO_1262;Dbxref=NCBI_GP:AEW21385.1;Name=AEW21385.1;gbkey=CDS;locus_tag=BFO_1262;product=conjugative transposon protein TraQ family protein;protein_id=AEW21385.1;transl_table=11
+CP003191.1	Genbank	gene	1357880	1358173	.	+	.	ID=gene-BFO_1263;Name=BFO_1263;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1263
+CP003191.1	Genbank	CDS	1357880	1358173	.	+	0	ID=cds-AEW20840.1;Parent=gene-BFO_1263;Dbxref=NCBI_GP:AEW20840.1;Name=AEW20840.1;gbkey=CDS;locus_tag=BFO_1263;product=hypothetical protein;protein_id=AEW20840.1;transl_table=11
+CP003191.1	Genbank	gene	1358237	1358458	.	-	.	ID=gene-BFO_1264;Name=BFO_1264;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1264
+CP003191.1	Genbank	CDS	1358237	1358458	.	-	0	ID=cds-AEW22288.1;Parent=gene-BFO_1264;Dbxref=NCBI_GP:AEW22288.1;Name=AEW22288.1;gbkey=CDS;locus_tag=BFO_1264;product=hypothetical protein;protein_id=AEW22288.1;transl_table=11
+CP003191.1	Genbank	pseudogene	1358576	1358884	.	-	.	ID=gene-BFO_1265;Name=BFO_1265;Note=conserved hypothetical protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_1265;pseudo=true
+CP003191.1	Genbank	gene	1358930	1359175	.	-	.	ID=gene-BFO_1266;Name=BFO_1266;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1266
+CP003191.1	Genbank	CDS	1358930	1359175	.	-	0	ID=cds-AEW20576.1;Parent=gene-BFO_1266;Dbxref=NCBI_GP:AEW20576.1;Name=AEW20576.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1266;product=hypothetical protein;protein_id=AEW20576.1;transl_table=11
+CP003191.1	Genbank	gene	1359172	1359405	.	-	.	ID=gene-BFO_1267;Name=BFO_1267;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1267
+CP003191.1	Genbank	CDS	1359172	1359405	.	-	0	ID=cds-AEW21854.1;Parent=gene-BFO_1267;Dbxref=NCBI_GP:AEW21854.1;Name=AEW21854.1;gbkey=CDS;locus_tag=BFO_1267;product=hypothetical protein;protein_id=AEW21854.1;transl_table=11
+CP003191.1	Genbank	gene	1359426	1359683	.	-	.	ID=gene-BFO_1268;Name=BFO_1268;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1268
+CP003191.1	Genbank	CDS	1359426	1359683	.	-	0	ID=cds-AEW22670.1;Parent=gene-BFO_1268;Dbxref=NCBI_GP:AEW22670.1;Name=AEW22670.1;gbkey=CDS;locus_tag=BFO_1268;product=hypothetical protein;protein_id=AEW22670.1;transl_table=11
+CP003191.1	Genbank	gene	1359708	1360997	.	-	.	ID=gene-BFO_1269;Name=BFO_1269;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1269
+CP003191.1	Genbank	CDS	1359708	1360997	.	-	0	ID=cds-AEW20140.1;Parent=gene-BFO_1269;Dbxref=NCBI_GP:AEW20140.1;Name=AEW20140.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1269;product=hypothetical protein;protein_id=AEW20140.1;transl_table=11
+CP003191.1	Genbank	gene	1361000	1361422	.	-	.	ID=gene-BFO_1270;Name=BFO_1270;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1270
+CP003191.1	Genbank	CDS	1361000	1361422	.	-	0	ID=cds-AEW20952.1;Parent=gene-BFO_1270;Dbxref=NCBI_GP:AEW20952.1;Name=AEW20952.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1270;product=hypothetical protein;protein_id=AEW20952.1;transl_table=11
+CP003191.1	Genbank	pseudogene	1361436	1361657	.	-	.	ID=gene-BFO_1271;Name=BFO_1271;Note=conserved hypothetical protein%3B this gene contains a premature stop which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_1271;pseudo=true
+CP003191.1	Genbank	gene	1361669	1361884	.	-	.	ID=gene-BFO_1272;Name=BFO_1272;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1272
+CP003191.1	Genbank	CDS	1361669	1361884	.	-	0	ID=cds-AEW20081.1;Parent=gene-BFO_1272;Dbxref=NCBI_GP:AEW20081.1;Name=AEW20081.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1272;product=hypothetical protein;protein_id=AEW20081.1;transl_table=11
+CP003191.1	Genbank	gene	1361844	1362035	.	+	.	ID=gene-BFO_1273;Name=BFO_1273;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1273
+CP003191.1	Genbank	CDS	1361844	1362035	.	+	0	ID=cds-AEW22233.1;Parent=gene-BFO_1273;Dbxref=NCBI_GP:AEW22233.1;Name=AEW22233.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1273;product=hypothetical protein;protein_id=AEW22233.1;transl_table=11
+CP003191.1	Genbank	gene	1362054	1362182	.	+	.	ID=gene-BFO_1274;Name=BFO_1274;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1274
+CP003191.1	Genbank	CDS	1362054	1362182	.	+	0	ID=cds-AEW20083.1;Parent=gene-BFO_1274;Dbxref=NCBI_GP:AEW20083.1;Name=AEW20083.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1274;product=hypothetical protein;protein_id=AEW20083.1;transl_table=11
+CP003191.1	Genbank	gene	1362207	1362344	.	+	.	ID=gene-BFO_1275;Name=BFO_1275;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1275
+CP003191.1	Genbank	CDS	1362207	1362344	.	+	0	ID=cds-AEW21104.1;Parent=gene-BFO_1275;Dbxref=NCBI_GP:AEW21104.1;Name=AEW21104.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1275;product=hypothetical protein;protein_id=AEW21104.1;transl_table=11
+CP003191.1	Genbank	gene	1362341	1362532	.	+	.	ID=gene-BFO_1276;Name=BFO_1276;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1276
+CP003191.1	Genbank	CDS	1362341	1362532	.	+	0	ID=cds-AEW21949.1;Parent=gene-BFO_1276;Dbxref=NCBI_GP:AEW21949.1;Name=AEW21949.1;gbkey=CDS;locus_tag=BFO_1276;product=hypothetical protein;protein_id=AEW21949.1;transl_table=11
+CP003191.1	Genbank	gene	1362606	1362719	.	-	.	ID=gene-BFO_1277;Name=BFO_1277;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1277
+CP003191.1	Genbank	CDS	1362606	1362719	.	-	0	ID=cds-AEW21311.1;Parent=gene-BFO_1277;Dbxref=NCBI_GP:AEW21311.1;Name=AEW21311.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1277;product=hypothetical protein;protein_id=AEW21311.1;transl_table=11
+CP003191.1	Genbank	gene	1381026	1382000	.	-	.	ID=gene-BFO_1301;Name=BFO_1301;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1301
+CP003191.1	Genbank	CDS	1381026	1382000	.	-	0	ID=cds-AEW20067.1;Parent=gene-BFO_1301;Dbxref=NCBI_GP:AEW20067.1;Name=AEW20067.1;gbkey=CDS;locus_tag=BFO_1301;product=hypothetical protein;protein_id=AEW20067.1;transl_table=11
+CP003191.1	Genbank	pseudogene	1448416	1449366	.	-	.	ID=gene-BFO_1355;Name=BFO_1355;Note=transposase%2C IS4 family%3B this gene contains a frame shift which may be the result of a sequencing error%3B identified by match to protein family HMM PF01609;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_1355;pseudo=true
+CP003191.1	Genbank	pseudogene	1449420	1449782	.	-	.	ID=gene-BFO_1356;Name=BFO_1356;Note=conserved hypothetical protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_1356;pseudo=true
+CP003191.1	Genbank	gene	1452045	1452977	.	-	.	ID=gene-BFO_1359;Name=BFO_1359;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1359
+CP003191.1	Genbank	CDS	1452045	1452977	.	-	0	ID=cds-AEW21175.1;Parent=gene-BFO_1359;Dbxref=NCBI_GP:AEW21175.1;Name=AEW21175.1;Note=identified by match to protein family HMM PF07751;gbkey=CDS;locus_tag=BFO_1359;product=Abi-like protein;protein_id=AEW21175.1;transl_table=11
+CP003191.1	Genbank	gene	1469560	1469712	.	-	.	ID=gene-BFO_1377;Name=BFO_1377;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1377
+CP003191.1	Genbank	CDS	1469560	1469712	.	-	0	ID=cds-AEW21476.1;Parent=gene-BFO_1377;Dbxref=NCBI_GP:AEW21476.1;Name=AEW21476.1;gbkey=CDS;locus_tag=BFO_1377;product=hypothetical protein;protein_id=AEW21476.1;transl_table=11
+CP003191.1	Genbank	gene	1469644	1470876	.	+	.	ID=gene-BFO_1378;Name=BFO_1378;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1378
+CP003191.1	Genbank	CDS	1469644	1470876	.	+	0	ID=cds-AEW20123.1;Parent=gene-BFO_1378;Dbxref=NCBI_GP:AEW20123.1;Name=AEW20123.1;Note=identified by match to protein family HMM PF02371;gbkey=CDS;locus_tag=BFO_1378;product=transposase%2C IS116/IS110/IS902 family;protein_id=AEW20123.1;transl_table=11
+CP003191.1	Genbank	gene	1525349	1525483	.	+	.	ID=gene-BFO_1420;Name=BFO_1420;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1420
+CP003191.1	Genbank	CDS	1525349	1525483	.	+	0	ID=cds-AEW19714.1;Parent=gene-BFO_1420;Dbxref=NCBI_GP:AEW19714.1;Name=AEW19714.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1420;product=hypothetical protein;protein_id=AEW19714.1;transl_table=11
+CP003191.1	Genbank	gene	1529325	1529471	.	+	.	ID=gene-BFO_1423;Name=BFO_1423;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1423
+CP003191.1	Genbank	CDS	1529325	1529471	.	+	0	ID=cds-AEW21365.1;Parent=gene-BFO_1423;Dbxref=NCBI_GP:AEW21365.1;Name=AEW21365.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1423;product=hypothetical protein;protein_id=AEW21365.1;transl_table=11
+CP003191.1	Genbank	gene	1538781	1538930	.	+	.	ID=gene-BFO_1433;Name=BFO_1433;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1433
+CP003191.1	Genbank	CDS	1538781	1538930	.	+	0	ID=cds-AEW20466.1;Parent=gene-BFO_1433;Dbxref=NCBI_GP:AEW20466.1;Name=AEW20466.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1433;product=hypothetical protein;protein_id=AEW20466.1;transl_table=11
+CP003191.1	Genbank	gene	1578769	1579743	.	+	.	ID=gene-BFO_1472;Name=BFO_1472;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1472
+CP003191.1	Genbank	CDS	1578769	1579743	.	+	0	ID=cds-AEW20002.1;Parent=gene-BFO_1472;Dbxref=NCBI_GP:AEW20002.1;Name=AEW20002.1;gbkey=CDS;locus_tag=BFO_1472;product=hypothetical protein;protein_id=AEW20002.1;transl_table=11
+CP003191.1	Genbank	gene	1646691	1647932	.	+	.	ID=gene-BFO_1534;Name=BFO_1534;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1534
+CP003191.1	Genbank	CDS	1646691	1647932	.	+	0	ID=cds-AEW20923.1;Parent=gene-BFO_1534;Dbxref=NCBI_GP:AEW20923.1;Name=AEW20923.1;Note=identified by match to protein family HMM PF01610;gbkey=CDS;locus_tag=BFO_1534;product=transposase;protein_id=AEW20923.1;transl_table=11
+CP003191.1	Genbank	gene	1732325	1732438	.	-	.	ID=gene-BFO_1628;Name=BFO_1628;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1628
+CP003191.1	Genbank	CDS	1732325	1732438	.	-	0	ID=cds-AEW20650.1;Parent=gene-BFO_1628;Dbxref=NCBI_GP:AEW20650.1;Name=AEW20650.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1628;product=hypothetical protein;protein_id=AEW20650.1;transl_table=11
+CP003191.1	Genbank	gene	1764592	1764711	.	-	.	ID=gene-BFO_1654;Name=BFO_1654;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1654
+CP003191.1	Genbank	CDS	1764592	1764711	.	-	0	ID=cds-AEW21301.1;Parent=gene-BFO_1654;Dbxref=NCBI_GP:AEW21301.1;Name=AEW21301.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1654;product=hypothetical protein;protein_id=AEW21301.1;transl_table=11
+CP003191.1	Genbank	gene	1765245	1765358	.	-	.	ID=gene-BFO_1656;Name=BFO_1656;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1656
+CP003191.1	Genbank	CDS	1765245	1765358	.	-	0	ID=cds-AEW21921.1;Parent=gene-BFO_1656;Dbxref=NCBI_GP:AEW21921.1;Name=AEW21921.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1656;product=hypothetical protein;protein_id=AEW21921.1;transl_table=11
+CP003191.1	Genbank	gene	1765553	1765672	.	-	.	ID=gene-BFO_1657;Name=BFO_1657;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1657
+CP003191.1	Genbank	CDS	1765553	1765672	.	-	0	ID=cds-AEW20891.1;Parent=gene-BFO_1657;Dbxref=NCBI_GP:AEW20891.1;Name=AEW20891.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1657;product=hypothetical protein;protein_id=AEW20891.1;transl_table=11
+CP003191.1	Genbank	gene	1850525	1850647	.	+	.	ID=gene-BFO_1738;Name=BFO_1738;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1738
+CP003191.1	Genbank	CDS	1850525	1850647	.	+	0	ID=cds-AEW22132.1;Parent=gene-BFO_1738;Dbxref=NCBI_GP:AEW22132.1;Name=AEW22132.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1738;product=hypothetical protein;protein_id=AEW22132.1;transl_table=11
+CP003191.1	Genbank	gene	1867585	1867698	.	+	.	ID=gene-BFO_1751;Name=BFO_1751;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1751
+CP003191.1	Genbank	CDS	1867585	1867698	.	+	0	ID=cds-AEW21696.1;Parent=gene-BFO_1751;Dbxref=NCBI_GP:AEW21696.1;Name=AEW21696.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1751;product=hypothetical protein;protein_id=AEW21696.1;transl_table=11
+CP003191.1	Genbank	gene	1903460	1903600	.	-	.	ID=gene-BFO_1790;Name=BFO_1790;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1790
+CP003191.1	Genbank	CDS	1903460	1903600	.	-	0	ID=cds-AEW21527.1;Parent=gene-BFO_1790;Dbxref=NCBI_GP:AEW21527.1;Name=AEW21527.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1790;product=hypothetical protein;protein_id=AEW21527.1;transl_table=11
+CP003191.1	Genbank	gene	1974025	1974147	.	-	.	ID=gene-BFO_1854;Name=BFO_1854;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1854
+CP003191.1	Genbank	CDS	1974025	1974147	.	-	0	ID=cds-AEW21885.1;Parent=gene-BFO_1854;Dbxref=NCBI_GP:AEW21885.1;Name=AEW21885.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1854;product=hypothetical protein;protein_id=AEW21885.1;transl_table=11
+CP003191.1	Genbank	gene	1974162	1974380	.	+	.	ID=gene-BFO_1855;Name=BFO_1855;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1855
+CP003191.1	Genbank	CDS	1974162	1974380	.	+	0	ID=cds-AEW22600.1;Parent=gene-BFO_1855;Dbxref=NCBI_GP:AEW22600.1;Name=AEW22600.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1855;product=hypothetical protein;protein_id=AEW22600.1;transl_table=11
+CP003191.1	Genbank	gene	2032410	2032544	.	-	.	ID=gene-BFO_1909;Name=BFO_1909;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1909
+CP003191.1	Genbank	CDS	2032410	2032544	.	-	0	ID=cds-AEW21398.1;Parent=gene-BFO_1909;Dbxref=NCBI_GP:AEW21398.1;Name=AEW21398.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1909;product=hypothetical protein;protein_id=AEW21398.1;transl_table=11
+CP003191.1	Genbank	gene	2040150	2040269	.	+	.	ID=gene-BFO_1916;Name=BFO_1916;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1916
+CP003191.1	Genbank	CDS	2040150	2040269	.	+	0	ID=cds-AEW19907.1;Parent=gene-BFO_1916;Dbxref=NCBI_GP:AEW19907.1;Name=AEW19907.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1916;product=hypothetical protein;protein_id=AEW19907.1;transl_table=11
+CP003191.1	Genbank	gene	2040664	2040777	.	+	.	ID=gene-BFO_1917;Name=BFO_1917;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1917
+CP003191.1	Genbank	CDS	2040664	2040777	.	+	0	ID=cds-AEW21848.1;Parent=gene-BFO_1917;Dbxref=NCBI_GP:AEW21848.1;Name=AEW21848.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1917;product=hypothetical protein;protein_id=AEW21848.1;transl_table=11
+CP003191.1	Genbank	gene	2044443	2044583	.	-	.	ID=gene-BFO_1919;Name=BFO_1919;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1919
+CP003191.1	Genbank	CDS	2044443	2044583	.	-	0	ID=cds-AEW19719.1;Parent=gene-BFO_1919;Dbxref=NCBI_GP:AEW19719.1;Name=AEW19719.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1919;product=hypothetical protein;protein_id=AEW19719.1;transl_table=11
+CP003191.1	Genbank	gene	2044736	2044858	.	-	.	ID=gene-BFO_1920;Name=BFO_1920;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1920
+CP003191.1	Genbank	CDS	2044736	2044858	.	-	0	ID=cds-AEW20550.1;Parent=gene-BFO_1920;Dbxref=NCBI_GP:AEW20550.1;Name=AEW20550.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1920;product=hypothetical protein;protein_id=AEW20550.1;transl_table=11
+CP003191.1	Genbank	gene	2082346	2083686	.	-	.	ID=gene-BFO_1956;Name=BFO_1956;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1956
+CP003191.1	Genbank	CDS	2082346	2083686	.	-	0	ID=cds-AEW22055.1;Parent=gene-BFO_1956;Dbxref=NCBI_GP:AEW22055.1;Name=AEW22055.1;Note=identified by match to protein family HMM PF01609;gbkey=CDS;locus_tag=BFO_1956;product=transposase%2C IS4 family;protein_id=AEW22055.1;transl_table=11
+CP003191.1	Genbank	gene	2086535	2089165	.	+	.	ID=gene-BFO_1959;Name=BFO_1959;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1959
+CP003191.1	Genbank	CDS	2086535	2089165	.	+	0	ID=cds-AEW22493.1;Parent=gene-BFO_1959;Dbxref=NCBI_GP:AEW22493.1;Name=AEW22493.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1959;product=hypothetical protein;protein_id=AEW22493.1;transl_table=11
+CP003191.1	Genbank	gene	2101752	2101970	.	-	.	ID=gene-BFO_1971;Name=BFO_1971;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1971
+CP003191.1	Genbank	CDS	2101752	2101970	.	-	0	ID=cds-AEW20838.1;Parent=gene-BFO_1971;Dbxref=NCBI_GP:AEW20838.1;Name=AEW20838.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1971;product=hypothetical protein;protein_id=AEW20838.1;transl_table=11
+CP003191.1	Genbank	pseudogene	2101988	2102878	.	-	.	ID=gene-BFO_1972;Name=BFO_1972;Note=transposase%2C IS4 family%3B this gene contains a frame shift which may be the result of a sequencing error%3B identified by match to protein family HMM PF01609;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_1972;pseudo=true
+CP003191.1	Genbank	gene	2103935	2104021	.	-	.	ID=gene-BFO_1974;Name=BFO_1974;gbkey=Gene;gene_biotype=tRNA;locus_tag=BFO_1974
+CP003191.1	Genbank	tRNA	2103935	2104021	.	-	.	ID=rna-BFO_1974;Parent=gene-BFO_1974;gbkey=tRNA;locus_tag=BFO_1974;product=tRNA-Leu
+CP003191.1	Genbank	exon	2103935	2104021	.	-	.	ID=exon-BFO_1974-1;Parent=rna-BFO_1974;gbkey=tRNA;locus_tag=BFO_1974;product=tRNA-Leu
+CP003191.1	Genbank	gene	2133382	2133549	.	+	.	ID=gene-BFO_1997;Name=BFO_1997;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1997
+CP003191.1	Genbank	CDS	2133382	2133549	.	+	0	ID=cds-AEW21603.1;Parent=gene-BFO_1997;Dbxref=NCBI_GP:AEW21603.1;Name=AEW21603.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1997;product=hypothetical protein;protein_id=AEW21603.1;transl_table=11
+CP003191.1	Genbank	gene	2133668	2133808	.	-	.	ID=gene-BFO_1998;Name=BFO_1998;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1998
+CP003191.1	Genbank	CDS	2133668	2133808	.	-	0	ID=cds-AEW22623.1;Parent=gene-BFO_1998;Dbxref=NCBI_GP:AEW22623.1;Name=AEW22623.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1998;product=hypothetical protein;protein_id=AEW22623.1;transl_table=11
+CP003191.1	Genbank	gene	2134209	2134364	.	+	.	ID=gene-BFO_1999;Name=BFO_1999;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_1999
+CP003191.1	Genbank	CDS	2134209	2134364	.	+	0	ID=cds-AEW22170.1;Parent=gene-BFO_1999;Dbxref=NCBI_GP:AEW22170.1;Name=AEW22170.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_1999;product=hypothetical protein;protein_id=AEW22170.1;transl_table=11
+CP003191.1	Genbank	pseudogene	2139265	2140389	.	-	.	ID=gene-BFO_2002;Name=BFO_2002;Note=conserved hypothetical protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_2002;pseudo=true
+CP003191.1	Genbank	gene	2143181	2143300	.	+	.	ID=gene-BFO_2005;Name=BFO_2005;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2005
+CP003191.1	Genbank	CDS	2143181	2143300	.	+	0	ID=cds-AEW22672.1;Parent=gene-BFO_2005;Dbxref=NCBI_GP:AEW22672.1;Name=AEW22672.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2005;product=hypothetical protein;protein_id=AEW22672.1;transl_table=11
+CP003191.1	Genbank	gene	2198059	2199033	.	-	.	ID=gene-BFO_2049;Name=BFO_2049;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2049
+CP003191.1	Genbank	CDS	2198059	2199033	.	-	0	ID=cds-AEW20053.1;Parent=gene-BFO_2049;Dbxref=NCBI_GP:AEW20053.1;Name=AEW20053.1;gbkey=CDS;locus_tag=BFO_2049;product=hypothetical protein;protein_id=AEW20053.1;transl_table=11
+CP003191.1	Genbank	gene	2200961	2201086	.	+	.	ID=gene-BFO_2054;Name=BFO_2054;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2054
+CP003191.1	Genbank	CDS	2200961	2201086	.	+	0	ID=cds-AEW20993.1;Parent=gene-BFO_2054;Dbxref=NCBI_GP:AEW20993.1;Name=AEW20993.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2054;product=hypothetical protein;protein_id=AEW20993.1;transl_table=11
+CP003191.1	Genbank	gene	2201100	2201354	.	+	.	ID=gene-BFO_2055;Name=BFO_2055;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2055
+CP003191.1	Genbank	CDS	2201100	2201354	.	+	0	ID=cds-AEW22457.1;Parent=gene-BFO_2055;Dbxref=NCBI_GP:AEW22457.1;Name=AEW22457.1;gbkey=CDS;locus_tag=BFO_2055;product=hypothetical protein;protein_id=AEW22457.1;transl_table=11
+CP003191.1	Genbank	gene	2202105	2202221	.	-	.	ID=gene-BFO_2058;Name=BFO_2058;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2058
+CP003191.1	Genbank	CDS	2202105	2202221	.	-	0	ID=cds-AEW21384.1;Parent=gene-BFO_2058;Dbxref=NCBI_GP:AEW21384.1;Name=AEW21384.1;gbkey=CDS;locus_tag=BFO_2058;product=hypothetical protein;protein_id=AEW21384.1;transl_table=11
+CP003191.1	Genbank	gene	2204853	2205959	.	-	.	ID=gene-BFO_2062;Name=BFO_2062;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2062
+CP003191.1	Genbank	CDS	2204853	2205959	.	-	0	ID=cds-AEW20202.1;Parent=gene-BFO_2062;Dbxref=NCBI_GP:AEW20202.1;Name=AEW20202.1;Note=overlaps another CDS with the same product name;gbkey=CDS;locus_tag=BFO_2062;product=hypothetical protein;protein_id=AEW20202.1;transl_table=11
+CP003191.1	Genbank	gene	2205956	2207827	.	-	.	ID=gene-BFO_2063;Name=BFO_2063;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2063
+CP003191.1	Genbank	CDS	2205956	2207827	.	-	0	ID=cds-AEW20817.1;Parent=gene-BFO_2063;Dbxref=NCBI_GP:AEW20817.1;Name=AEW20817.1;Note=overlaps another CDS with the same product name;gbkey=CDS;locus_tag=BFO_2063;product=hypothetical protein;protein_id=AEW20817.1;transl_table=11
+CP003191.1	Genbank	gene	2207796	2208917	.	-	.	ID=gene-BFO_2064;Name=BFO_2064;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2064
+CP003191.1	Genbank	CDS	2207796	2208917	.	-	0	ID=cds-AEW21882.1;Parent=gene-BFO_2064;Dbxref=NCBI_GP:AEW21882.1;Name=AEW21882.1;gbkey=CDS;locus_tag=BFO_2064;product=hypothetical protein;protein_id=AEW21882.1;transl_table=11
+CP003191.1	Genbank	gene	2240223	2240399	.	+	.	ID=gene-BFO_2087;Name=BFO_2087;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2087
+CP003191.1	Genbank	CDS	2240223	2240399	.	+	0	ID=cds-AEW21184.1;Parent=gene-BFO_2087;Dbxref=NCBI_GP:AEW21184.1;Name=AEW21184.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2087;product=hypothetical protein;protein_id=AEW21184.1;transl_table=11
+CP003191.1	Genbank	gene	2241527	2241703	.	+	.	ID=gene-BFO_2089;Name=BFO_2089;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2089
+CP003191.1	Genbank	CDS	2241527	2241703	.	+	0	ID=cds-AEW22528.1;Parent=gene-BFO_2089;Dbxref=NCBI_GP:AEW22528.1;Name=AEW22528.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2089;product=hypothetical protein;protein_id=AEW22528.1;transl_table=11
+CP003191.1	Genbank	gene	2260842	2261039	.	-	.	ID=gene-BFO_2109;Name=BFO_2109;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2109
+CP003191.1	Genbank	CDS	2260842	2261039	.	-	0	ID=cds-AEW21832.1;Parent=gene-BFO_2109;Dbxref=NCBI_GP:AEW21832.1;Name=AEW21832.1;gbkey=CDS;locus_tag=BFO_2109;product=hypothetical protein;protein_id=AEW21832.1;transl_table=11
+CP003191.1	Genbank	gene	2261144	2261308	.	+	.	ID=gene-BFO_2110;Name=BFO_2110;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2110
+CP003191.1	Genbank	CDS	2261144	2261308	.	+	0	ID=cds-AEW22495.1;Parent=gene-BFO_2110;Dbxref=NCBI_GP:AEW22495.1;Name=AEW22495.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2110;product=hypothetical protein;protein_id=AEW22495.1;transl_table=11
+CP003191.1	Genbank	gene	2287081	2287154	.	-	.	ID=gene-BFO_2135;Name=BFO_2135;gbkey=Gene;gene_biotype=tRNA;locus_tag=BFO_2135
+CP003191.1	Genbank	tRNA	2287081	2287154	.	-	.	ID=rna-BFO_2135;Parent=gene-BFO_2135;gbkey=tRNA;locus_tag=BFO_2135;product=tRNA-Arg
+CP003191.1	Genbank	exon	2287081	2287154	.	-	.	ID=exon-BFO_2135-1;Parent=rna-BFO_2135;gbkey=tRNA;locus_tag=BFO_2135;product=tRNA-Arg
+CP003191.1	Genbank	gene	2338671	2338802	.	+	.	ID=gene-BFO_2184;Name=BFO_2184;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2184
+CP003191.1	Genbank	CDS	2338671	2338802	.	+	0	ID=cds-AEW20930.1;Parent=gene-BFO_2184;Dbxref=NCBI_GP:AEW20930.1;Name=AEW20930.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2184;product=hypothetical protein;protein_id=AEW20930.1;transl_table=11
+CP003191.1	Genbank	gene	2338802	2339452	.	+	.	ID=gene-BFO_2185;Name=BFO_2185;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2185
+CP003191.1	Genbank	CDS	2338802	2339452	.	+	0	ID=cds-AEW20200.1;Parent=gene-BFO_2185;Dbxref=NCBI_GP:AEW20200.1;Name=AEW20200.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2185;product=hypothetical protein;protein_id=AEW20200.1;transl_table=11
+CP003191.1	Genbank	gene	2339460	2339666	.	+	.	ID=gene-BFO_2186;Name=BFO_2186;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2186
+CP003191.1	Genbank	CDS	2339460	2339666	.	+	0	ID=cds-AEW22514.1;Parent=gene-BFO_2186;Dbxref=NCBI_GP:AEW22514.1;Name=AEW22514.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2186;product=hypothetical protein;protein_id=AEW22514.1;transl_table=11
+CP003191.1	Genbank	gene	2401538	2401732	.	-	.	ID=gene-BFO_2243;Name=BFO_2243;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2243
+CP003191.1	Genbank	CDS	2401538	2401732	.	-	0	ID=cds-AEW19780.1;Parent=gene-BFO_2243;Dbxref=NCBI_GP:AEW19780.1;Name=AEW19780.1;gbkey=CDS;locus_tag=BFO_2243;product=hypothetical protein;protein_id=AEW19780.1;transl_table=11
+CP003191.1	Genbank	sequence_feature	2508368	2508403	.	+	.	ID=id-CP003191.1:2508368..2508403;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2508404	2508433	.	+	.	ID=id-CP003191.1:2508404..2508433;Note=BFO_2347;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2508434	2508470	.	+	.	ID=id-CP003191.1:2508434..2508470;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2508471	2508500	.	+	.	ID=id-CP003191.1:2508471..2508500;Note=BFO_2349;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2508501	2508540	.	+	.	ID=id-CP003191.1:2508501..2508540;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2508541	2508570	.	+	.	ID=id-CP003191.1:2508541..2508570;Note=BFO_2351;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2508571	2508610	.	+	.	ID=id-CP003191.1:2508571..2508610;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2508680	2508709	.	+	.	ID=id-CP003191.1:2508680..2508709;Note=BFO_2355;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2508710	2508745	.	+	.	ID=id-CP003191.1:2508710..2508745;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2508746	2508775	.	+	.	ID=id-CP003191.1:2508746..2508775;Note=BFO_2357;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2508776	2508809	.	+	.	ID=id-CP003191.1:2508776..2508809;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2508810	2508839	.	+	.	ID=id-CP003191.1:2508810..2508839;Note=BFO_2359;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2508905	2508942	.	+	.	ID=id-CP003191.1:2508905..2508942;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2508943	2508972	.	+	.	ID=id-CP003191.1:2508943..2508972;Note=BFO_2363;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2508973	2509008	.	+	.	ID=id-CP003191.1:2508973..2509008;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2509009	2509038	.	+	.	ID=id-CP003191.1:2509009..2509038;Note=BFO_2365;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2509039	2509074	.	+	.	ID=id-CP003191.1:2509039..2509074;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2509075	2509104	.	+	.	ID=id-CP003191.1:2509075..2509104;Note=BFO_2367;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2509105	2509141	.	+	.	ID=id-CP003191.1:2509105..2509141;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2509142	2509171	.	+	.	ID=id-CP003191.1:2509142..2509171;Note=BFO_2369;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2509172	2509210	.	+	.	ID=id-CP003191.1:2509172..2509210;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2509211	2509240	.	+	.	ID=id-CP003191.1:2509211..2509240;Note=BFO_2371;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2509241	2509278	.	+	.	ID=id-CP003191.1:2509241..2509278;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2509279	2509308	.	+	.	ID=id-CP003191.1:2509279..2509308;Note=BFO_2373;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2509309	2509344	.	+	.	ID=id-CP003191.1:2509309..2509344;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2509345	2509374	.	+	.	ID=id-CP003191.1:2509345..2509374;Note=BFO_2375;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2509442	2509478	.	+	.	ID=id-CP003191.1:2509442..2509478;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2509479	2509508	.	+	.	ID=id-CP003191.1:2509479..2509508;Note=BFO_2379;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2509509	2509545	.	+	.	ID=id-CP003191.1:2509509..2509545;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2509546	2509575	.	+	.	ID=id-CP003191.1:2509546..2509575;Note=BFO_2381;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2509576	2509613	.	+	.	ID=id-CP003191.1:2509576..2509613;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2509614	2509643	.	+	.	ID=id-CP003191.1:2509614..2509643;Note=BFO_2383;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2509644	2509678	.	+	.	ID=id-CP003191.1:2509644..2509678;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2509679	2509708	.	+	.	ID=id-CP003191.1:2509679..2509708;Note=BFO_2385;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2509709	2509744	.	+	.	ID=id-CP003191.1:2509709..2509744;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2509745	2509774	.	+	.	ID=id-CP003191.1:2509745..2509774;Note=BFO_2387;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2509775	2509810	.	+	.	ID=id-CP003191.1:2509775..2509810;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2509811	2509840	.	+	.	ID=id-CP003191.1:2509811..2509840;Note=BFO_2389;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2509841	2509878	.	+	.	ID=id-CP003191.1:2509841..2509878;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2509879	2509908	.	+	.	ID=id-CP003191.1:2509879..2509908;Note=BFO_2391;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2509909	2509945	.	+	.	ID=id-CP003191.1:2509909..2509945;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2509946	2509975	.	+	.	ID=id-CP003191.1:2509946..2509975;Note=BFO_2393;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2509976	2510011	.	+	.	ID=id-CP003191.1:2509976..2510011;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2510012	2510041	.	+	.	ID=id-CP003191.1:2510012..2510041;Note=BFO_2395;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	repeat_region	2510077	2510106	.	+	.	ID=id-CP003191.1:2510077..2510106;Note=BFO_2397;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2510107	2510142	.	+	.	ID=id-CP003191.1:2510107..2510142;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2510143	2510172	.	+	.	ID=id-CP003191.1:2510143..2510172;Note=BFO_2399;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2510173	2510209	.	+	.	ID=id-CP003191.1:2510173..2510209;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2510210	2510239	.	+	.	ID=id-CP003191.1:2510210..2510239;Note=BFO_2401;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2510240	2510275	.	+	.	ID=id-CP003191.1:2510240..2510275;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2510276	2510305	.	+	.	ID=id-CP003191.1:2510276..2510305;Note=BFO_2403;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2510306	2510341	.	+	.	ID=id-CP003191.1:2510306..2510341;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2510342	2510371	.	+	.	ID=id-CP003191.1:2510342..2510371;Note=BFO_2405;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2510372	2510409	.	+	.	ID=id-CP003191.1:2510372..2510409;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2510410	2510439	.	+	.	ID=id-CP003191.1:2510410..2510439;Note=BFO_2407;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2510440	2510476	.	+	.	ID=id-CP003191.1:2510440..2510476;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2510477	2510506	.	+	.	ID=id-CP003191.1:2510477..2510506;Note=BFO_2409;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2510507	2510543	.	+	.	ID=id-CP003191.1:2510507..2510543;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2510544	2510573	.	+	.	ID=id-CP003191.1:2510544..2510573;Note=BFO_2411;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2510574	2510611	.	+	.	ID=id-CP003191.1:2510574..2510611;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2510612	2510641	.	+	.	ID=id-CP003191.1:2510612..2510641;Note=BFO_2413;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2510642	2510677	.	+	.	ID=id-CP003191.1:2510642..2510677;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2510678	2510707	.	+	.	ID=id-CP003191.1:2510678..2510707;Note=BFO_2415;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2510708	2510744	.	+	.	ID=id-CP003191.1:2510708..2510744;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2510745	2510774	.	+	.	ID=id-CP003191.1:2510745..2510774;Note=BFO_2417;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2510775	2510810	.	+	.	ID=id-CP003191.1:2510775..2510810;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2510811	2510840	.	+	.	ID=id-CP003191.1:2510811..2510840;Note=BFO_2419;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2510841	2510876	.	+	.	ID=id-CP003191.1:2510841..2510876;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2510877	2510906	.	+	.	ID=id-CP003191.1:2510877..2510906;Note=BFO_2421;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2510907	2510945	.	+	.	ID=id-CP003191.1:2510907..2510945;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2510946	2510975	.	+	.	ID=id-CP003191.1:2510946..2510975;Note=BFO_2423;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2510976	2511013	.	+	.	ID=id-CP003191.1:2510976..2511013;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2511014	2511043	.	+	.	ID=id-CP003191.1:2511014..2511043;Note=BFO_2425;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2511044	2511081	.	+	.	ID=id-CP003191.1:2511044..2511081;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2511082	2511111	.	+	.	ID=id-CP003191.1:2511082..2511111;Note=BFO_2427;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2511112	2511147	.	+	.	ID=id-CP003191.1:2511112..2511147;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2511148	2511177	.	+	.	ID=id-CP003191.1:2511148..2511177;Note=BFO_2429;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	repeat_region	2511214	2511242	.	+	.	ID=id-CP003191.1:2511214..2511242;Note=BFO_2431;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2511243	2511279	.	+	.	ID=id-CP003191.1:2511243..2511279;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2511280	2511308	.	+	.	ID=id-CP003191.1:2511280..2511308;Note=BFO_2433;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2511309	2511345	.	+	.	ID=id-CP003191.1:2511309..2511345;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2511346	2511374	.	+	.	ID=id-CP003191.1:2511346..2511374;Note=BFO_2435;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2511375	2511412	.	+	.	ID=id-CP003191.1:2511375..2511412;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2511413	2511441	.	+	.	ID=id-CP003191.1:2511413..2511441;Note=BFO_2437;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2511442	2511479	.	+	.	ID=id-CP003191.1:2511442..2511479;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2511480	2511508	.	+	.	ID=id-CP003191.1:2511480..2511508;Note=BFO_2439;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2511509	2511545	.	+	.	ID=id-CP003191.1:2511509..2511545;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2511546	2511574	.	+	.	ID=id-CP003191.1:2511546..2511574;Note=BFO_2441;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	repeat_region	2511613	2511641	.	+	.	ID=id-CP003191.1:2511613..2511641;Note=BFO_2443;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2511642	2511678	.	+	.	ID=id-CP003191.1:2511642..2511678;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2511679	2511707	.	+	.	ID=id-CP003191.1:2511679..2511707;Note=BFO_2445;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2511708	2511745	.	+	.	ID=id-CP003191.1:2511708..2511745;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2511746	2511774	.	+	.	ID=id-CP003191.1:2511746..2511774;Note=BFO_2447;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2511775	2511809	.	+	.	ID=id-CP003191.1:2511775..2511809;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2511810	2511838	.	+	.	ID=id-CP003191.1:2511810..2511838;Note=BFO_2449;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2511839	2511876	.	+	.	ID=id-CP003191.1:2511839..2511876;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2511877	2511906	.	+	.	ID=id-CP003191.1:2511877..2511906;Note=BFO_2451;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2511907	2511944	.	+	.	ID=id-CP003191.1:2511907..2511944;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2511945	2511974	.	+	.	ID=id-CP003191.1:2511945..2511974;Note=BFO_2453;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2511975	2512011	.	+	.	ID=id-CP003191.1:2511975..2512011;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2512012	2512041	.	+	.	ID=id-CP003191.1:2512012..2512041;Note=BFO_2455;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2512042	2512078	.	+	.	ID=id-CP003191.1:2512042..2512078;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2512079	2512108	.	+	.	ID=id-CP003191.1:2512079..2512108;Note=BFO_2457;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2512109	2512143	.	+	.	ID=id-CP003191.1:2512109..2512143;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2512144	2512173	.	+	.	ID=id-CP003191.1:2512144..2512173;Note=BFO_2459;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2512240	2512276	.	+	.	ID=id-CP003191.1:2512240..2512276;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2512277	2512306	.	+	.	ID=id-CP003191.1:2512277..2512306;Note=BFO_2463;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2512307	2512340	.	+	.	ID=id-CP003191.1:2512307..2512340;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2512341	2512370	.	+	.	ID=id-CP003191.1:2512341..2512370;Note=BFO_2465;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	repeat_region	2512406	2512435	.	+	.	ID=id-CP003191.1:2512406..2512435;Note=BFO_2467;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2512436	2512471	.	+	.	ID=id-CP003191.1:2512436..2512471;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2512472	2512501	.	+	.	ID=id-CP003191.1:2512472..2512501;Note=BFO_2469;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2512502	2512536	.	+	.	ID=id-CP003191.1:2512502..2512536;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2512537	2512566	.	+	.	ID=id-CP003191.1:2512537..2512566;Note=BFO_2471;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2512567	2512605	.	+	.	ID=id-CP003191.1:2512567..2512605;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2512606	2512635	.	+	.	ID=id-CP003191.1:2512606..2512635;Note=BFO_2473;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2512636	2512674	.	+	.	ID=id-CP003191.1:2512636..2512674;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2512740	2512769	.	+	.	ID=id-CP003191.1:2512740..2512769;Note=BFO_2477;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2512770	2512807	.	+	.	ID=id-CP003191.1:2512770..2512807;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2512808	2512837	.	+	.	ID=id-CP003191.1:2512808..2512837;Note=BFO_2479;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2512838	2512875	.	+	.	ID=id-CP003191.1:2512838..2512875;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2512876	2512905	.	+	.	ID=id-CP003191.1:2512876..2512905;Note=BFO_2481;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2512906	2512942	.	+	.	ID=id-CP003191.1:2512906..2512942;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2512943	2512972	.	+	.	ID=id-CP003191.1:2512943..2512972;Note=BFO_2483;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2512973	2513007	.	+	.	ID=id-CP003191.1:2512973..2513007;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2513008	2513037	.	+	.	ID=id-CP003191.1:2513008..2513037;Note=BFO_2485;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	sequence_feature	2513038	2513073	.	+	.	ID=id-CP003191.1:2513038..2513073;Note=CRISPR spacer;gbkey=misc_feature
+CP003191.1	Genbank	repeat_region	2513074	2513103	.	+	.	ID=id-CP003191.1:2513074..2513103;Note=BFO_2488;gbkey=repeat_region;rpt_family=CRISPR
+CP003191.1	Genbank	gene	2547384	2549258	.	+	.	ID=gene-BFO_2514;Name=BFO_2514;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2514
+CP003191.1	Genbank	CDS	2547384	2549258	.	+	0	ID=cds-AEW20822.1;Parent=gene-BFO_2514;Dbxref=NCBI_GP:AEW20822.1;Name=AEW20822.1;gbkey=CDS;locus_tag=BFO_2514;product=putative lipoprotein;protein_id=AEW20822.1;transl_table=11
+CP003191.1	Genbank	gene	2549234	2549368	.	+	.	ID=gene-BFO_2516;Name=BFO_2516;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2516
+CP003191.1	Genbank	CDS	2549234	2549368	.	+	0	ID=cds-AEW22537.1;Parent=gene-BFO_2516;Dbxref=NCBI_GP:AEW22537.1;Name=AEW22537.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2516;product=hypothetical protein;protein_id=AEW22537.1;transl_table=11
+CP003191.1	Genbank	pseudogene	2562161	2562382	.	+	.	ID=gene-BFO_2527;Name=BFO_2527;Note=conserved hypothetical protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_2527;pseudo=true
+CP003191.1	Genbank	pseudogene	2563183	2563434	.	-	.	ID=gene-BFO_2529;Name=BFO_2529;Note=conserved hypothetical protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_2529;pseudo=true
+CP003191.1	Genbank	gene	2563479	2563598	.	+	.	ID=gene-BFO_2530;Name=BFO_2530;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2530
+CP003191.1	Genbank	CDS	2563479	2563598	.	+	0	ID=cds-AEW21934.1;Parent=gene-BFO_2530;Dbxref=NCBI_GP:AEW21934.1;Name=AEW21934.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2530;product=hypothetical protein;protein_id=AEW21934.1;transl_table=11
+CP003191.1	Genbank	gene	2589861	2590067	.	-	.	ID=gene-BFO_2559;Name=BFO_2559;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2559
+CP003191.1	Genbank	CDS	2589861	2590067	.	-	0	ID=cds-AEW21806.1;Parent=gene-BFO_2559;Dbxref=NCBI_GP:AEW21806.1;Name=AEW21806.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2559;product=hypothetical protein;protein_id=AEW21806.1;transl_table=11
+CP003191.1	Genbank	pseudogene	2625355	2625516	.	-	.	ID=gene-BFO_2593;Name=BFO_2593;Note=conserved hypothetical protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_2593;pseudo=true
+CP003191.1	Genbank	gene	2628596	2628709	.	+	.	ID=gene-BFO_2598;Name=BFO_2598;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2598
+CP003191.1	Genbank	CDS	2628596	2628709	.	+	0	ID=cds-AEW21326.1;Parent=gene-BFO_2598;Dbxref=NCBI_GP:AEW21326.1;Name=AEW21326.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2598;product=hypothetical protein;protein_id=AEW21326.1;transl_table=11
+CP003191.1	Genbank	binding_site	2637249	2637344	.	+	.	ID=id-CP003191.1:2637249..2637344;Note=TPP riboswitch (THI element)%3B Rfam score 62.83;bound_moiety=thiamine/thiamin pyrophosphate;gbkey=misc_binding;inference=nucleotide motif:RFAM:RF00059
+CP003191.1	Genbank	gene	2692285	2692431	.	+	.	ID=gene-BFO_2660;Name=BFO_2660;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2660
+CP003191.1	Genbank	CDS	2692285	2692431	.	+	0	ID=cds-AEW20966.1;Parent=gene-BFO_2660;Dbxref=NCBI_GP:AEW20966.1;Name=AEW20966.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2660;product=hypothetical protein;protein_id=AEW20966.1;transl_table=11
+CP003191.1	Genbank	gene	2698819	2698932	.	-	.	ID=gene-BFO_2668;Name=BFO_2668;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2668
+CP003191.1	Genbank	CDS	2698819	2698932	.	-	0	ID=cds-AEW22646.1;Parent=gene-BFO_2668;Dbxref=NCBI_GP:AEW22646.1;Name=AEW22646.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2668;product=hypothetical protein;protein_id=AEW22646.1;transl_table=11
+CP003191.1	Genbank	gene	2707910	2708023	.	-	.	ID=gene-BFO_2677;Name=BFO_2677;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2677
+CP003191.1	Genbank	CDS	2707910	2708023	.	-	0	ID=cds-AEW20058.1;Parent=gene-BFO_2677;Dbxref=NCBI_GP:AEW20058.1;Name=AEW20058.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2677;product=hypothetical protein;protein_id=AEW20058.1;transl_table=11
+CP003191.1	Genbank	gene	2711522	2711635	.	-	.	ID=gene-BFO_2681;Name=BFO_2681;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2681
+CP003191.1	Genbank	CDS	2711522	2711635	.	-	0	ID=cds-AEW21174.1;Parent=gene-BFO_2681;Dbxref=NCBI_GP:AEW21174.1;Name=AEW21174.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2681;product=hypothetical protein;protein_id=AEW21174.1;transl_table=11
+CP003191.1	Genbank	gene	2711892	2712032	.	+	.	ID=gene-BFO_2682;Name=BFO_2682;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2682
+CP003191.1	Genbank	CDS	2711892	2712032	.	+	0	ID=cds-AEW21299.1;Parent=gene-BFO_2682;Dbxref=NCBI_GP:AEW21299.1;Name=AEW21299.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2682;product=hypothetical protein;protein_id=AEW21299.1;transl_table=11
+CP003191.1	Genbank	gene	2736063	2736233	.	+	.	ID=gene-BFO_2704;Name=BFO_2704;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2704
+CP003191.1	Genbank	CDS	2736063	2736233	.	+	0	ID=cds-AEW21507.1;Parent=gene-BFO_2704;Dbxref=NCBI_GP:AEW21507.1;Name=AEW21507.1;gbkey=CDS;locus_tag=BFO_2704;product=hypothetical protein;protein_id=AEW21507.1;transl_table=11
+CP003191.1	Genbank	gene	2738427	2738558	.	-	.	ID=gene-BFO_2708;Name=BFO_2708;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2708
+CP003191.1	Genbank	CDS	2738427	2738558	.	-	0	ID=cds-AEW21908.1;Parent=gene-BFO_2708;Dbxref=NCBI_GP:AEW21908.1;Name=AEW21908.1;gbkey=CDS;locus_tag=BFO_2708;product=hypothetical protein;protein_id=AEW21908.1;transl_table=11
+CP003191.1	Genbank	pseudogene	2763200	2763547	.	+	.	ID=gene-BFO_2735;Name=BFO_2735;Note=hypothetical protein%3B this gene contains a premature stop which may be the result of a sequencing error%3B identified by glimmer%3B putative;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_2735;pseudo=true
+CP003191.1	Genbank	pseudogene	2763548	2764015	.	+	.	ID=gene-BFO_2736;Name=BFO_2736;Note=conserved domain protein%3B this gene contains a premature stop which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_2736;pseudo=true
+CP003191.1	Genbank	gene	2796186	2797427	.	-	.	ID=gene-BFO_2768;Name=BFO_2768;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2768
+CP003191.1	Genbank	CDS	2796186	2797427	.	-	0	ID=cds-AEW22666.1;Parent=gene-BFO_2768;Dbxref=NCBI_GP:AEW22666.1;Name=AEW22666.1;Note=identified by match to protein family HMM PF01610;gbkey=CDS;locus_tag=BFO_2768;product=transposase;protein_id=AEW22666.1;transl_table=11
+CP003191.1	Genbank	gene	2814852	2814989	.	-	.	ID=gene-BFO_2786;Name=BFO_2786;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2786
+CP003191.1	Genbank	CDS	2814852	2814989	.	-	0	ID=cds-AEW22088.1;Parent=gene-BFO_2786;Dbxref=NCBI_GP:AEW22088.1;Name=AEW22088.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2786;product=hypothetical protein;protein_id=AEW22088.1;transl_table=11
+CP003191.1	Genbank	gene	2815042	2815158	.	-	.	ID=gene-BFO_2787;Name=BFO_2787;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2787
+CP003191.1	Genbank	CDS	2815042	2815158	.	-	0	ID=cds-AEW22374.1;Parent=gene-BFO_2787;Dbxref=NCBI_GP:AEW22374.1;Name=AEW22374.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2787;product=hypothetical protein;protein_id=AEW22374.1;transl_table=11
+CP003191.1	Genbank	gene	2828984	2829103	.	-	.	ID=gene-BFO_2800;Name=BFO_2800;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2800
+CP003191.1	Genbank	CDS	2828984	2829103	.	-	0	ID=cds-AEW21725.1;Parent=gene-BFO_2800;Dbxref=NCBI_GP:AEW21725.1;Name=AEW21725.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2800;product=hypothetical protein;protein_id=AEW21725.1;transl_table=11
+CP003191.1	Genbank	pseudogene	2842125	2842310	.	+	.	ID=gene-BFO_2810;Name=BFO_2810;Note=conserved hypothetical protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_2810;pseudo=true
+CP003191.1	Genbank	gene	2883074	2884414	.	+	.	ID=gene-BFO_2855;Name=BFO_2855;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2855
+CP003191.1	Genbank	CDS	2883074	2884414	.	+	0	ID=cds-AEW20821.1;Parent=gene-BFO_2855;Dbxref=NCBI_GP:AEW20821.1;Name=AEW20821.1;Note=identified by match to protein family HMM PF01609;gbkey=CDS;locus_tag=BFO_2855;product=transposase%2C IS4 family;protein_id=AEW20821.1;transl_table=11
+CP003191.1	Genbank	gene	2987707	2987832	.	+	.	ID=gene-BFO_2954;Name=BFO_2954;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_2954
+CP003191.1	Genbank	CDS	2987707	2987832	.	+	0	ID=cds-AEW21775.1;Parent=gene-BFO_2954;Dbxref=NCBI_GP:AEW21775.1;Name=AEW21775.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_2954;product=hypothetical protein;protein_id=AEW21775.1;transl_table=11
+CP003191.1	Genbank	gene	3049412	3049531	.	-	.	ID=gene-BFO_3009;Name=BFO_3009;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3009
+CP003191.1	Genbank	CDS	3049412	3049531	.	-	0	ID=cds-AEW20619.1;Parent=gene-BFO_3009;Dbxref=NCBI_GP:AEW20619.1;Name=AEW20619.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3009;product=hypothetical protein;protein_id=AEW20619.1;transl_table=11
+CP003191.1	Genbank	gene	3059150	3059353	.	+	.	ID=gene-BFO_3017;Name=BFO_3017;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3017
+CP003191.1	Genbank	CDS	3059150	3059353	.	+	0	ID=cds-AEW20170.1;Parent=gene-BFO_3017;Dbxref=NCBI_GP:AEW20170.1;Name=AEW20170.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3017;product=hypothetical protein;protein_id=AEW20170.1;transl_table=11
+CP003191.1	Genbank	gene	3059482	3059601	.	-	.	ID=gene-BFO_3018;Name=BFO_3018;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3018
+CP003191.1	Genbank	CDS	3059482	3059601	.	-	0	ID=cds-AEW19923.1;Parent=gene-BFO_3018;Dbxref=NCBI_GP:AEW19923.1;Name=AEW19923.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3018;product=hypothetical protein;protein_id=AEW19923.1;transl_table=11
+CP003191.1	Genbank	gene	3095756	3095959	.	+	.	ID=gene-BFO_3049;Name=BFO_3049;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3049
+CP003191.1	Genbank	CDS	3095756	3095959	.	+	0	ID=cds-AEW21557.1;Parent=gene-BFO_3049;Dbxref=NCBI_GP:AEW21557.1;Name=AEW21557.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3049;product=hypothetical protein;protein_id=AEW21557.1;transl_table=11
+CP003191.1	Genbank	gene	3112145	3112984	.	-	.	ID=gene-BFO_3063;Name=BFO_3063;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3063
+CP003191.1	Genbank	CDS	3112145	3112984	.	-	0	ID=cds-AEW21669.1;Parent=gene-BFO_3063;Dbxref=NCBI_GP:AEW21669.1;Name=AEW21669.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3063;product=hypothetical protein;protein_id=AEW21669.1;transl_table=11
+CP003191.1	Genbank	gene	3112947	3113645	.	-	.	ID=gene-BFO_3064;Name=BFO_3064;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3064
+CP003191.1	Genbank	CDS	3112947	3113645	.	-	0	ID=cds-AEW21942.1;Parent=gene-BFO_3064;Dbxref=NCBI_GP:AEW21942.1;Name=AEW21942.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3064;product=hypothetical protein;protein_id=AEW21942.1;transl_table=11
+CP003191.1	Genbank	gene	3113731	3114522	.	-	.	ID=gene-BFO_3065;Name=BFO_3065;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3065
+CP003191.1	Genbank	CDS	3113731	3114522	.	-	0	ID=cds-AEW22092.1;Parent=gene-BFO_3065;Dbxref=NCBI_GP:AEW22092.1;Name=AEW22092.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3065;product=hypothetical protein;protein_id=AEW22092.1;transl_table=11
+CP003191.1	Genbank	gene	3114539	3115237	.	-	.	ID=gene-BFO_3066;Name=BFO_3066;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3066
+CP003191.1	Genbank	CDS	3114539	3115237	.	-	0	ID=cds-AEW21277.1;Parent=gene-BFO_3066;Dbxref=NCBI_GP:AEW21277.1;Name=AEW21277.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3066;product=hypothetical protein;protein_id=AEW21277.1;transl_table=11
+CP003191.1	Genbank	gene	3115323	3116045	.	-	.	ID=gene-BFO_3067;Name=BFO_3067;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3067
+CP003191.1	Genbank	CDS	3115323	3116045	.	-	0	ID=cds-AEW20783.1;Parent=gene-BFO_3067;Dbxref=NCBI_GP:AEW20783.1;Name=AEW20783.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3067;product=hypothetical protein;protein_id=AEW20783.1;transl_table=11
+CP003191.1	Genbank	gene	3116063	3116749	.	-	.	ID=gene-BFO_3068;Name=BFO_3068;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3068
+CP003191.1	Genbank	CDS	3116063	3116749	.	-	0	ID=cds-AEW20044.1;Parent=gene-BFO_3068;Dbxref=NCBI_GP:AEW20044.1;Name=AEW20044.1;gbkey=CDS;locus_tag=BFO_3068;product=hypothetical protein;protein_id=AEW20044.1;transl_table=11
+CP003191.1	Genbank	gene	3116809	3116937	.	-	.	ID=gene-BFO_3069;Name=BFO_3069;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3069
+CP003191.1	Genbank	CDS	3116809	3116937	.	-	0	ID=cds-AEW20188.1;Parent=gene-BFO_3069;Dbxref=NCBI_GP:AEW20188.1;Name=AEW20188.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3069;product=hypothetical protein;protein_id=AEW20188.1;transl_table=11
+CP003191.1	Genbank	gene	3116938	3117726	.	-	.	ID=gene-BFO_3070;Name=BFO_3070;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3070
+CP003191.1	Genbank	CDS	3116938	3117726	.	-	0	ID=cds-AEW22148.1;Parent=gene-BFO_3070;Dbxref=NCBI_GP:AEW22148.1;Name=AEW22148.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3070;product=hypothetical protein;protein_id=AEW22148.1;transl_table=11
+CP003191.1	Genbank	gene	3117743	3118441	.	-	.	ID=gene-BFO_3071;Name=BFO_3071;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3071
+CP003191.1	Genbank	CDS	3117743	3118441	.	-	0	ID=cds-AEW21891.1;Parent=gene-BFO_3071;Dbxref=NCBI_GP:AEW21891.1;Name=AEW21891.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3071;product=hypothetical protein;protein_id=AEW21891.1;transl_table=11
+CP003191.1	Genbank	gene	3172050	3172163	.	+	.	ID=gene-BFO_3123;Name=BFO_3123;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3123
+CP003191.1	Genbank	CDS	3172050	3172163	.	+	0	ID=cds-AEW22414.1;Parent=gene-BFO_3123;Dbxref=NCBI_GP:AEW22414.1;Name=AEW22414.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3123;product=hypothetical protein;protein_id=AEW22414.1;transl_table=11
+CP003191.1	Genbank	gene	3215505	3215729	.	+	.	ID=gene-BFO_3160;Name=BFO_3160;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3160
+CP003191.1	Genbank	CDS	3215505	3215729	.	+	0	ID=cds-AEW20473.1;Parent=gene-BFO_3160;Dbxref=NCBI_GP:AEW20473.1;Name=AEW20473.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3160;product=hypothetical protein;protein_id=AEW20473.1;transl_table=11
+CP003191.1	Genbank	gene	3225928	3226122	.	-	.	ID=gene-BFO_3181;Name=BFO_3181;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3181
+CP003191.1	Genbank	CDS	3225928	3226122	.	-	0	ID=cds-AEW22346.1;Parent=gene-BFO_3181;Dbxref=NCBI_GP:AEW22346.1;Name=AEW22346.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3181;product=hypothetical protein;protein_id=AEW22346.1;transl_table=11
+CP003191.1	Genbank	gene	3226432	3226605	.	+	.	ID=gene-BFO_3183;Name=BFO_3183;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3183
+CP003191.1	Genbank	CDS	3226432	3226605	.	+	0	ID=cds-AEW19992.1;Parent=gene-BFO_3183;Dbxref=NCBI_GP:AEW19992.1;Name=AEW19992.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3183;product=hypothetical protein;protein_id=AEW19992.1;transl_table=11
+CP003191.1	Genbank	gene	3226577	3227158	.	-	.	ID=gene-BFO_3182;Name=BFO_3182;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3182
+CP003191.1	Genbank	CDS	3226577	3227158	.	-	0	ID=cds-AEW20023.1;Parent=gene-BFO_3182;Dbxref=NCBI_GP:AEW20023.1;Name=AEW20023.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3182;product=hypothetical protein;protein_id=AEW20023.1;transl_table=11
+CP003191.1	Genbank	gene	3227784	3231389	.	+	.	ID=gene-BFO_3184;Name=BFO_3184;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3184
+CP003191.1	Genbank	CDS	3227784	3231389	.	+	0	ID=cds-AEW20614.1;Parent=gene-BFO_3184;Dbxref=NCBI_GP:AEW20614.1;Name=AEW20614.1;gbkey=CDS;locus_tag=BFO_3184;product=helicase C-terminal domain protein;protein_id=AEW20614.1;transl_table=11
+CP003191.1	Genbank	gene	3231544	3232164	.	+	.	ID=gene-BFO_3185;Name=BFO_3185;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3185
+CP003191.1	Genbank	CDS	3231544	3232164	.	+	0	ID=cds-AEW21335.1;Parent=gene-BFO_3185;Dbxref=NCBI_GP:AEW21335.1;Name=AEW21335.1;Note=identified by match to protein family HMM PF00440;gbkey=CDS;locus_tag=BFO_3185;product=transcriptional regulator%2C TetR family;protein_id=AEW21335.1;transl_table=11
+CP003191.1	Genbank	gene	3232212	3233021	.	+	.	ID=gene-BFO_3186;Name=BFO_3186;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3186
+CP003191.1	Genbank	CDS	3232212	3233021	.	+	0	ID=cds-AEW21556.1;Parent=gene-BFO_3186;Dbxref=NCBI_GP:AEW21556.1;Name=AEW21556.1;gbkey=CDS;locus_tag=BFO_3186;product=hypothetical protein;protein_id=AEW21556.1;transl_table=11
+CP003191.1	Genbank	gene	3233014	3234144	.	+	.	ID=gene-BFO_3187;Name=BFO_3187;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3187
+CP003191.1	Genbank	CDS	3233014	3234144	.	+	0	ID=cds-AEW22420.1;Parent=gene-BFO_3187;Dbxref=NCBI_GP:AEW22420.1;Name=AEW22420.1;Note=identified by match to protein family HMM PF08541;gbkey=CDS;locus_tag=BFO_3187;product=putative 3-oxoacyl-(acyl carrier protein) synthase III;protein_id=AEW22420.1;transl_table=11
+CP003191.1	Genbank	gene	3234168	3236420	.	+	.	ID=gene-BFO_3188;Name=BFO_3188;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3188
+CP003191.1	Genbank	CDS	3234168	3236420	.	+	0	ID=cds-AEW20193.1;Parent=gene-BFO_3188;Dbxref=NCBI_GP:AEW20193.1;Name=AEW20193.1;gbkey=CDS;locus_tag=BFO_3188;product=efflux transporter%2C HAE3 family;protein_id=AEW20193.1;transl_table=11
+CP003191.1	Genbank	pseudogene	3236417	3237151	.	+	.	ID=gene-BFO_3189;Name=BFO_3189;Note=conserved domain protein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_3189;pseudo=true
+CP003191.1	Genbank	gene	3237163	3238569	.	+	.	ID=gene-BFO_3190;Name=BFO_3190;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3190
+CP003191.1	Genbank	CDS	3237163	3238569	.	+	0	ID=cds-AEW22554.1;Parent=gene-BFO_3190;Dbxref=NCBI_GP:AEW22554.1;Name=AEW22554.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3190;product=hypothetical protein;protein_id=AEW22554.1;transl_table=11
+CP003191.1	Genbank	pseudogene	3238624	3240054	.	+	.	ID=gene-BFO_3191;Name=BFO_3191;Note=putative lipoprotein%3B this gene contains a frame shift which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_3191;pseudo=true
+CP003191.1	Genbank	gene	3240126	3240560	.	-	.	ID=gene-BFO_3192;Name=BFO_3192;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3192
+CP003191.1	Genbank	CDS	3240126	3240560	.	-	0	ID=cds-AEW19761.1;Parent=gene-BFO_3192;Dbxref=NCBI_GP:AEW19761.1;Name=AEW19761.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3192;product=hypothetical protein;protein_id=AEW19761.1;transl_table=11
+CP003191.1	Genbank	gene	3240594	3241052	.	+	.	ID=gene-BFO_3193;Name=BFO_3193;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3193
+CP003191.1	Genbank	CDS	3240594	3241052	.	+	0	ID=cds-AEW21294.1;Parent=gene-BFO_3193;Dbxref=NCBI_GP:AEW21294.1;Name=AEW21294.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3193;product=hypothetical protein;protein_id=AEW21294.1;transl_table=11
+CP003191.1	Genbank	gene	3241063	3241590	.	+	.	ID=gene-BFO_3194;Name=BFO_3194;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3194
+CP003191.1	Genbank	CDS	3241063	3241590	.	+	0	ID=cds-AEW22661.1;Parent=gene-BFO_3194;Dbxref=NCBI_GP:AEW22661.1;Name=AEW22661.1;gbkey=CDS;locus_tag=BFO_3194;product=putative lipoprotein;protein_id=AEW22661.1;transl_table=11
+CP003191.1	Genbank	gene	3252069	3252263	.	-	.	ID=gene-BFO_3205;Name=BFO_3205;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3205
+CP003191.1	Genbank	CDS	3252069	3252263	.	-	0	ID=cds-AEW20026.1;Parent=gene-BFO_3205;Dbxref=NCBI_GP:AEW20026.1;Name=AEW20026.1;gbkey=CDS;locus_tag=BFO_3205;product=hypothetical protein;protein_id=AEW20026.1;transl_table=11
+CP003191.1	Genbank	gene	3255124	3257394	.	-	.	ID=gene-BFO_3208;Name=BFO_3208;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3208
+CP003191.1	Genbank	CDS	3255124	3257394	.	-	0	ID=cds-AEW21120.1;Parent=gene-BFO_3208;Dbxref=NCBI_GP:AEW21120.1;Name=AEW21120.1;gbkey=CDS;locus_tag=BFO_3208;product=putative flagellar protein FliS;protein_id=AEW21120.1;transl_table=11
+CP003191.1	Genbank	gene	3257481	3258860	.	-	.	ID=gene-BFO_3209;Name=BFO_3209;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3209
+CP003191.1	Genbank	CDS	3257481	3258860	.	-	0	ID=cds-AEW20262.1;Parent=gene-BFO_3209;Dbxref=NCBI_GP:AEW20262.1;Name=AEW20262.1;Note=identified by match to protein family HMM PF04055;gbkey=CDS;locus_tag=BFO_3209;product=radical SAM domain protein;protein_id=AEW20262.1;transl_table=11
+CP003191.1	Genbank	gene	3259107	3259229	.	+	.	ID=gene-BFO_3210;Name=BFO_3210;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3210
+CP003191.1	Genbank	CDS	3259107	3259229	.	+	0	ID=cds-AEW21178.1;Parent=gene-BFO_3210;Dbxref=NCBI_GP:AEW21178.1;Name=AEW21178.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3210;product=hypothetical protein;protein_id=AEW21178.1;transl_table=11
+CP003191.1	Genbank	pseudogene	3259835	3260038	.	+	.	ID=gene-BFO_3211;Name=BFO_3211;Note=ISPg6%2C transposase family protein%3B this region contains one or more premature stops and/or frameshifts;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_3211;pseudo=true
+CP003191.1	Genbank	gene	3262305	3262487	.	-	.	ID=gene-BFO_3213;Name=BFO_3213;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3213
+CP003191.1	Genbank	CDS	3262305	3262487	.	-	0	ID=cds-AEW22439.1;Parent=gene-BFO_3213;Dbxref=NCBI_GP:AEW22439.1;Name=AEW22439.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3213;product=hypothetical protein;protein_id=AEW22439.1;transl_table=11
+CP003191.1	Genbank	gene	3262566	3262700	.	+	.	ID=gene-BFO_3214;Name=BFO_3214;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3214
+CP003191.1	Genbank	CDS	3262566	3262700	.	+	0	ID=cds-AEW20358.1;Parent=gene-BFO_3214;Dbxref=NCBI_GP:AEW20358.1;Name=AEW20358.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3214;product=hypothetical protein;protein_id=AEW20358.1;transl_table=11
+CP003191.1	Genbank	gene	3262775	3264214	.	+	.	ID=gene-BFO_3215;Name=BFO_3215;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3215
+CP003191.1	Genbank	CDS	3262775	3264214	.	+	0	ID=cds-AEW21461.1;Parent=gene-BFO_3215;Dbxref=NCBI_GP:AEW21461.1;Name=AEW21461.1;gbkey=CDS;locus_tag=BFO_3215;product=hypothetical protein;protein_id=AEW21461.1;transl_table=11
+CP003191.1	Genbank	gene	3264217	3264762	.	+	.	ID=gene-BFO_3216;Name=BFO_3216;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3216
+CP003191.1	Genbank	CDS	3264217	3264762	.	+	0	ID=cds-AEW22532.1;Parent=gene-BFO_3216;Dbxref=NCBI_GP:AEW22532.1;Name=AEW22532.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3216;product=hypothetical protein;protein_id=AEW22532.1;transl_table=11
+CP003191.1	Genbank	gene	3264722	3264844	.	+	.	ID=gene-BFO_3217;Name=BFO_3217;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3217
+CP003191.1	Genbank	CDS	3264722	3264844	.	+	0	ID=cds-AEW21923.1;Parent=gene-BFO_3217;Dbxref=NCBI_GP:AEW21923.1;Name=AEW21923.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3217;product=hypothetical protein;protein_id=AEW21923.1;transl_table=11
+CP003191.1	Genbank	gene	3265451	3265693	.	+	.	ID=gene-BFO_3218;Name=BFO_3218;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3218
+CP003191.1	Genbank	CDS	3265451	3265693	.	+	0	ID=cds-AEW20937.1;Parent=gene-BFO_3218;Dbxref=NCBI_GP:AEW20937.1;Name=AEW20937.1;gbkey=CDS;locus_tag=BFO_3218;product=hypothetical protein;protein_id=AEW20937.1;transl_table=11
+CP003191.1	Genbank	gene	3266021	3266146	.	-	.	ID=gene-BFO_3219;Name=BFO_3219;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3219
+CP003191.1	Genbank	CDS	3266021	3266146	.	-	0	ID=cds-AEW20643.1;Parent=gene-BFO_3219;Dbxref=NCBI_GP:AEW20643.1;Name=AEW20643.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3219;product=hypothetical protein;protein_id=AEW20643.1;transl_table=11
+CP003191.1	Genbank	pseudogene	3266212	3266373	.	+	.	ID=gene-BFO_3220;Name=BFO_3220;Note=hypothetical protein%3B this gene contains a premature stop which may be the result of a sequencing error%3B identified by glimmer%3B putative;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_3220;pseudo=true
+CP003191.1	Genbank	gene	3266509	3266832	.	+	.	ID=gene-BFO_3221;Name=BFO_3221;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3221
+CP003191.1	Genbank	CDS	3266509	3266832	.	+	0	ID=cds-AEW20745.1;Parent=gene-BFO_3221;Dbxref=NCBI_GP:AEW20745.1;Name=AEW20745.1;gbkey=CDS;locus_tag=BFO_3221;product=hypothetical protein;protein_id=AEW20745.1;transl_table=11
+CP003191.1	Genbank	gene	3266825	3267727	.	+	.	ID=gene-BFO_3222;Name=traN_2;gbkey=Gene;gene=traN_2;gene_biotype=protein_coding;locus_tag=BFO_3222
+CP003191.1	Genbank	CDS	3266825	3267727	.	+	0	ID=cds-AEW19947.1;Parent=gene-BFO_3222;Dbxref=NCBI_GP:AEW19947.1;Name=AEW19947.1;Note=identified by match to protein family HMM TIGR03780;gbkey=CDS;gene=traN_2;locus_tag=BFO_3222;product=conjugative transposon TraN protein;protein_id=AEW19947.1;transl_table=11
+CP003191.1	Genbank	gene	3267721	3268299	.	+	.	ID=gene-BFO_3223;Name=BFO_3223;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3223
+CP003191.1	Genbank	CDS	3267721	3268299	.	+	0	ID=cds-AEW22069.1;Parent=gene-BFO_3223;Dbxref=NCBI_GP:AEW22069.1;Name=AEW22069.1;gbkey=CDS;locus_tag=BFO_3223;product=conjugative transposon protein TraO;protein_id=AEW22069.1;transl_table=11
+CP003191.1	Genbank	gene	3268312	3268776	.	+	.	ID=gene-BFO_3224;Name=BFO_3224;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3224
+CP003191.1	Genbank	CDS	3268312	3268776	.	+	0	ID=cds-AEW21237.1;Parent=gene-BFO_3224;Dbxref=NCBI_GP:AEW21237.1;Name=AEW21237.1;gbkey=CDS;locus_tag=BFO_3224;product=conjugative transposon protein TraQ;protein_id=AEW21237.1;transl_table=11
+CP003191.1	Genbank	gene	3268804	3268929	.	-	.	ID=gene-BFO_3225;Name=BFO_3225;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3225
+CP003191.1	Genbank	CDS	3268804	3268929	.	-	0	ID=cds-AEW20802.1;Parent=gene-BFO_3225;Dbxref=NCBI_GP:AEW20802.1;Name=AEW20802.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3225;product=hypothetical protein;protein_id=AEW20802.1;transl_table=11
+CP003191.1	Genbank	gene	3268898	3269044	.	+	.	ID=gene-BFO_3226;Name=BFO_3226;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3226
+CP003191.1	Genbank	CDS	3268898	3269044	.	+	0	ID=cds-AEW22710.1;Parent=gene-BFO_3226;Dbxref=NCBI_GP:AEW22710.1;Name=AEW22710.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3226;product=hypothetical protein;protein_id=AEW22710.1;transl_table=11
+CP003191.1	Genbank	gene	3269131	3269577	.	-	.	ID=gene-BFO_3227;Name=BFO_3227;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3227
+CP003191.1	Genbank	CDS	3269131	3269577	.	-	0	ID=cds-AEW20518.1;Parent=gene-BFO_3227;Dbxref=NCBI_GP:AEW20518.1;Name=AEW20518.1;gbkey=CDS;locus_tag=BFO_3227;product=hypothetical protein;protein_id=AEW20518.1;transl_table=11
+CP003191.1	Genbank	gene	3270052	3270477	.	+	.	ID=gene-BFO_3228;Name=BFO_3228;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3228
+CP003191.1	Genbank	CDS	3270052	3270477	.	+	0	ID=cds-AEW19813.1;Parent=gene-BFO_3228;Dbxref=NCBI_GP:AEW19813.1;Name=AEW19813.1;gbkey=CDS;locus_tag=BFO_3228;product=hypothetical protein;protein_id=AEW19813.1;transl_table=11
+CP003191.1	Genbank	gene	3270657	3270770	.	-	.	ID=gene-BFO_3229;Name=BFO_3229;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3229
+CP003191.1	Genbank	CDS	3270657	3270770	.	-	0	ID=cds-AEW20489.1;Parent=gene-BFO_3229;Dbxref=NCBI_GP:AEW20489.1;Name=AEW20489.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3229;product=hypothetical protein;protein_id=AEW20489.1;transl_table=11
+CP003191.1	Genbank	gene	3270754	3270894	.	+	.	ID=gene-BFO_3230;Name=BFO_3230;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3230
+CP003191.1	Genbank	CDS	3270754	3270894	.	+	0	ID=cds-AEW21198.1;Parent=gene-BFO_3230;Dbxref=NCBI_GP:AEW21198.1;Name=AEW21198.1;gbkey=CDS;locus_tag=BFO_3230;product=hypothetical protein;protein_id=AEW21198.1;transl_table=11
+CP003191.1	Genbank	gene	3270905	3271996	.	+	.	ID=gene-BFO_3231;Name=BFO_3231;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3231
+CP003191.1	Genbank	CDS	3270905	3271996	.	+	0	ID=cds-AEW21860.1;Parent=gene-BFO_3231;Dbxref=NCBI_GP:AEW21860.1;Name=AEW21860.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3231;product=hypothetical protein;protein_id=AEW21860.1;transl_table=11
+CP003191.1	Genbank	gene	3273294	3273434	.	+	.	ID=gene-BFO_3232;Name=BFO_3232;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3232
+CP003191.1	Genbank	CDS	3273294	3273434	.	+	0	ID=cds-AEW21002.1;Parent=gene-BFO_3232;Dbxref=NCBI_GP:AEW21002.1;Name=AEW21002.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3232;product=hypothetical protein;protein_id=AEW21002.1;transl_table=11
+CP003191.1	Genbank	gene	3273661	3273852	.	-	.	ID=gene-BFO_3233;Name=BFO_3233;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3233
+CP003191.1	Genbank	CDS	3273661	3273852	.	-	0	ID=cds-AEW20136.1;Parent=gene-BFO_3233;Dbxref=NCBI_GP:AEW20136.1;Name=AEW20136.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3233;product=hypothetical protein;protein_id=AEW20136.1;transl_table=11
+CP003191.1	Genbank	gene	3274423	3274539	.	-	.	ID=gene-BFO_3234;Name=BFO_3234;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3234
+CP003191.1	Genbank	CDS	3274423	3274539	.	-	0	ID=cds-AEW22247.1;Parent=gene-BFO_3234;Dbxref=NCBI_GP:AEW22247.1;Name=AEW22247.1;gbkey=CDS;locus_tag=BFO_3234;product=hypothetical protein;protein_id=AEW22247.1;transl_table=11
+CP003191.1	Genbank	gene	3274786	3274923	.	-	.	ID=gene-BFO_3235;Name=BFO_3235;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3235
+CP003191.1	Genbank	CDS	3274786	3274923	.	-	0	ID=cds-AEW21403.1;Parent=gene-BFO_3235;Dbxref=NCBI_GP:AEW21403.1;Name=AEW21403.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3235;product=hypothetical protein;protein_id=AEW21403.1;transl_table=11
+CP003191.1	Genbank	pseudogene	3309557	3310258	.	-	.	ID=gene-BFO_3276;Name=BFO_3276;Note=conserved hypothetical protein%3B this gene contains a premature stop which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_3276;pseudo=true
+CP003191.1	Genbank	pseudogene	3310268	3310531	.	-	.	ID=gene-BFO_3277;Name=BFO_3277;Note=conserved domain protein%3B this gene contains a premature stop which may be the result of a sequencing error;gbkey=Gene;gene_biotype=pseudogene;locus_tag=BFO_3277;pseudo=true
+CP003191.1	Genbank	gene	3361208	3361339	.	+	.	ID=gene-BFO_3318;Name=BFO_3318;gbkey=Gene;gene_biotype=protein_coding;locus_tag=BFO_3318
+CP003191.1	Genbank	CDS	3361208	3361339	.	+	0	ID=cds-AEW21241.1;Parent=gene-BFO_3318;Dbxref=NCBI_GP:AEW21241.1;Name=AEW21241.1;Note=identified by glimmer%3B putative;gbkey=CDS;locus_tag=BFO_3318;product=hypothetical protein;protein_id=AEW21241.1;transl_table=11
