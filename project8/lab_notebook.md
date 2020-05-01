@@ -192,6 +192,9 @@ Help message for read_fastx.py
 Warning! Biom python library not detected!
  Exporting to biom format will not work!
 Help message for read_fastx.py
+Warning! Biom python library not detected!
+ Exporting to biom format will not work!
+Help message for read_fastx.py
 ```
 
 
@@ -203,7 +206,7 @@ Time:
 `Tue Apr 28 22:22:07 MSK 2020`
 
 Command:  
-`merge_metaphlan_tables.py G12_output.txt SRS014459-Stool_profile.txt SRS014464-Anterior_nares_profile.txt SRS014470-Tongue_dorsum_profile.txt SRS014472-Buccal_mucosa_profile.txt SRS014494-Posterior_fornix_profile.txt > merged.txt`
+`merge_metaphlan_tables.py G12_output.txt SRS014476-Supragingival_plaque_profile.txt SRS014459-Stool_profile.txt SRS014464-Anterior_nares_profile.txt SRS014470-Tongue_dorsum_profile.txt SRS014472-Buccal_mucosa_profile.txt SRS014494-Posterior_fornix_profile.txt > merged.txt`
 
 Output:
 ```
